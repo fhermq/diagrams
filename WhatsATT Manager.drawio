@@ -1,27 +1,27 @@
-<mxfile modified="2023-03-25T04:28:37.005Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="naZqEI_IL6DUu-W6KlSG" version="21.1.0" type="github" pages="4">
+<mxfile modified="2023-03-25T04:50:35.440Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="31gTYgP3s71LWQ_H80Qu" version="21.1.0" type="github" pages="4">
   <diagram id="Io6qqEz0VGG8lpBbTZHO" name="Diagrama HL">
-    <mxGraphModel dx="3187" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3187" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="idVqmQN0-lgMuyCXY8RU-2" value="Integración con RTP" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=30;" vertex="1" parent="1">
-          <mxGeometry x="310" y="488" width="1120" height="410" as="geometry" />
+          <mxGeometry x="310" y="580" width="1120" height="410" as="geometry" />
         </mxCell>
         <mxCell id="idVqmQN0-lgMuyCXY8RU-8" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=none;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="538" width="400" height="320" as="geometry" />
+          <mxGeometry x="440" y="630" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="714.4736842105267" y="729" as="sourcePoint" />
-            <mxPoint x="534.0526315789475" y="729" as="targetPoint" />
+            <mxPoint x="714.4736842105267" y="821" as="sourcePoint" />
+            <mxPoint x="534.0526315789475" y="821" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="714" y="788" />
-              <mxPoint x="534" y="788" />
+              <mxPoint x="714" y="880" />
+              <mxPoint x="534" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-2" value="On-Premise" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#000000;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="538" width="310" height="320" as="geometry" />
+          <mxGeometry x="990" y="630" width="310" height="320" as="geometry" />
         </mxCell>
         <mxCell id="lWc6h3PrkDKyiJHSp3HH-1" value="Integración con AT&amp;amp;T" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="110" width="910" height="330" as="geometry" />
@@ -84,71 +84,71 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-1" value="VPN" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vpn_connection;" vertex="1" parent="1">
-          <mxGeometry x="880" y="659" width="70" height="78" as="geometry" />
+          <mxGeometry x="880" y="751" width="70" height="78" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="534.4736842105262" y="644" as="sourcePoint" />
-            <mxPoint x="714.0526315789475" y="644" as="targetPoint" />
+            <mxPoint x="534.4736842105262" y="736" as="sourcePoint" />
+            <mxPoint x="714.0526315789475" y="736" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="534" y="598" />
-              <mxPoint x="714" y="598" />
+              <mxPoint x="534" y="690" />
+              <mxPoint x="714" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/robot-128.png" vertex="1" parent="1">
-          <mxGeometry x="730" y="621.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="730" y="713.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-20" value="RTP&lt;br&gt;Campaign Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="645.5" width="129.55" height="95" as="geometry" />
+          <mxGeometry x="1080" y="737.5" width="129.55" height="95" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-22" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.sms;fillColor=#86D466;gradientColor=#42B418" vertex="1" parent="1">
-          <mxGeometry x="1346.91" y="599" width="46.5" height="46.5" as="geometry" />
+          <mxGeometry x="1346.91" y="691" width="46.5" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-24" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#666666;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_channel;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="667.13" width="35" height="42" as="geometry" />
+          <mxGeometry x="1290" y="759.13" width="35" height="42" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-25" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.email;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1346.9099999999999" y="678" width="52.68" height="40" as="geometry" />
+          <mxGeometry x="1346.9099999999999" y="770" width="52.68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mbKo5V_DVtGHA1E1RYWK-16" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" parent="1" vertex="1">
           <mxGeometry x="934" y="258" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-31" value="Robot&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;2way&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="676" y="650.5" width="73.5" height="73.5" as="geometry" />
+          <mxGeometry x="676" y="742.5" width="73.5" height="73.5" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-32" value="WhatsApp&lt;br style=&quot;border-color: var(--border-color); color: rgb(35, 47, 62); text-align: right;&quot;&gt;&lt;span style=&quot;color: rgb(35, 47, 62); text-align: right;&quot;&gt;Manager&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="500.03" y="652.25" width="71.75" height="71.75" as="geometry" />
+          <mxGeometry x="500.03" y="744.25" width="71.75" height="71.75" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="500.03" y="928" width="30" height="30" as="geometry" />
+          <mxGeometry x="500.03" y="1020" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-34" value="Applicación para la administración y configuración de Interacciones con WhatsApp" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="538.03" y="928" width="321.97" height="30" as="geometry" />
+          <mxGeometry x="538.03" y="1020" width="321.97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="502" y="978" width="30" height="30" as="geometry" />
+          <mxGeometry x="502" y="1070" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-36" value="Robot para aplicar las reglas de flujo de cada campaña o promoción para tomar decisiones durante la interacción con el usuario final" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="978" width="310" height="30" as="geometry" />
+          <mxGeometry x="540" y="1070" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-128.png" vertex="1" parent="1">
-          <mxGeometry x="334" y="655" width="67.5" height="67.5" as="geometry" />
+          <mxGeometry x="334" y="747" width="67.5" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-iphone-128.png" vertex="1" parent="1">
-          <mxGeometry x="1334.5" y="737" width="77.5" height="77.5" as="geometry" />
+          <mxGeometry x="1334.5" y="829" width="77.5" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="E_kv2T5svfEyYxgCmkpt-37" target="E_kv2T5svfEyYxgCmkpt-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="398" y="689" as="sourcePoint" />
-            <mxPoint x="402" y="688.1052631578948" as="targetPoint" />
+            <mxPoint x="398" y="781" as="sourcePoint" />
+            <mxPoint x="402" y="780.1052631578948" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="MVP 1 - Sandbox" id="BJoaFIh6yjqqxEX01Ofy">
-    <mxGraphModel dx="2049" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="gmBOiB6q5B-78Qpn2rzr-0" />
         <mxCell id="gmBOiB6q5B-78Qpn2rzr-1" parent="gmBOiB6q5B-78Qpn2rzr-0" />
