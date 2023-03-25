@@ -1,11 +1,11 @@
-<mxfile modified="2023-03-25T04:16:01.976Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3gvQh7DZtW7f4Q7sIubG" version="21.1.0" type="github" pages="4">
+<mxfile modified="2023-03-25T04:18:06.737Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GYumCTKr8wrs08S22OJm" version="21.1.0" type="github" pages="4">
   <diagram id="Io6qqEz0VGG8lpBbTZHO" name="Diagrama HL">
-    <mxGraphModel dx="1793" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="idVqmQN0-lgMuyCXY8RU-2" value="Integración con RTP" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=30;" vertex="1" parent="1">
-          <mxGeometry x="370" y="430" width="1120" height="440" as="geometry" />
+          <mxGeometry x="370" y="430" width="1120" height="410" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_kv2T5svfEyYxgCmkpt-6" target="E_kv2T5svfEyYxgCmkpt-3">
           <mxGeometry relative="1" as="geometry">
@@ -121,6 +121,15 @@
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-128.png" vertex="1" parent="1">
           <mxGeometry x="1040" y="603.5" width="67.5" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kv2T5svfEyYxgCmkpt-29" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="462" y="880" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kv2T5svfEyYxgCmkpt-30" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="462" y="608.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_kv2T5svfEyYxgCmkpt-31" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="777" y="607.5" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
