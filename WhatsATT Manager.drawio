@@ -1,6 +1,6 @@
-<mxfile modified="2023-03-25T04:50:35.440Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="31gTYgP3s71LWQ_H80Qu" version="21.1.0" type="github" pages="4">
+<mxfile modified="2023-03-27T15:01:56.835Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0h8XJCIN3VQ82aKxUjOl" version="21.1.0" type="github" pages="4">
   <diagram id="Io6qqEz0VGG8lpBbTZHO" name="Diagrama HL">
-    <mxGraphModel dx="3187" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-2" value="On-Premise" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#000000;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="630" width="310" height="320" as="geometry" />
+          <mxGeometry x="990" y="630" width="330" height="320" as="geometry" />
         </mxCell>
         <mxCell id="lWc6h3PrkDKyiJHSp3HH-1" value="Integración con AT&amp;amp;T" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="110" width="910" height="330" as="geometry" />
@@ -148,7 +148,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MVP 1 - Sandbox" id="BJoaFIh6yjqqxEX01Ofy">
-    <mxGraphModel dx="3585" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="gmBOiB6q5B-78Qpn2rzr-0" />
         <mxCell id="gmBOiB6q5B-78Qpn2rzr-1" parent="gmBOiB6q5B-78Qpn2rzr-0" />
