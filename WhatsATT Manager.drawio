@@ -1,6 +1,6 @@
-<mxfile modified="2023-03-27T15:01:56.835Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0h8XJCIN3VQ82aKxUjOl" version="21.1.0" type="github" pages="4">
+<mxfile modified="2023-03-27T15:02:40.766Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qbIZbD6QEDK1_pSlulRJ" version="21.1.0" type="github" pages="4">
   <diagram id="Io6qqEz0VGG8lpBbTZHO" name="Diagrama HL">
-    <mxGraphModel dx="913" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-2" value="On-Premise" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#000000;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="630" width="330" height="320" as="geometry" />
+          <mxGeometry x="990" y="630" width="380" height="320" as="geometry" />
         </mxCell>
         <mxCell id="lWc6h3PrkDKyiJHSp3HH-1" value="Integración con AT&amp;amp;T" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="110" width="910" height="330" as="geometry" />
@@ -103,13 +103,10 @@
           <mxGeometry x="1080" y="737.5" width="129.55" height="95" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-22" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.sms;fillColor=#86D466;gradientColor=#42B418" vertex="1" parent="1">
-          <mxGeometry x="1346.91" y="691" width="46.5" height="46.5" as="geometry" />
+          <mxGeometry x="1288" y="697.75" width="46.5" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-24" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#666666;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_channel;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="759.13" width="35" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="E_kv2T5svfEyYxgCmkpt-25" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.email;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1346.9099999999999" y="770" width="52.68" height="40" as="geometry" />
+          <mxGeometry x="1230" y="764" width="35" height="42" as="geometry" />
         </mxCell>
         <mxCell id="mbKo5V_DVtGHA1E1RYWK-16" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" parent="1" vertex="1">
           <mxGeometry x="934" y="258" width="30" height="30" as="geometry" />
@@ -135,14 +132,17 @@
         <mxCell id="E_kv2T5svfEyYxgCmkpt-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-128.png" vertex="1" parent="1">
           <mxGeometry x="334" y="747" width="67.5" height="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="E_kv2T5svfEyYxgCmkpt-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-iphone-128.png" vertex="1" parent="1">
-          <mxGeometry x="1334.5" y="829" width="77.5" height="77.5" as="geometry" />
-        </mxCell>
         <mxCell id="E_kv2T5svfEyYxgCmkpt-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="E_kv2T5svfEyYxgCmkpt-37" target="E_kv2T5svfEyYxgCmkpt-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="398" y="781" as="sourcePoint" />
             <mxPoint x="402" y="780.1052631578948" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0eJ0yHEzY1M87zZovxct-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.email;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1281.8199999999997" y="764" width="52.68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0eJ0yHEzY1M87zZovxct-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-iphone-128.png" vertex="1" parent="1">
+          <mxGeometry x="1272.5" y="816" width="77.5" height="77.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
