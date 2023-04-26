@@ -1,4 +1,4 @@
-<mxfile modified="2023-04-26T22:46:19.552Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_385QSF6qOTTq6X5aQMw" version="21.1.2" type="github" pages="5">
+<mxfile modified="2023-04-26T22:47:33.664Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="H4Z_YrhLzBbhnAt_pnDr" version="21.1.2" type="github" pages="5">
   <diagram id="Io6qqEz0VGG8lpBbTZHO" name="Diagrama HL">
     <mxGraphModel dx="1687" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,14 +388,23 @@
         <mxCell id="XaujFBTC3qLAy2AeMKZo-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://netmind.net/es/wp-content/uploads/2020/08/DevOps-Best-Practice_1080.png;" vertex="1" parent="FdJkH-COy_yF1PPLPrs4-1">
           <mxGeometry x="530" y="440" width="1310.08" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="XaujFBTC3qLAy2AeMKZo-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.visualstudio.com/assets/images/code-stable.png;" vertex="1" parent="FdJkH-COy_yF1PPLPrs4-1">
-          <mxGeometry x="880" y="300" width="70" height="70" as="geometry" />
+        <mxCell id="XaujFBTC3qLAy2AeMKZo-9" value="" style="group" vertex="1" connectable="0" parent="FdJkH-COy_yF1PPLPrs4-1">
+          <mxGeometry x="690" y="300" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XaujFBTC3qLAy2AeMKZo-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.inovex.de/wp-content/uploads/2021/04/training-spring-boot.png;clipPath=inset(33.33% 7.33% 33.33% 7.33%);" vertex="1" parent="FdJkH-COy_yF1PPLPrs4-1">
-          <mxGeometry x="640" y="300" width="179.2" height="70" as="geometry" />
+        <mxCell id="XaujFBTC3qLAy2AeMKZo-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://code.visualstudio.com/assets/images/code-stable.png;" vertex="1" parent="XaujFBTC3qLAy2AeMKZo-9">
+          <mxGeometry x="240" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XaujFBTC3qLAy2AeMKZo-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.arstechnica.net/wp-content/uploads/2016/01/openjdk.jpg;clipPath=inset(11.64% 2% 18.55% 3.33%);" vertex="1" parent="FdJkH-COy_yF1PPLPrs4-1">
-          <mxGeometry x="640.1" y="390" width="179.1" height="70" as="geometry" />
+        <mxCell id="XaujFBTC3qLAy2AeMKZo-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.inovex.de/wp-content/uploads/2021/04/training-spring-boot.png;clipPath=inset(33.33% 7.33% 33.33% 7.33%);" vertex="1" parent="XaujFBTC3qLAy2AeMKZo-9">
+          <mxGeometry width="179.2" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XaujFBTC3qLAy2AeMKZo-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.arstechnica.net/wp-content/uploads/2016/01/openjdk.jpg;clipPath=inset(11.64% 2% 18.55% 3.33%);" vertex="1" parent="XaujFBTC3qLAy2AeMKZo-9">
+          <mxGeometry x="0.10000000000002274" y="90" width="179.1" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XaujFBTC3qLAy2AeMKZo-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png;" vertex="1" parent="XaujFBTC3qLAy2AeMKZo-9">
+          <mxGeometry x="210" y="90" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XaujFBTC3qLAy2AeMKZo-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png;" vertex="1" parent="XaujFBTC3qLAy2AeMKZo-9">
+          <mxGeometry x="300" y="90" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
