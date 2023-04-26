@@ -1,4 +1,4 @@
-<mxfile modified="2023-04-26T22:25:13.134Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vXiRbc7wVnz9cr11Lbar" version="21.1.2" type="github" pages="5">
+<mxfile modified="2023-04-26T22:32:37.853Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="bZYJvsgrHAZpR9SfPF8R" version="21.1.2" type="github" pages="5">
   <diagram id="Io6qqEz0VGG8lpBbTZHO" name="Diagrama HL">
     <mxGraphModel dx="1687" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -384,6 +384,9 @@
         </mxCell>
         <mxCell id="FdJkH-COy_yF1PPLPrs4-5" value="" style="line;strokeWidth=2;html=1;fontSize=14;labelBackgroundColor=none;" parent="FdJkH-COy_yF1PPLPrs4-1" vertex="1">
           <mxGeometry x="23.5" y="96.5" width="1587.5" height="14.32" as="geometry" />
+        </mxCell>
+        <mxCell id="XaujFBTC3qLAy2AeMKZo-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://netmind.net/es/wp-content/uploads/2020/08/DevOps-Best-Practice_1080.png;" vertex="1" parent="FdJkH-COy_yF1PPLPrs4-1">
+          <mxGeometry x="530" y="440" width="1310.08" height="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
