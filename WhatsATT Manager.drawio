@@ -1,4 +1,4 @@
-<mxfile modified="2023-04-26T22:50:49.320Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="YrpKRxVTIvltIBvLtH92" version="21.1.2" type="github" pages="5">
+<mxfile modified="2023-04-26T22:52:34.461Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="u0o4iru5JQJJ_Q3y-2xK" version="21.1.2" type="github" pages="5">
   <diagram id="Io6qqEz0VGG8lpBbTZHO" name="Diagrama HL">
     <mxGraphModel dx="1687" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -372,10 +372,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DevOps" id="PJP4HrNxYbf5CJHof-dZ">
-    <mxGraphModel dx="667" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="FdJkH-COy_yF1PPLPrs4-0" />
         <mxCell id="FdJkH-COy_yF1PPLPrs4-1" parent="FdJkH-COy_yF1PPLPrs4-0" />
+        <mxCell id="XaujFBTC3qLAy2AeMKZo-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://netmind.net/es/wp-content/uploads/2020/08/DevOps-Best-Practice_1080.png;" vertex="1" parent="FdJkH-COy_yF1PPLPrs4-1">
+          <mxGeometry x="530" y="440" width="1310.08" height="650" as="geometry" />
+        </mxCell>
         <mxCell id="FdJkH-COy_yF1PPLPrs4-3" value="Whats AT&amp;amp;T Manager" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;" parent="FdJkH-COy_yF1PPLPrs4-1" vertex="1">
           <mxGeometry x="27.5" y="21.5" width="330" height="40" as="geometry" />
         </mxCell>
@@ -384,9 +387,6 @@
         </mxCell>
         <mxCell id="FdJkH-COy_yF1PPLPrs4-5" value="" style="line;strokeWidth=2;html=1;fontSize=14;labelBackgroundColor=none;" parent="FdJkH-COy_yF1PPLPrs4-1" vertex="1">
           <mxGeometry x="23.5" y="96.5" width="1587.5" height="14.32" as="geometry" />
-        </mxCell>
-        <mxCell id="XaujFBTC3qLAy2AeMKZo-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://netmind.net/es/wp-content/uploads/2020/08/DevOps-Best-Practice_1080.png;" vertex="1" parent="FdJkH-COy_yF1PPLPrs4-1">
-          <mxGeometry x="530" y="440" width="1310.08" height="650" as="geometry" />
         </mxCell>
         <mxCell id="XaujFBTC3qLAy2AeMKZo-9" value="" style="group" vertex="1" connectable="0" parent="FdJkH-COy_yF1PPLPrs4-1">
           <mxGeometry x="690" y="300" width="370" height="160" as="geometry" />
@@ -412,10 +412,19 @@
         <mxCell id="XaujFBTC3qLAy2AeMKZo-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://itrack.web.att.com/s/-hgg56d/820021/1murkwm/_/jira-logo-scaled.png;imageBackground=#6972ec;" vertex="1" parent="FdJkH-COy_yF1PPLPrs4-1">
           <mxGeometry x="1169" y="414" width="175" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XaujFBTC3qLAy2AeMKZo-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.414;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FdJkH-COy_yF1PPLPrs4-1" target="XaujFBTC3qLAy2AeMKZo-11">
+        <mxCell id="XaujFBTC3qLAy2AeMKZo-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.414;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FdJkH-COy_yF1PPLPrs4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1180" y="630" as="sourcePoint" />
-            <mxPoint x="1230" y="580" as="targetPoint" />
+            <mxPoint x="1170" y="639" as="sourcePoint" />
+            <mxPoint x="1231.4499999999998" y="492.44000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaujFBTC3qLAy2AeMKZo-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img2.storyblok.com/672x0/filters:format(webp)/f/79165/1200x630/ebb5571e69/github-action-01.png;clipPath=inset(18.35% 18.67% 18.35% 21.33%);imageBackground=default;" vertex="1" parent="FdJkH-COy_yF1PPLPrs4-1">
+          <mxGeometry x="1090" y="1070" width="216" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XaujFBTC3qLAy2AeMKZo-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="FdJkH-COy_yF1PPLPrs4-1" target="XaujFBTC3qLAy2AeMKZo-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1159.9970093457941" y="880" as="sourcePoint" />
+            <mxPoint x="1264" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
