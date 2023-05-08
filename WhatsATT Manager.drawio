@@ -1,4 +1,4 @@
-<mxfile modified="2023-05-08T22:14:15.419Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zSuMa9GuiLEAWL0ydN9F" version="21.2.8" type="github" pages="6">
+<mxfile modified="2023-05-08T22:20:48.653Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="F1L4ZCS4wwKjg5bji2dy" version="21.2.8" type="github" pages="6">
   <diagram id="Io6qqEz0VGG8lpBbTZHO" name="Diagrama HL">
     <mxGraphModel dx="1687" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -989,6 +989,9 @@
         </mxCell>
         <mxCell id="RsfKH7CAoY3FuNzGYHVG-728" value="&lt;font color=&quot;#181615&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;Internet&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;fontFamily=Oracle Sans;fontSize=11;align=center;arcSize=10;verticalAlign=top;spacingRight=5;fontColor=#312D2A;fillColor=#F5F4F2;strokeColor=#9E9892;" vertex="1" parent="rYf8rAwTgAOZOOLecMwy-1">
           <mxGeometry x="902" y="1789" width="110" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="RsfKH7CAoY3FuNzGYHVG-729" value="WhatsAPP&lt;br&gt;API" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.whatsapp;fillColor=#00E676;strokeColor=#dddddd" vertex="1" parent="rYf8rAwTgAOZOOLecMwy-1">
+          <mxGeometry x="933" y="1834.5" width="40.78" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
