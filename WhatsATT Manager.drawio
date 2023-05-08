@@ -1,4 +1,4 @@
-<mxfile modified="2023-05-08T19:10:45.160Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="CoJ8r1jFF9ocLjPHKH5I" version="21.2.8" type="github" pages="6">
+<mxfile modified="2023-05-08T19:29:05.886Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="mCr9P7ICblOgRA3vQcGq" version="21.2.8" type="github" pages="6">
   <diagram id="Io6qqEz0VGG8lpBbTZHO" name="Diagrama HL">
     <mxGraphModel dx="1687" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -356,8 +356,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Sandbox Oracle" id="yr9hmUgraYlD-oFakdDH">
-    <mxGraphModel dx="1434" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram name="Sandbox Logical Oracle" id="yr9hmUgraYlD-oFakdDH">
+    <mxGraphModel dx="2390" dy="1232" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rYf8rAwTgAOZOOLecMwy-0" />
         <mxCell id="rYf8rAwTgAOZOOLecMwy-1" parent="rYf8rAwTgAOZOOLecMwy-0" />
