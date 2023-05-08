@@ -1,4 +1,4 @@
-<mxfile modified="2023-05-08T22:42:14.759Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="b4iJ0l2kcHI0iZacWuhx" version="21.2.8" type="github" pages="6">
+<mxfile modified="2023-05-08T22:42:51.380Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jmpz07mzVNFyZmNUNJ7P" version="21.2.8" type="github" pages="6">
   <diagram id="Io6qqEz0VGG8lpBbTZHO" name="Diagrama HL">
     <mxGraphModel dx="3077" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,7 +148,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Sandbox Physical Oracle" id="yr9hmUgraYlD-oFakdDH">
-    <mxGraphModel dx="3077" dy="1933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1319" dy="829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="rYf8rAwTgAOZOOLecMwy-0" />
         <mxCell id="rYf8rAwTgAOZOOLecMwy-1" parent="rYf8rAwTgAOZOOLecMwy-0" />
