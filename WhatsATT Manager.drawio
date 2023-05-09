@@ -1,4 +1,4 @@
-<mxfile modified="2023-05-09T14:48:26.390Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="aweZnAQI1G7bVDHlGpDa" version="21.2.8" type="github" pages="7">
+<mxfile modified="2023-05-09T15:52:40.937Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="9MOd6Z17Q8WoZaskvz6g" version="21.2.8" type="github" pages="7">
   <diagram id="Io6qqEz0VGG8lpBbTZHO" name="Diagrama HL">
     <mxGraphModel dx="2308" dy="1450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Sandbox Physical Oracle" id="yr9hmUgraYlD-oFakdDH">
-    <mxGraphModel dx="923" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1474" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="rYf8rAwTgAOZOOLecMwy-0" />
         <mxCell id="rYf8rAwTgAOZOOLecMwy-1" parent="rYf8rAwTgAOZOOLecMwy-0" />
@@ -510,7 +510,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Sandbox Logical Oracle" id="v0Kl-3imBJhJD3FN_hOA">
-    <mxGraphModel dx="803" dy="504" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1154" dy="725" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="u9fD4lbNpD-9Jz380qQt-0" />
         <mxCell id="u9fD4lbNpD-9Jz380qQt-1" parent="u9fD4lbNpD-9Jz380qQt-0" />
