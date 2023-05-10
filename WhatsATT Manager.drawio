@@ -1,4 +1,4 @@
-<mxfile modified="2023-05-10T17:52:50.707Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="9vQMYnszzATUQW46Xowg" version="21.2.9" type="github" pages="7">
+<mxfile modified="2023-05-10T18:14:04.283Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Zha1-_QC3lEogcwEfVIa" version="21.2.9" type="github" pages="7">
   <diagram id="Io6qqEz0VGG8lpBbTZHO" name="Diagrama HL">
     <mxGraphModel dx="1050" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Sandbox Physical Oracle" id="yr9hmUgraYlD-oFakdDH">
-    <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="rYf8rAwTgAOZOOLecMwy-0" />
         <mxCell id="rYf8rAwTgAOZOOLecMwy-1" parent="rYf8rAwTgAOZOOLecMwy-0" />
@@ -494,8 +494,8 @@
         <mxCell id="lmPjw-6LhJhG0HXoqW5j-18" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;VPN&lt;br&gt;Connection&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.vpn_connection;" parent="lmPjw-6LhJhG0HXoqW5j-34" vertex="1">
           <mxGeometry x="89" y="417.5" width="29" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="lmPjw-6LhJhG0HXoqW5j-30" value="RTP&lt;br&gt;(Campaign Manager)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;" parent="lmPjw-6LhJhG0HXoqW5j-34" vertex="1">
-          <mxGeometry x="27.829999999999984" y="154.96000000000004" width="54.66615789473685" height="57.04225352112677" as="geometry" />
+        <mxCell id="lmPjw-6LhJhG0HXoqW5j-30" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;RTP&lt;br&gt;(Campaign Manager)&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;" parent="lmPjw-6LhJhG0HXoqW5j-34" vertex="1">
+          <mxGeometry x="31.669999999999984" y="182.00000000000003" width="54.66615789473685" height="57.04225352112677" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
