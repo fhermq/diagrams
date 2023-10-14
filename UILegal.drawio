@@ -1,4 +1,4 @@
-<mxfile modified="2023-10-14T01:16:39.484Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="m26s1mX3ueEjE7Bp3Hv_" version="22.0.4" type="github" pages="2">
+<mxfile modified="2023-10-14T01:16:56.587Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Ei2jlywUilB8_Gy2SYyX" version="22.0.4" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2049" dy="1956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -473,7 +473,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5NPzPns1w73OyagYWe0C-182" value="&lt;h1&gt;UI Legal&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;Version 1.0&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5NPzPns1w73OyagYWe0C-182" value="&lt;h1 style=&quot;font-size: 22px;&quot;&gt;UI Legal&lt;/h1&gt;&lt;p style=&quot;font-size: 22px;&quot;&gt;Version 1.0&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-1078" y="-1690" width="978" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5NPzPns1w73OyagYWe0C-184" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-react-128.png;imageBorder=none;imageBackground=default;" vertex="1" parent="1">
