@@ -1,6 +1,6 @@
-<mxfile modified="2023-10-31T17:41:22.486Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Tg5bpzFtTYvaxWmuYavz" version="22.0.8" type="github">
+<mxfile modified="2023-10-31T17:42:17.412Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Qm3P74K8qSQxAasnLk9d" version="22.0.8" type="github">
   <diagram id="HqGw81IQGXD3qYASmn3F" name="HL">
-    <mxGraphModel dx="4590" dy="3867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3634" dy="3340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,7 +303,7 @@
         <mxCell id="5NPzPns1w73OyagYWe0C-177" value="Developer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Coding-Html-128.png;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-2168" y="-2169.25" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="5NPzPns1w73OyagYWe0C-182" value="&lt;h1 style=&quot;font-size: 22px;&quot;&gt;UI Legal&lt;/h1&gt;&lt;p style=&quot;font-size: 22px;&quot;&gt;Version 1.0&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=22;" parent="1" vertex="1">
+        <mxCell id="5NPzPns1w73OyagYWe0C-182" value="&lt;h1 style=&quot;font-size: 22px;&quot;&gt;WebBo&lt;/h1&gt;&lt;p style=&quot;font-size: 22px;&quot;&gt;Version 1.0&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="-2140" y="-2450" width="978" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5NPzPns1w73OyagYWe0C-184" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-react-128.png;imageBorder=none;imageBackground=default;" parent="1" vertex="1">
