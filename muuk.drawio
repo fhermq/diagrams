@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T23:14:07.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zQH5ZFS96nsWfdo98e5s" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T23:22:02.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="P8KhVmiZsazbycNL991B" version="22.1.16" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1050" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1061" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,8 +146,8 @@
         </mxCell>
         <mxCell id="AJc4rUXXtGQaCCCdxWZH-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="170" as="sourcePoint" />
-            <mxPoint x="860" y="170" as="targetPoint" />
+            <mxPoint x="730" y="263" as="sourcePoint" />
+            <mxPoint x="860" y="263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AJc4rUXXtGQaCCCdxWZH-24" value="Recuperar documentos de MUUK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AJc4rUXXtGQaCCCdxWZH-23">
@@ -157,19 +157,19 @@
         </mxCell>
         <mxCell id="AJc4rUXXtGQaCCCdxWZH-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="735" y="239.66" as="sourcePoint" />
-            <mxPoint x="865" y="239.66" as="targetPoint" />
+            <mxPoint x="735" y="331.65999999999997" as="sourcePoint" />
+            <mxPoint x="865" y="331.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AJc4rUXXtGQaCCCdxWZH-26" value="Almacenar en DocRep" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AJc4rUXXtGQaCCCdxWZH-25">
           <mxGeometry x="0.4058" y="-1" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AJc4rUXXtGQaCCCdxWZH-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="310" as="sourcePoint" />
-            <mxPoint x="870" y="310" as="targetPoint" />
+            <mxPoint x="740" y="378" as="sourcePoint" />
+            <mxPoint x="870" y="378" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AJc4rUXXtGQaCCCdxWZH-29" value="Enviar Correo Electronico(documentos firmados)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AJc4rUXXtGQaCCCdxWZH-28">
@@ -179,13 +179,33 @@
         </mxCell>
         <mxCell id="AJc4rUXXtGQaCCCdxWZH-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="130" as="sourcePoint" />
-            <mxPoint x="880" y="130" as="targetPoint" />
+            <mxPoint x="750" y="222" as="sourcePoint" />
+            <mxPoint x="880" y="222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AJc4rUXXtGQaCCCdxWZH-31" value="Notificar clientes: Ecoomerce , Webbo, Mi AT&amp;amp;T" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AJc4rUXXtGQaCCCdxWZH-30">
           <mxGeometry x="0.4058" y="-1" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AJc4rUXXtGQaCCCdxWZH-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="727.73" y="150" as="sourcePoint" />
+            <mxPoint x="432.27761904761905" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AJc4rUXXtGQaCCCdxWZH-33" value="Obtener los documentos certificados" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AJc4rUXXtGQaCCCdxWZH-32">
+          <mxGeometry x="0.4058" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AJc4rUXXtGQaCCCdxWZH-34" value="Documento 2" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="AJc4rUXXtGQaCCCdxWZH-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="505" y="170" />
+            </Array>
+            <mxPoint x="425" y="170" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
