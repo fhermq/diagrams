@@ -1,9 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T04:14:33.607Z" agent="Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/120.0.6099.119 Mobile/15E148 Safari/604.1" version="22.1.21" etag="8r8HfFchFPxEHbd5S5Lv" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T04:43:21.513Z" agent="Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/120.0.6099.119 Mobile/15E148 Safari/604.1" etag="wZuIWfAyju4e_G6hjw7X" version="22.1.21" type="github">
   <diagram name="Página-1" id="C5syuHeXyJQQJyi5ZcAi">
-    <mxGraphModel>
+    <mxGraphModel dx="2083" dy="1203" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SpPwOq43HysEisvclOw7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="SpPwOq43HysEisvclOw7-10" target="SpPwOq43HysEisvclOw7-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-299.44444444444457" y="-292" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/devices-42/1600/Watch_2-128.png" vertex="1" parent="1">
+          <mxGeometry x="-599" y="-236" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="SpPwOq43HysEisvclOw7-14" target="SpPwOq43HysEisvclOw7-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.house;" vertex="1" parent="1">
+          <mxGeometry x="18" y="-240" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="SpPwOq43HysEisvclOw7-15" target="SpPwOq43HysEisvclOw7-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/christmas-free-icon-pack/128/store-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1" y="-62" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="SpPwOq43HysEisvclOw7-21" target="SpPwOq43HysEisvclOw7-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-21" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.client_application" vertex="1" parent="1">
+          <mxGeometry x="-579.5" y="-67" width="112.5" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-46" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="-357" y="-171" width="248" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="SpPwOq43HysEisvclOw7-50" target="SpPwOq43HysEisvclOw7-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-50" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.enterprise" vertex="1" parent="1">
+          <mxGeometry x="-360" y="115" width="82.8" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="SpPwOq43HysEisvclOw7-58" target="SpPwOq43HysEisvclOw7-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-58" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/clinical-3/96/medical-kit-128.png" vertex="1" parent="1">
+          <mxGeometry x="-142" y="120" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-64" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
+          <mxGeometry x="-777" y="-139" width="99" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="SpPwOq43HysEisvclOw7-66" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.eventbridge_saas_partner_event_bus_resource;" vertex="1" parent="1">
+          <mxGeometry x="-272" y="-122" width="78" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
