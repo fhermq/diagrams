@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-27T16:17:33.450Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="0XpeHZwfICfD3UiRcYBC" version="24.1.0" type="github" pages="8">
+<mxfile modified="2024-03-27T16:22:08.948Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="AVlgOET3iCdrG7R8gruK" version="24.1.0" type="github" pages="8">
   <diagram name="DevOps" id="PJP4HrNxYbf5CJHof-dZ">
     <mxGraphModel dx="2100" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -224,11 +224,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c9tPHu1O2eDYaaoyNGt_-8" value="React Components" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="380" height="450" as="geometry" />
+        <mxCell id="c9tPHu1O2eDYaaoyNGt_-8" value="React Components" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="380" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="c9tPHu1O2eDYaaoyNGt_-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="180" width="220" height="120" as="geometry" />
+        <mxCell id="c9tPHu1O2eDYaaoyNGt_-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;recursiveResize=0;fontSize=12;html=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="228" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="c9tPHu1O2eDYaaoyNGt_-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="c9tPHu1O2eDYaaoyNGt_-1">
+          <mxGeometry x="-20" y="-42.5" width="290" height="222.5" as="geometry" />
         </mxCell>
         <mxCell id="c9tPHu1O2eDYaaoyNGt_-2" value="AT&amp;amp;T Ármalo 3GB" style="shape=ellipse;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="c9tPHu1O2eDYaaoyNGt_-1">
           <mxGeometry x="8" y="7.5" width="15" height="15" as="geometry" />
@@ -244,6 +247,9 @@
         </mxCell>
         <mxCell id="c9tPHu1O2eDYaaoyNGt_-6" value="AT&amp;amp;T Ármalo 10GB" style="shape=ellipse;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="c9tPHu1O2eDYaaoyNGt_-1">
           <mxGeometry x="8" y="97.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="c9tPHu1O2eDYaaoyNGt_-9" value="Elegir" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=12;fillColor=#dae8fc;align=center;strokeColor=#6c8ebf;" vertex="1" parent="c9tPHu1O2eDYaaoyNGt_-1">
+          <mxGeometry x="8" y="140" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c9tPHu1O2eDYaaoyNGt_-7" value="Comercial Offer" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="140" width="150" height="30" as="geometry" />
