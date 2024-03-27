@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-27T22:44:42.850Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3Nn2ItCgkSZelynFsCGj" version="24.1.0" type="github" pages="8">
+<mxfile modified="2024-03-27T22:55:51.998Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CTSWa2GQl-y88qar644Q" version="24.1.0" type="github" pages="8">
   <diagram name="DevOps" id="PJP4HrNxYbf5CJHof-dZ">
     <mxGraphModel dx="2868" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -220,7 +220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="08VAnodDuosofmSO0ZX_" name="Evolution">
-    <mxGraphModel dx="3687" dy="1669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4390" dy="2032" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -811,19 +811,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7QpSDfhM8aGlNv_x_Z0e-36" value="K2View" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-1615" y="2818" width="312" height="220" as="geometry" />
+          <mxGeometry x="-1615" y="2818" width="357" height="220" as="geometry" />
         </mxCell>
         <mxCell id="7QpSDfhM8aGlNv_x_Z0e-37" value="Bluemarble" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-1260" y="2816" width="434" height="220" as="geometry" />
+          <mxGeometry x="-1211" y="2818" width="434" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="7QpSDfhM8aGlNv_x_Z0e-38" value="WSO2 API Gateway" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="7QpSDfhM8aGlNv_x_Z0e-38" value="WSO2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-1615" y="2669" width="2107" height="106" as="geometry" />
         </mxCell>
         <mxCell id="7QpSDfhM8aGlNv_x_Z0e-39" value="AT&amp;amp;T Microservices" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="2816" width="461" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="7QpSDfhM8aGlNv_x_Z0e-40" value="AT&amp;amp;T Legacy Services" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-771" y="2816" width="467" height="220" as="geometry" />
+          <mxGeometry x="-238" y="2818" width="446" height="220" as="geometry" />
         </mxCell>
         <mxCell id="7QpSDfhM8aGlNv_x_Z0e-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Marketplace&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.marketplace;labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="344" y="2089" width="129" height="129" as="geometry" />
@@ -848,6 +845,24 @@
         </mxCell>
         <mxCell id="7QpSDfhM8aGlNv_x_Z0e-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.firmaautografa.com/assets/images/na-at-logo.png;fontColor=default;labelBorderColor=none;textShadow=0;imageBackground=none;imageBorder=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="318" y="2989" width="78.42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7QpSDfhM8aGlNv_x_Z0e-52" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-740" y="2818" width="467" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7QpSDfhM8aGlNv_x_Z0e-40" value="AT&amp;amp;T Legacy Services" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="7QpSDfhM8aGlNv_x_Z0e-52">
+          <mxGeometry width="467" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7QpSDfhM8aGlNv_x_Z0e-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.ventasdeseguridad.com/images/stories/VDS/users/sjaramillo1/idemia-1.jpg;shadow=0;imageBackground=none;noLabel=0;clipPath=inset(22.67% 0.33% 22.67% 0%);" vertex="1" parent="7QpSDfhM8aGlNv_x_Z0e-52">
+          <mxGeometry x="307" y="159" width="105.75" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="7QpSDfhM8aGlNv_x_Z0e-53" value="Integration" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1427" y="2691" width="142" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7QpSDfhM8aGlNv_x_Z0e-54" value="CIAM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1022" y="2691" width="142" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7QpSDfhM8aGlNv_x_Z0e-55" value="API Manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-349" y="2691" width="142" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
