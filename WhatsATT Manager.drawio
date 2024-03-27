@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-27T23:34:10.683Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kMpY4Gon0GX8FF1VHIMG" version="24.1.0" type="github" pages="8">
+<mxfile modified="2024-03-27T23:35:45.492Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CiOUyIIUi2eDKtA2_o2q" version="24.1.0" type="github" pages="8">
   <diagram name="DevOps" id="PJP4HrNxYbf5CJHof-dZ">
     <mxGraphModel dx="2868" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -220,7 +220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="08VAnodDuosofmSO0ZX_" name="Evolution">
-    <mxGraphModel dx="4390" dy="2032" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5585" dy="2648" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -908,9 +908,6 @@
         </mxCell>
         <mxCell id="7QpSDfhM8aGlNv_x_Z0e-70" value="WebBo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-556" y="2534" width="142" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="7QpSDfhM8aGlNv_x_Z0e-71" value="UI Facial" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="15.700000000000045" y="2531" width="142" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7QpSDfhM8aGlNv_x_Z0e-72" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cloudmasters.la//imagenes/cca170312315_avayaslide-1.png;" vertex="1" parent="1">
           <mxGeometry x="-941" y="2535.14" width="85.06" height="55.86" as="geometry" />
