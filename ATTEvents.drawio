@@ -1,6 +1,6 @@
-<mxfile modified="2024-04-05T19:40:56.629Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OIj2fCLJBJUntdWY-u_H" version="24.2.2" type="github">
+<mxfile modified="2024-04-05T19:43:03.260Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="nLwix8qvBv9g4y8aqqey" version="24.2.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="913" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,6 +67,9 @@
         <mxCell id="RVcMEjA6S_0DqBw0juKY-9" value="6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="h6jfpJUwD-NlQoihY7gU-56">
           <mxGeometry x="281.5" y="197.75" width="40" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="RVcMEjA6S_0DqBw0juKY-15" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="h6jfpJUwD-NlQoihY7gU-56">
+          <mxGeometry x="120" y="325" width="40" height="38" as="geometry" />
+        </mxCell>
         <mxCell id="h6jfpJUwD-NlQoihY7gU-57" value="Amazon S3 App Logs" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;labelBackgroundColor=none;" parent="jZVaUwOg5UY3L9NAnvdq-71" vertex="1">
           <mxGeometry x="256" y="650" width="78" height="78" as="geometry" />
         </mxCell>
@@ -94,7 +97,7 @@
           <mxGeometry x="597" y="335" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="125" width="539" height="713.5" as="geometry" />
+          <mxGeometry x="1220" y="125" width="539" height="745" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-36" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1238.5" y="137.5" width="40" height="38" as="geometry" />
@@ -120,11 +123,8 @@
         <mxCell id="SCVMTBWpLvtzJIhz15lM-1" value="" style="line;strokeWidth=2;html=1;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="32.5" y="101.5" width="1717.5" height="16.2" as="geometry" />
         </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-6" value="&lt;span&gt;Sitio Web Responsivo que permite consumirse por medio de un dominio p{ublico&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="137" width="449" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVMTBWpLvtzJIhz15lM-7" value="Aplicación React Native gestionada por Cloud Front" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1289" y="260" width="450" height="115" as="geometry" />
+        <mxCell id="SCVMTBWpLvtzJIhz15lM-6" value="&lt;span&gt;Sitio Web Responsivo&amp;nbsp;&amp;nbsp;&lt;/span&gt;React Native gestionada por Cloud Front" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="137" width="449" height="83" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-9" value="&lt;span&gt;APIs Lambdas para operaciones CRUD en la Base de Datos&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1289" y="378" width="450" height="117" as="geometry" />
@@ -179,6 +179,15 @@
         </mxCell>
         <mxCell id="RVcMEjA6S_0DqBw0juKY-12" value="API Lambda que autoriza y valida los tokens de los clientes que consumen las APIS" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1291.5" y="690" width="449" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RVcMEjA6S_0DqBw0juKY-13" value="7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="780" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="RVcMEjA6S_0DqBw0juKY-14" value="KMS firma los tokens de los clientes autorizados." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1291.5" y="780" width="449" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RVcMEjA6S_0DqBw0juKY-16" value="&lt;span&gt;API Gateway que expone las funciones lambda como APIs, de forma segura por media de autorizador OAUTH&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1288" y="262.5" width="450" height="87.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
