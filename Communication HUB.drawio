@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T19:17:49.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="SRB9LO8L5qYXLgs-fvFe" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T19:39:58.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="cBf_-wkCjRuPewu0vweR" version="24.3.0" type="github">
   <diagram name="Página-1" id="VNq9uEKA-FmvZrXafFe-">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,6 +56,9 @@
         </mxCell>
         <mxCell id="RSIFVudIz0YvqbiOfcaw-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d31eovcmofbjgi.cloudfront.net/wp-content/uploads/2020/03/API-MANAGER-e1585670045427.png;" vertex="1" parent="1">
           <mxGeometry x="449" y="130" width="145.82" height="44.35" as="geometry" />
+        </mxCell>
+        <mxCell id="RSIFVudIz0YvqbiOfcaw-22" value="Communication Hub" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="50" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
