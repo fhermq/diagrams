@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T23:41:42.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="jW3w_t_GeVGdEUWLiiaE" version="24.4.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-31T23:46:49.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kQeZIEO_KbRiDl6gXEEE" version="24.4.10" type="github" pages="3">
   <diagram name="OCI" id="EIpBdUsNTT5jqfAQI4Gn">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -235,15 +235,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-0" />
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-1" parent="ZeGT-aBPYgNNC2SUfwFk-0" />
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-2" value="&lt;font color=&quot;#330000&quot;&gt;On-Premise AT&amp;amp;T&lt;/font&gt;" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#6c8ebf;fillColor=#dae8fc;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
-          <mxGeometry x="320" y="470" width="410" height="132" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeGT-aBPYgNNC2SUfwFk-3" value="Meta" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#82b366;fillColor=#d5e8d4;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
-          <mxGeometry x="880" y="471" width="160" height="130" as="geometry" />
+          <mxGeometry x="1490" y="230" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-4" value="AWS - AT&amp;amp;T" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#d6b656;fillColor=#fff2cc;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
           <mxGeometry x="400" y="50" width="270" height="170" as="geometry" />
@@ -263,16 +260,13 @@
           </mxCell>
         </UserObject>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-10" value="SMPP" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
-          <mxGeometry x="350" y="530" width="100" height="50" as="geometry" />
+          <mxGeometry x="1520" y="278" width="100" height="50" as="geometry" />
         </mxCell>
         <UserObject label="https://ei.docs.wso2.com/en/latest/micro-integrator/references/connectors/google-firebase-connector/google-firebase-connector-example/" link="https://ei.docs.wso2.com/en/latest/micro-integrator/references/connectors/google-firebase-connector/google-firebase-connector-example/" id="ZeGT-aBPYgNNC2SUfwFk-12">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
             <mxGeometry x="24" y="740" width="780" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ZeGT-aBPYgNNC2SUfwFk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="ZeGT-aBPYgNNC2SUfwFk-1" source="ZeGT-aBPYgNNC2SUfwFk-14" target="ZeGT-aBPYgNNC2SUfwFk-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-14" value="WSO2 Integrator" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.connector;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
           <mxGeometry x="231" y="308" width="78" height="29" as="geometry" />
         </mxCell>
@@ -294,16 +288,7 @@
           <mxGeometry x="155" y="43.75" width="66.67" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-20" value="Tralixx" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
-          <mxGeometry x="606" y="530" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeGT-aBPYgNNC2SUfwFk-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-128.png" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
-          <mxGeometry x="946" y="516.5" width="39" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeGT-aBPYgNNC2SUfwFk-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d31eovcmofbjgi.cloudfront.net/wp-content/uploads/2020/03/API-MANAGER-e1585670045427.png;clipPath=inset(17.03% 58.33% 14.84% 0%);" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
-          <mxGeometry x="968" y="370" width="46.37" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeGT-aBPYgNNC2SUfwFk-23" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
-          <mxGeometry x="974.99" y="345" width="32.39" height="22" as="geometry" />
+          <mxGeometry x="1520" y="405" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d31eovcmofbjgi.cloudfront.net/wp-content/uploads/2020/03/API-MANAGER-e1585670045427.png;clipPath=inset(17.03% 58.33% 14.84% 0%);" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
           <mxGeometry x="58" y="432" width="46.37" height="23" as="geometry" />
@@ -312,7 +297,7 @@
           <mxGeometry x="64.99000000000001" y="407" width="32.39" height="22" as="geometry" />
         </mxCell>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-26" value="" style="shape=rect;shadow=0;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
-          <mxGeometry x="680" width="164" height="100" as="geometry" />
+          <mxGeometry x="380" y="403" width="164" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-27" value="SMS API" style="shape=rect;strokeColor=none;fontSize=10;fontColor=#000000;resizeWidth=1;align=left;spacingLeft=25;spacingTop=2;whiteSpace=wrap;html=1;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-26">
           <mxGeometry width="164" height="20" relative="1" as="geometry" />
@@ -387,13 +372,8 @@
             <mxPoint x="-15" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZeGT-aBPYgNNC2SUfwFk-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="ZeGT-aBPYgNNC2SUfwFk-1" source="ZeGT-aBPYgNNC2SUfwFk-51" target="ZeGT-aBPYgNNC2SUfwFk-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="539" y="278" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-51" value="Campaign" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
-          <mxGeometry x="489" y="490" width="100" height="50" as="geometry" />
+          <mxGeometry x="1520" y="343" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="ZeGT-aBPYgNNC2SUfwFk-1" source="ZeGT-aBPYgNNC2SUfwFk-14" target="ZeGT-aBPYgNNC2SUfwFk-17">
           <mxGeometry relative="1" as="geometry" />
@@ -411,7 +391,7 @@
           <mxGeometry x="300" y="57" width="57.83" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-59" value="1. Asincrono" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
-          <mxGeometry x="968" y="80" width="90" height="30" as="geometry" />
+          <mxGeometry x="860" y="-30" width="90" height="30" as="geometry" />
         </mxCell>
         <UserObject label="https://ei.docs.wso2.com/en/7.0.0/micro-integrator/references/connectors/kafka-connector/kafka-connector-producer-example/" link="https://ei.docs.wso2.com/en/7.0.0/micro-integrator/references/connectors/kafka-connector/kafka-connector-producer-example/" id="ZeGT-aBPYgNNC2SUfwFk-60">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
@@ -432,6 +412,24 @@
         </mxCell>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-48" value="RCS" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
           <mxGeometry x="1275.0017596566522" y="230.00071428571428" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ms7FDGHjqBEYQR3ll_A1-0" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="ZeGT-aBPYgNNC2SUfwFk-1">
+          <mxGeometry x="950" y="250" width="73.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ms7FDGHjqBEYQR3ll_A1-1" value="" style="group" vertex="1" connectable="0" parent="ZeGT-aBPYgNNC2SUfwFk-1">
+          <mxGeometry x="1490" y="70" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeGT-aBPYgNNC2SUfwFk-3" value="Meta" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#82b366;fillColor=#d5e8d4;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="Ms7FDGHjqBEYQR3ll_A1-1">
+          <mxGeometry width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeGT-aBPYgNNC2SUfwFk-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-128.png" vertex="1" parent="Ms7FDGHjqBEYQR3ll_A1-1">
+          <mxGeometry x="66" y="45.5" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Ms7FDGHjqBEYQR3ll_A1-2" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="ZeGT-aBPYgNNC2SUfwFk-1">
+          <mxGeometry x="830" y="100" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ms7FDGHjqBEYQR3ll_A1-3" value="Kakfa" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#82b366;fillColor=#d5e8d4;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="Ms7FDGHjqBEYQR3ll_A1-2">
+          <mxGeometry width="160" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
