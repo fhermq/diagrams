@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T22:26:20.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mwhPGxpI8ZB4sjhPKAkd" version="24.4.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-31T22:30:03.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_odRQOUfiVkOzuXu-tZx" version="24.4.10" type="github" pages="2">
   <diagram name="OCI" id="EIpBdUsNTT5jqfAQI4Gn">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Detail" id="Zkvh_wP47RWZ7KwX0TPL">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="3BvW4X9B-Wyy73cjAk_O-0" />
         <mxCell id="3BvW4X9B-Wyy73cjAk_O-1" parent="3BvW4X9B-Wyy73cjAk_O-0" />
@@ -316,7 +316,7 @@
           <mxGeometry width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="JdVYZ99Y-swwNdkjLX9o-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://apim.docs.wso2.com/en/4.1.0/images/logo.svg;" vertex="1" parent="JdVYZ99Y-swwNdkjLX9o-1">
-          <mxGeometry x="46.94999999999999" y="11.5" width="26.09" height="10" as="geometry" />
+          <mxGeometry x="46.94999999999999" y="7.5" width="26.09" height="10" as="geometry" />
         </mxCell>
         <mxCell id="JdVYZ99Y-swwNdkjLX9o-2" value="" style="group" vertex="1" connectable="0" parent="3BvW4X9B-Wyy73cjAk_O-1">
           <mxGeometry x="963" y="197.5" width="120" height="75" as="geometry" />
@@ -325,7 +325,7 @@
           <mxGeometry width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="JdVYZ99Y-swwNdkjLX9o-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://apim.docs.wso2.com/en/4.1.0/images/logo.svg;" vertex="1" parent="JdVYZ99Y-swwNdkjLX9o-2">
-          <mxGeometry x="46.94999999999999" y="11.5" width="26.09" height="10" as="geometry" />
+          <mxGeometry x="46.94999999999999" y="8.5" width="26.09" height="10" as="geometry" />
         </mxCell>
         <mxCell id="JdVYZ99Y-swwNdkjLX9o-5" value="" style="group" vertex="1" connectable="0" parent="3BvW4X9B-Wyy73cjAk_O-1">
           <mxGeometry x="761" y="197" width="120" height="75" as="geometry" />
@@ -334,7 +334,7 @@
           <mxGeometry width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="JdVYZ99Y-swwNdkjLX9o-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://apim.docs.wso2.com/en/4.1.0/images/logo.svg;" vertex="1" parent="JdVYZ99Y-swwNdkjLX9o-5">
-          <mxGeometry x="46.94999999999999" y="11.5" width="26.09" height="10" as="geometry" />
+          <mxGeometry x="46.94999999999999" y="6.5" width="26.09" height="10" as="geometry" />
         </mxCell>
         <mxCell id="JdVYZ99Y-swwNdkjLX9o-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3BvW4X9B-Wyy73cjAk_O-1" source="JdVYZ99Y-swwNdkjLX9o-6" target="JdVYZ99Y-swwNdkjLX9o-3">
           <mxGeometry relative="1" as="geometry" />
