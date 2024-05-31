@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T22:30:03.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_odRQOUfiVkOzuXu-tZx" version="24.4.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-31T22:35:42.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="s3ntD4GuwXCaH5BJxCfN" version="24.4.10" type="github" pages="2">
   <diagram name="OCI" id="EIpBdUsNTT5jqfAQI4Gn">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Detail" id="Zkvh_wP47RWZ7KwX0TPL">
-    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="3BvW4X9B-Wyy73cjAk_O-0" />
         <mxCell id="3BvW4X9B-Wyy73cjAk_O-1" parent="3BvW4X9B-Wyy73cjAk_O-0" />
@@ -260,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IkQ49vp__c-LMW1kP9nl-3" value="Applications" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" vertex="1" parent="3BvW4X9B-Wyy73cjAk_O-1">
-          <mxGeometry x="10" y="209" width="50" height="50" as="geometry" />
+          <mxGeometry x="25" y="209" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IkQ49vp__c-LMW1kP9nl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3BvW4X9B-Wyy73cjAk_O-1" target="IkQ49vp__c-LMW1kP9nl-3">
           <mxGeometry relative="1" as="geometry">
