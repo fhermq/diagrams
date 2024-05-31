@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T23:04:12.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="10CEoNPxGHwRto3vo7Qe" version="24.4.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-31T23:09:20.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9iCSHw-BZVmJ16jsFy_f" version="24.4.10" type="github" pages="2">
   <diagram name="OCI" id="EIpBdUsNTT5jqfAQI4Gn">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -382,13 +382,21 @@
           <mxGeometry x="660" y="540" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="pXjVZJ9RNW1Oa--3CHTd-21" value="" style="group" vertex="1" connectable="0" parent="3BvW4X9B-Wyy73cjAk_O-1">
-          <mxGeometry x="923" y="370" width="181" height="170" as="geometry" />
+          <mxGeometry x="930.5" y="370" width="181" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pXjVZJ9RNW1Oa--3CHTd-0" value="&lt;font color=&quot;#330000&quot;&gt;On-Premise AT&amp;amp;T&lt;/font&gt;" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#6c8ebf;fillColor=#dae8fc;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="pXjVZJ9RNW1Oa--3CHTd-21">
           <mxGeometry width="181" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pXjVZJ9RNW1Oa--3CHTd-1" value="SMPP" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="pXjVZJ9RNW1Oa--3CHTd-21">
           <mxGeometry x="40.5" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pXjVZJ9RNW1Oa--3CHTd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3BvW4X9B-Wyy73cjAk_O-1" source="JdVYZ99Y-swwNdkjLX9o-3" target="pXjVZJ9RNW1Oa--3CHTd-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="340" />
+              <mxPoint x="1000" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
