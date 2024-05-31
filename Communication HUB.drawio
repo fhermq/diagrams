@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T16:27:16.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="O3A2A6Ap2wAlh0e723oK" version="24.4.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-31T17:05:31.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3TPrH9nK-VSDvJA70MEF" version="24.4.10" type="github" pages="2">
   <diagram name="AMAP" id="VNq9uEKA-FmvZrXafFe-">
     <mxGraphModel dx="1235" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="OCI" id="EIpBdUsNTT5jqfAQI4Gn">
-    <mxGraphModel dx="1687" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="VA1_CAs89EwJAqesmT9H-0" />
         <mxCell id="VA1_CAs89EwJAqesmT9H-1" parent="VA1_CAs89EwJAqesmT9H-0" />
@@ -92,7 +92,7 @@
           <mxGeometry x="550" y="190" width="113" height="23.66891891891892" as="geometry" />
         </mxCell>
         <mxCell id="VA1_CAs89EwJAqesmT9H-19" value="Communication Hub&lt;div style=&quot;font-size: 16px;&quot;&gt;V 1.0&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="VA1_CAs89EwJAqesmT9H-1" vertex="1">
-          <mxGeometry x="80" y="50" width="240" height="30" as="geometry" />
+          <mxGeometry x="40" y="50" width="230" height="30" as="geometry" />
         </mxCell>
         <UserObject label="https://apim.docs.wso2.com/en/4.1.0/reference/connectors/smpp-connector/smpp-inbound-endpoint-example/" link="https://apim.docs.wso2.com/en/4.1.0/reference/connectors/smpp-connector/smpp-inbound-endpoint-example/" id="WlkyiADyGSmWSEiYD9BT-8">
           <mxCell style="text;whiteSpace=wrap;" parent="VA1_CAs89EwJAqesmT9H-1" vertex="1">
