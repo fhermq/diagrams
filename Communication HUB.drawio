@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T00:16:05.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7AFkXAdgExykn-SNM5MY" version="24.4.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-31T00:16:51.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="awkvlGs4EiQoyTFHxCEL" version="24.4.10" type="github" pages="2">
   <diagram name="AMAP" id="VNq9uEKA-FmvZrXafFe-">
     <mxGraphModel dx="1235" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="OCI" id="EIpBdUsNTT5jqfAQI4Gn">
-    <mxGraphModel dx="1050" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="VA1_CAs89EwJAqesmT9H-0" />
         <mxCell id="VA1_CAs89EwJAqesmT9H-1" parent="VA1_CAs89EwJAqesmT9H-0" />
@@ -107,7 +107,7 @@
         </mxCell>
         <UserObject label="https://apim.docs.wso2.com/en/4.1.0/reference/connectors/smpp-connector/smpp-inbound-endpoint-example/" link="https://apim.docs.wso2.com/en/4.1.0/reference/connectors/smpp-connector/smpp-inbound-endpoint-example/" id="WlkyiADyGSmWSEiYD9BT-8">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="VA1_CAs89EwJAqesmT9H-1">
-            <mxGeometry x="50" y="890" width="750" height="50" as="geometry" />
+            <mxGeometry x="24" y="690" width="750" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="WlkyiADyGSmWSEiYD9BT-13" value="SMPP" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VA1_CAs89EwJAqesmT9H-1">
@@ -120,7 +120,7 @@
         </mxCell>
         <UserObject label="https://ei.docs.wso2.com/en/latest/micro-integrator/references/connectors/google-firebase-connector/google-firebase-connector-example/" link="https://ei.docs.wso2.com/en/latest/micro-integrator/references/connectors/google-firebase-connector/google-firebase-connector-example/" id="WlkyiADyGSmWSEiYD9BT-19">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="VA1_CAs89EwJAqesmT9H-1">
-            <mxGeometry x="50" y="940" width="780" height="50" as="geometry" />
+            <mxGeometry x="24" y="740" width="780" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="WlkyiADyGSmWSEiYD9BT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VA1_CAs89EwJAqesmT9H-1" source="WlkyiADyGSmWSEiYD9BT-25" target="WlkyiADyGSmWSEiYD9BT-13">
