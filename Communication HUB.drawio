@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T16:24:13.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YOZlikcfkWz40PKN8GsM" version="24.4.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-31T16:27:16.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="O3A2A6Ap2wAlh0e723oK" version="24.4.10" type="github" pages="2">
   <diagram name="AMAP" id="VNq9uEKA-FmvZrXafFe-">
     <mxGraphModel dx="1235" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -280,6 +280,12 @@
         </mxCell>
         <mxCell id="T_b93B8hsP3N_y26fPVD-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="VA1_CAs89EwJAqesmT9H-1">
           <mxGeometry x="746.99" y="610" width="32.39" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="T_b93B8hsP3N_y26fPVD-6" value="Monitor" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="VA1_CAs89EwJAqesmT9H-1">
+          <mxGeometry x="300" y="140" width="54.800000000000004" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="T_b93B8hsP3N_y26fPVD-7" value="Log" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cloudwatch_logs;" vertex="1" parent="VA1_CAs89EwJAqesmT9H-1">
+          <mxGeometry x="300" y="57" width="57.83" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
