@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-01T00:10:26.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="FO2pEVbIcea_9MNNplXA" version="24.4.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-01T00:26:37.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BVUXox3PUe93Cp7xDHM6" version="24.4.10" type="github" pages="3">
   <diagram name="OCI" id="EIpBdUsNTT5jqfAQI4Gn">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="VA1_CAs89EwJAqesmT9H-0" />
         <mxCell id="VA1_CAs89EwJAqesmT9H-1" parent="VA1_CAs89EwJAqesmT9H-0" />
@@ -466,6 +466,15 @@
         </mxCell>
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d31eovcmofbjgi.cloudfront.net/wp-content/uploads/2020/03/API-MANAGER-e1585670045427.png;clipPath=inset(17.03% 1.33% 14.84% 0%);" vertex="1" parent="PV46LM6dhd4P9adCG7Nh-12">
           <mxGeometry x="8.5" y="125" width="113" height="23.66891891891892" as="geometry" />
+        </mxCell>
+        <mxCell id="PV46LM6dhd4P9adCG7Nh-17" value="" style="group" vertex="1" connectable="0" parent="ZeGT-aBPYgNNC2SUfwFk-1">
+          <mxGeometry x="1180" y="46" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PV46LM6dhd4P9adCG7Nh-14" value="Label" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#B1DDF0;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="PV46LM6dhd4P9adCG7Nh-17">
+          <mxGeometry x="30" y="10" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PV46LM6dhd4P9adCG7Nh-15" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="PV46LM6dhd4P9adCG7Nh-17">
+          <mxGeometry width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
