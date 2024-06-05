@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T22:50:59.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9mFTVARhYcrwUYHyX6wI" version="24.4.14" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-05T22:53:14.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="R1yIRTt8ffR1YCU3JsfD" version="24.4.14" type="github" pages="3">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -827,10 +827,10 @@
           <mxGeometry x="914.61" y="-749" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IXOz85ADF_nXkDeNcJsj-81" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Data_Lake_Analytics.svg;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
-          <mxGeometry x="1061.12" y="-587.5" width="68" height="68" as="geometry" />
+          <mxGeometry x="1061.12" y="-607.5" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="IXOz85ADF_nXkDeNcJsj-82" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF3333;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_oracle_instance;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
-          <mxGeometry x="1061.12" y="-481.5" width="69" height="69" as="geometry" />
+          <mxGeometry x="1061.12" y="-501.5" width="69" height="69" as="geometry" />
         </mxCell>
         <mxCell id="IXOz85ADF_nXkDeNcJsj-83" value="Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
           <mxGeometry x="1065.62" y="-749" width="60" height="30" as="geometry" />
