@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T15:38:13.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="72Uol1K07GHvu5ytCJ6g" version="24.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-12T15:48:04.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="U8FVgzD0VRxdgSipSwxD" version="24.5.3" type="github" pages="3">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -829,6 +829,9 @@
         </mxCell>
         <mxCell id="RKGKxKgP3AyFGX4gTdBp-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.auto_scaling2;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="679.38" y="-428" width="28.25" height="28.25" as="geometry" />
+        </mxCell>
+        <mxCell id="RKGKxKgP3AyFGX4gTdBp-5" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="953.4999999999999" y="-701.88" width="24.35" height="23.38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
