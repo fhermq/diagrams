@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T21:53:11.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0qo5O7mWA0A41fVHgIzw" version="24.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-12T15:34:33.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-Au0wglE5dPsNSMNLI4x" version="24.5.3" type="github" pages="3">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SQS" id="SlBzTVeqFdqKTDmZe6ph">
-    <mxGraphModel dx="1580" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IXOz85ADF_nXkDeNcJsj-0" />
         <mxCell id="IXOz85ADF_nXkDeNcJsj-1" parent="IXOz85ADF_nXkDeNcJsj-0" />
@@ -809,11 +809,14 @@
         <mxCell id="YeZb98tqAXHkqjg5FW8R-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/appdynamics_logo_icon_170537.png;clipPath=inset(16.67% 2.67% 16.67% 1.67%);" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
           <mxGeometry x="749.59" y="-130" width="189.42" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="PpiLWeW27tsSXm0xIYlP-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+        <mxCell id="PpiLWeW27tsSXm0xIYlP-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="IXOz85ADF_nXkDeNcJsj-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="715.01" y="-170" as="sourcePoint" />
             <mxPoint x="714.8399999999999" y="-225" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RKGKxKgP3AyFGX4gTdBp-0" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.auto_scaling2;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="524" y="-551" width="28.25" height="28.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
