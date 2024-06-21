@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T19:09:23.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SGhh8HC98EHq8aQa9eQe" version="24.5.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-21T17:24:42.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ABm2ebeeGJvxUx9sJoMm" version="24.5.5" type="github" pages="3">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MSK" id="SlBzTVeqFdqKTDmZe6ph">
-    <mxGraphModel dx="683" dy="1179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IXOz85ADF_nXkDeNcJsj-0" />
         <mxCell id="IXOz85ADF_nXkDeNcJsj-1" parent="IXOz85ADF_nXkDeNcJsj-0" />
@@ -865,6 +865,12 @@
         </mxCell>
         <mxCell id="RKGKxKgP3AyFGX4gTdBp-21" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
           <mxGeometry x="525.5699999999999" y="-538.31" width="24.35" height="23.38" as="geometry" />
+        </mxCell>
+        <mxCell id="cgGnrsIoiYWSJtiHYz_I-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Porta&lt;/h1&gt;&lt;p&gt;Bienvenido &amp;lt;USER&amp;gt; a AT&amp;amp;T, estos son tus beneficios.&lt;/p&gt;&lt;p&gt;A, B,(dinamico)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="203" y="-368" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cgGnrsIoiYWSJtiHYz_I-2" value="- Calendarizar&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="546.34" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
