@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T23:48:24.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZfhJdplxRUFSR6AVgnXX" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-28T23:50:45.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LfURvISqCScex_23QcXW" version="24.6.4" type="github" pages="4">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1050" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1250,10 +1250,10 @@
           <mxGeometry x="60" y="16.5" width="17" height="17" as="geometry" />
         </mxCell>
         <mxCell id="i2JKpZZkjDkbUEimUbnH-4" value="Front End and Native Applications under a WAF" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="1899" y="115" width="310" height="62" as="geometry" />
+          <mxGeometry x="1899" y="121" width="310" height="62" as="geometry" />
         </mxCell>
         <mxCell id="i2JKpZZkjDkbUEimUbnH-5" value="2" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="1880" y="132.5" width="27" height="27" as="geometry" />
+          <mxGeometry x="1880" y="138.5" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="i2JKpZZkjDkbUEimUbnH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1" source="daPglvdJZqQ0-ab7CxSO-30" target="daPglvdJZqQ0-ab7CxSO-8">
           <mxGeometry relative="1" as="geometry" />
@@ -1265,10 +1265,10 @@
           <mxGeometry x="1588.42" y="178" width="17.95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-16" value="Content Delivery Manage to handle the support over the regions and handle the availability and auto scale." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="1899" y="191" width="315" height="63" as="geometry" />
+          <mxGeometry x="1899" y="197" width="315" height="63" as="geometry" />
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-18" value="3" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="1880" y="207.5" width="27" height="27" as="geometry" />
+          <mxGeometry x="1880" y="213.5" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-19" value="2" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="1296.06" y="231" width="27" height="27" as="geometry" />
@@ -1292,10 +1292,10 @@
           <mxGeometry x="1700" y="142" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-26" value="API Manager for API governance and to handle the inbound and outbound connectivity,&amp;nbsp;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="1899" y="276" width="315" height="63" as="geometry" />
+          <mxGeometry x="1899" y="282" width="315" height="63" as="geometry" />
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-27" value="4" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="1880" y="292.5" width="27" height="27" as="geometry" />
+          <mxGeometry x="1880" y="298.5" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1" source="UDTdoPpOcTlavoaTR3sV-28" target="UDTdoPpOcTlavoaTR3sV-29">
           <mxGeometry relative="1" as="geometry" />
@@ -1310,10 +1310,10 @@
           <mxGeometry x="1441" y="274" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-32" value="IAM to manage an Zero Trust Security Policy" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="1899" y="37" width="310" height="62" as="geometry" />
+          <mxGeometry x="1899" y="43" width="310" height="62" as="geometry" />
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-33" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="1880" y="54.5" width="27" height="27" as="geometry" />
+          <mxGeometry x="1880" y="60.5" width="27" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
