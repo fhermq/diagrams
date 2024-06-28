@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T23:56:58.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gf3aiEcv967cSHz-hAM7" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-28T23:58:46.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SV3dpJo2XfQt1t9EvHMa" version="24.6.4" type="github" pages="4">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1050" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1315,13 +1315,13 @@
         <mxCell id="UDTdoPpOcTlavoaTR3sV-33" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="1880" y="60.5" width="27" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="UDTdoPpOcTlavoaTR3sV-34" value="Kubernetes clusters for microservices and support multi languaje code, deployment startegies, auto scale, performance and cost optimization." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+        <mxCell id="UDTdoPpOcTlavoaTR3sV-34" value="Kubernetes clusters for microservices and support multi-language code, deployment strategies, auto scale, performance, and cost optimization." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="1899" y="362" width="315" height="63" as="geometry" />
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-35" value="5" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="1880" y="378.5" width="27" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="UDTdoPpOcTlavoaTR3sV-36" value="Event Driven Bus, Using Queues to handle the process of asyncronus transactions." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+        <mxCell id="UDTdoPpOcTlavoaTR3sV-36" value="Event Driven Bus, Using Queues to handle the process of asynchronous transactions to ensure the process and re-process of workloads." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="1899" y="438" width="315" height="63" as="geometry" />
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-37" value="6" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
