@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T18:54:58.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nN8HbRlAnCDFpCMLU6zx" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-28T18:56:38.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WAbRVuy98a7aKafG6dD9" version="24.6.4" type="github" pages="3">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1050" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
         <mxCell id="ZeGT-aBPYgNNC2SUfwFk-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d31eovcmofbjgi.cloudfront.net/wp-content/uploads/2020/03/API-MANAGER-e1585670045427.png;clipPath=inset(17.03% 1.33% 14.84% 0%);" parent="PV46LM6dhd4P9adCG7Nh-12" vertex="1">
           <mxGeometry x="8.5" y="125" width="113" height="23.66891891891892" as="geometry" />
         </mxCell>
-        <mxCell id="f7dm8GfATiRXs_zgGikm-23" value="Communication Hub&lt;div style=&quot;font-size: 16px;&quot;&gt;V 1.0&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="ZeGT-aBPYgNNC2SUfwFk-1" vertex="1">
+        <mxCell id="f7dm8GfATiRXs_zgGikm-23" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;SaaS&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;V 1.0&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="ZeGT-aBPYgNNC2SUfwFk-1" vertex="1">
           <mxGeometry x="33" y="-790" width="396" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f7dm8GfATiRXs_zgGikm-0" value="AT&amp;amp;T&lt;div&gt;Digital Applications&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Enterprise_Applications.svg;" parent="ZeGT-aBPYgNNC2SUfwFk-1" vertex="1">
