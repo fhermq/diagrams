@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T23:50:45.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LfURvISqCScex_23QcXW" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-28T23:56:58.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gf3aiEcv967cSHz-hAM7" version="24.6.4" type="github" pages="4">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1050" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1184,7 +1184,7 @@
         <mxCell id="daPglvdJZqQ0-ab7CxSO-17" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="daPglvdJZqQ0-ab7CxSO-19">
           <mxGeometry x="67.1099999999999" y="25.25" width="42.88" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="daPglvdJZqQ0-ab7CxSO-18" value="Event Driven&lt;div&gt;Queues&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;align=left;verticalAlign=top;" vertex="1" parent="daPglvdJZqQ0-ab7CxSO-19">
+        <mxCell id="daPglvdJZqQ0-ab7CxSO-18" value="Event Driven&lt;div&gt;Bus&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=10;align=left;verticalAlign=top;" vertex="1" parent="daPglvdJZqQ0-ab7CxSO-19">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="daPglvdJZqQ0-ab7CxSO-33" value="" style="group" vertex="1" connectable="0" parent="IXOz85ADF_nXkDeNcJsj-1">
@@ -1314,6 +1314,18 @@
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-33" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="1880" y="60.5" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="UDTdoPpOcTlavoaTR3sV-34" value="Kubernetes clusters for microservices and support multi languaje code, deployment startegies, auto scale, performance and cost optimization." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="1899" y="362" width="315" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="UDTdoPpOcTlavoaTR3sV-35" value="5" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="1880" y="378.5" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="UDTdoPpOcTlavoaTR3sV-36" value="Event Driven Bus, Using Queues to handle the process of asyncronus transactions." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="1899" y="438" width="315" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="UDTdoPpOcTlavoaTR3sV-37" value="6" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="1880" y="454.5" width="27" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
