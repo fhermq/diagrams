@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T17:45:27.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="etKcqCxyR8262OS1nF2T" version="24.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-29T17:45:53.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7eFp4Wx3Cx0isJPeJMlp" version="24.6.4" type="github" pages="7">
   <diagram name="1. System Architecture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="518" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -459,7 +459,7 @@
           <mxGeometry x="691" y="568" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49bQgpv3j6YgQCLd0In0-78" value="" style="group" vertex="1" connectable="0" parent="Qdnj9Gsr-jwNTcWJsqcW-1">
-          <mxGeometry x="555" y="392" width="100" height="70" as="geometry" />
+          <mxGeometry x="559" y="392" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="49bQgpv3j6YgQCLd0In0-79" value="" style="group" vertex="1" connectable="0" parent="49bQgpv3j6YgQCLd0In0-78">
           <mxGeometry width="100" height="70" as="geometry" />
@@ -471,7 +471,7 @@
           <mxGeometry x="20" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49bQgpv3j6YgQCLd0In0-82" value="" style="group" vertex="1" connectable="0" parent="Qdnj9Gsr-jwNTcWJsqcW-1">
-          <mxGeometry x="555" y="318" width="100" height="70" as="geometry" />
+          <mxGeometry x="559" y="318" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="49bQgpv3j6YgQCLd0In0-83" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="49bQgpv3j6YgQCLd0In0-82">
           <mxGeometry y="40" width="100" height="30" as="geometry" />
@@ -483,7 +483,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="407" />
-              <mxPoint x="530" y="452" />
+              <mxPoint x="530" y="451" />
             </Array>
           </mxGeometry>
         </mxCell>
