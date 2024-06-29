@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T18:02:06.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sV_9H-YQAhzzizgnWbI6" version="24.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-29T18:02:36.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="x2mTsjs482JvQsVO-1O2" version="24.6.4" type="github" pages="7">
   <diagram name="1. System Architecture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="518" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -461,7 +461,7 @@
         <mxCell id="49bQgpv3j6YgQCLd0In0-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Qdnj9Gsr-jwNTcWJsqcW-1" source="49bQgpv3j6YgQCLd0In0-74" target="49bQgpv3j6YgQCLd0In0-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="49bQgpv3j6YgQCLd0In0-74" value="Invite to redeem" style="shape=manualInput;whiteSpace=wrap;html=1;dashed=0;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Qdnj9Gsr-jwNTcWJsqcW-1">
+        <mxCell id="49bQgpv3j6YgQCLd0In0-74" value="Invite to redeem a personalize offer" style="shape=manualInput;whiteSpace=wrap;html=1;dashed=0;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Qdnj9Gsr-jwNTcWJsqcW-1">
           <mxGeometry x="681" y="442.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="49bQgpv3j6YgQCLd0In0-76" value="End" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="Qdnj9Gsr-jwNTcWJsqcW-1">
