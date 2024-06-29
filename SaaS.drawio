@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T01:43:18.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vFcPExm_dSqSWIFX8ig-" version="24.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-29T01:45:43.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jw4TYJxmi6PL16mpHS6o" version="24.6.4" type="github" pages="6">
   <diagram name="1. System Architecture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="880" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -273,7 +273,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3. Customer Experiencie" id="NtkiMUB1gdBzY8h276sX">
-    <mxGraphModel dx="1247" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="SLchcGB206cEkm957S7l-0" />
         <mxCell id="SLchcGB206cEkm957S7l-1" parent="SLchcGB206cEkm957S7l-0" />
@@ -431,25 +431,25 @@
         <mxCell id="Rh9nwgR_wIUqbsoJV2yo-73" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Genomics.svg;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
           <mxGeometry x="320.28" y="360.37" width="14.29" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="11uKmkb8jarsUg51SfsX-0" value="Stream process to handle the high tps of message to ensure the time of anlysis." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
+        <mxCell id="11uKmkb8jarsUg51SfsX-0" value="Stream process to handle the high tps of message to ensure the time of analysis." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
           <mxGeometry x="834" y="130" width="310" height="62" as="geometry" />
         </mxCell>
         <mxCell id="11uKmkb8jarsUg51SfsX-1" value="2" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
           <mxGeometry x="815" y="147.5" width="27" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="11uKmkb8jarsUg51SfsX-2" value="Core of serverless functions that process and fit the AI algorith to fit customer, credit, and fraud prevention rules, enable to auto scale dinamycally." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
+        <mxCell id="11uKmkb8jarsUg51SfsX-2" value="The core of serverless functions that process and fit the AI algorithm to fit customer, credit, and fraud prevention rules, enable it to auto-scale dynamically." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
           <mxGeometry x="834" y="206" width="315" height="63" as="geometry" />
         </mxCell>
         <mxCell id="11uKmkb8jarsUg51SfsX-3" value="3" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
           <mxGeometry x="815" y="222.5" width="27" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="11uKmkb8jarsUg51SfsX-4" value="Event process to distribute the result of the analysys." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
+        <mxCell id="11uKmkb8jarsUg51SfsX-4" value="Event process to distribute the result of the analyses." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
           <mxGeometry x="834" y="291" width="315" height="63" as="geometry" />
         </mxCell>
         <mxCell id="11uKmkb8jarsUg51SfsX-5" value="4" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
           <mxGeometry x="815" y="307.5" width="27" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="11uKmkb8jarsUg51SfsX-6" value="&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Datalake if the source of information that will streamed to process in different topics.&lt;/span&gt;&lt;/p&gt;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
+        <mxCell id="11uKmkb8jarsUg51SfsX-6" value="&lt;p&gt;Datalake is the source of information that will streamed to process different topics.&lt;/p&gt;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
           <mxGeometry x="834" y="52" width="310" height="62" as="geometry" />
         </mxCell>
         <mxCell id="11uKmkb8jarsUg51SfsX-7" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
@@ -461,13 +461,13 @@
         <mxCell id="11uKmkb8jarsUg51SfsX-9" value="5" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
           <mxGeometry x="815" y="387.5" width="27" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="11uKmkb8jarsUg51SfsX-10" value="Notification services to reach and engage inmediatly with customers." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
+        <mxCell id="11uKmkb8jarsUg51SfsX-10" value="Notification services to reach and engage immediately with customers." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
           <mxGeometry x="834" y="447" width="315" height="63" as="geometry" />
         </mxCell>
         <mxCell id="11uKmkb8jarsUg51SfsX-11" value="6" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
           <mxGeometry x="815" y="463.5" width="27" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="11uKmkb8jarsUg51SfsX-12" value="&lt;div&gt;Webhooks enable the capability to trigger voice attendand, chat sessions, or redirect to ecommerce to get the offer.&lt;/div&gt;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
+        <mxCell id="11uKmkb8jarsUg51SfsX-12" value="&lt;div&gt;Webhooks enable the capability to trigger voice attendance, chat sessions, or redirect to e-commerce to get the offer.&lt;/div&gt;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
           <mxGeometry x="834" y="525.5" width="315" height="63" as="geometry" />
         </mxCell>
         <mxCell id="11uKmkb8jarsUg51SfsX-13" value="7" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
