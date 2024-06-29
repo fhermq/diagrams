@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T00:02:54.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lt4IETqeIA3aLBlPLbQo" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-29T00:05:32.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GfzOt_3BvwO7R7qHMXOQ" version="24.6.4" type="github" pages="4">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1050" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -543,7 +543,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="1. System Architecture" id="SlBzTVeqFdqKTDmZe6ph">
-    <mxGraphModel dx="1024" dy="1384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IXOz85ADF_nXkDeNcJsj-0" />
         <mxCell id="IXOz85ADF_nXkDeNcJsj-1" parent="IXOz85ADF_nXkDeNcJsj-0" />
@@ -1327,7 +1327,7 @@
         <mxCell id="UDTdoPpOcTlavoaTR3sV-37" value="6" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="1880" y="454.5" width="27" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="UDTdoPpOcTlavoaTR3sV-38" value="Data warehouse to delivery, retrieve data and process workloads." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+        <mxCell id="UDTdoPpOcTlavoaTR3sV-38" value="&lt;div&gt;Data warehouse to deliver, retrieve data, and process workloads.&lt;/div&gt;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="1899" y="516.5" width="315" height="63" as="geometry" />
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-39" value="7" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
@@ -1335,6 +1335,18 @@
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-40" value="9" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="1730" y="747.5" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="UDTdoPpOcTlavoaTR3sV-41" value="Legacy System used to get legacy information and transform to the new platform." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="1894" y="594" width="315" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="UDTdoPpOcTlavoaTR3sV-42" value="8" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="1875" y="610.5" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="UDTdoPpOcTlavoaTR3sV-43" value="Development &amp;amp; Deployment to Change Management and DevSecOps." style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=12;spacingLeft=42;fontStyle=0;align=left;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="1894" y="670" width="315" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="UDTdoPpOcTlavoaTR3sV-44" value="9" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="1875" y="686.5" width="27" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
