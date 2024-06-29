@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T16:40:34.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="a65AWphcDAyietBCqVBB" version="24.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-29T16:47:25.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nI0pjUWx3-1I0ek60fP7" version="24.6.4" type="github" pages="7">
   <diagram name="1. System Architecture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="518" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -302,7 +302,7 @@
         <mxCell id="Qdnj9Gsr-jwNTcWJsqcW-5" value="&lt;b&gt;Stream process&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Qdnj9Gsr-jwNTcWJsqcW-1">
           <mxGeometry x="179.39000000000004" y="169.25" width="95.45" height="271" as="geometry" />
         </mxCell>
-        <mxCell id="Qdnj9Gsr-jwNTcWJsqcW-6" value="&lt;p style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top:0pt; margin-bottom:0pt;&quot;&gt;&lt;strong style=&quot;background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;3. Customer Experience powered by AI.&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=20;" vertex="1" parent="Qdnj9Gsr-jwNTcWJsqcW-1">
+        <mxCell id="Qdnj9Gsr-jwNTcWJsqcW-6" value="&lt;p style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top:0pt; margin-bottom:0pt;&quot;&gt;&lt;strong style=&quot;background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;2. Data strategy&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=20;" vertex="1" parent="Qdnj9Gsr-jwNTcWJsqcW-1">
           <mxGeometry x="14" y="22" width="396" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qdnj9Gsr-jwNTcWJsqcW-7" value="&lt;b&gt;Datalake&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Qdnj9Gsr-jwNTcWJsqcW-1">
