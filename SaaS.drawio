@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T21:11:39.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="L0S4LSiSwBRbfz8XCyei" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-30T21:11:57.924Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="knq5vtu5ZcED4oiaOmTX" version="24.6.4" type="github" pages="4">
   <diagram name="1. System Architecture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="265" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -294,7 +294,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6bxiMYtmgr7CC3WUNwuY-0" value="Author: Fernando Mirasol Quecholac&lt;div&gt;June 2024&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="1978" y="763.5" width="282" height="30" as="geometry" />
+          <mxGeometry x="1978" y="716" width="282" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -937,7 +937,7 @@
           <mxGeometry x="179.39" y="447" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="j9rSFQ8CDIn_EdgQSicx-0" value="Author: Fernando Mirasol Quecholac&lt;div&gt;June 2024&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SLchcGB206cEkm957S7l-1">
-          <mxGeometry x="862" y="640" width="282" height="30" as="geometry" />
+          <mxGeometry x="862" y="610" width="282" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
