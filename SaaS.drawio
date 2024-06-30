@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T15:56:48.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lKX7kDy4OdHc4OZWsCjf" version="24.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-30T16:42:25.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="P77z_x1F5Ti-0mbaTO0s" version="24.6.4" type="github" pages="7">
   <diagram name="1. System Architecture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="-373" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -285,6 +285,13 @@
         </mxCell>
         <mxCell id="UDTdoPpOcTlavoaTR3sV-18" value="3" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=15;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" parent="ZrEothomHK-CxIxxMpZQ-3" vertex="1">
           <mxGeometry y="13.5" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="eDfCLHQ9sn9Q-8LUuf9L-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1" source="daPglvdJZqQ0-ab7CxSO-12" target="BkjDBfPOVaxjJctjjB0y-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1597" y="268" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
