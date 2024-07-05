@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T16:16:11.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4wJ9Nt-7icqmBj7n12Qi" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-05T16:16:26.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1dspXIhck28r7mUKsc8Y" version="24.6.4" type="github" pages="4">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1099,7 +1099,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="OghB0Op5eEHz8ftocrOI" name="EKS">
+  <diagram id="OghB0Op5eEHz8ftocrOI" name="K8s">
     <mxGraphModel dx="1075" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
