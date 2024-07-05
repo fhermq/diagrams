@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T17:40:28.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hvzz5Aomo9OiKNIdrVWS" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-05T17:41:00.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ETdfVX-EmkR0SF4uqGba" version="24.6.4" type="github" pages="4">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1107,6 +1107,9 @@
         <mxCell id="Cz76QxJ4vU055I80XA04-26" value="Region&amp;nbsp;&lt;div&gt;US East (N. Virginia)&lt;br&gt;&lt;/div&gt;&lt;div&gt;us-east-1&lt;br&gt;&lt;/div&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#00A4A6;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="220" width="780" height="540" as="geometry" />
         </mxCell>
+        <mxCell id="Cz76QxJ4vU055I80XA04-27" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Cz76QxJ4vU055I80XA04-26">
+          <mxGeometry x="19.82" y="65" width="480.18" height="415" as="geometry" />
+        </mxCell>
         <mxCell id="Cz76QxJ4vU055I80XA04-3" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="Cz76QxJ4vU055I80XA04-26">
           <mxGeometry x="124.82" y="220" width="50" height="48" as="geometry" />
         </mxCell>
@@ -1126,7 +1129,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cz76QxJ4vU055I80XA04-21" value="EC2 instance contents&lt;div&gt;Node&lt;/div&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" vertex="1" parent="Cz76QxJ4vU055I80XA04-26">
-          <mxGeometry x="90" y="110" width="349.82" height="335" as="geometry" />
+          <mxGeometry x="90" y="110" width="290" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Cz76QxJ4vU055I80XA04-37" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=rs" vertex="1" parent="Cz76QxJ4vU055I80XA04-21">
           <mxGeometry x="114.82" y="30" width="50" height="48" as="geometry" />
@@ -1158,9 +1161,6 @@
               <mxPoint x="310" y="200" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Cz76QxJ4vU055I80XA04-27" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Cz76QxJ4vU055I80XA04-26">
-          <mxGeometry x="19.82" y="65" width="480.18" height="415" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
