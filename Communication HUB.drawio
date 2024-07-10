@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T20:01:46.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Tiq9fqcoqPzBIMEmJOiJ" version="24.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-10T20:03:51.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lHY9MEwUNwaOwnWI9fA5" version="24.6.4" type="github" pages="5">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1166,7 +1166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qTaBg1qlqme9hokolFkT" name="SMS">
-    <mxGraphModel dx="1500" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1250,21 +1250,6 @@
         <mxCell id="F6vAtDqBR-0HTs7lcGcs-16" value="Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F6vAtDqBR-0HTs7lcGcs-15">
           <mxGeometry x="0.0861" y="3" relative="1" as="geometry">
             <mxPoint y="-7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="F6vAtDqBR-0HTs7lcGcs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375" y="690" as="sourcePoint" />
-            <mxPoint x="255" y="690" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="375" y="700" />
-              <mxPoint x="255" y="700" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="F6vAtDqBR-0HTs7lcGcs-22" value="Created" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F6vAtDqBR-0HTs7lcGcs-21">
-          <mxGeometry x="-0.3787" y="-2" relative="1" as="geometry">
-            <mxPoint x="-18" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F6vAtDqBR-0HTs7lcGcs-29" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
@@ -1455,7 +1440,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F6vAtDqBR-0HTs7lcGcs-96" value="Bad Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F6vAtDqBR-0HTs7lcGcs-95">
+        <mxCell id="F6vAtDqBR-0HTs7lcGcs-96" value="Bad Request&lt;div&gt;400&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F6vAtDqBR-0HTs7lcGcs-95">
           <mxGeometry x="-0.2443" relative="1" as="geometry">
             <mxPoint x="-9" y="-20" as="offset" />
           </mxGeometry>
@@ -1469,9 +1454,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F6vAtDqBR-0HTs7lcGcs-110" value="Service Unavailable" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F6vAtDqBR-0HTs7lcGcs-108">
+        <mxCell id="F6vAtDqBR-0HTs7lcGcs-110" value="Service Unavailable&lt;div&gt;503&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F6vAtDqBR-0HTs7lcGcs-108">
           <mxGeometry x="-0.2952" y="-1" relative="1" as="geometry">
-            <mxPoint x="-11" y="-25" as="offset" />
+            <mxPoint x="-11" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F6vAtDqBR-0HTs7lcGcs-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="F6vAtDqBR-0HTs7lcGcs-112" target="F6vAtDqBR-0HTs7lcGcs-114">
@@ -1534,9 +1519,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F6vAtDqBR-0HTs7lcGcs-128" value="Service Unavailable" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F6vAtDqBR-0HTs7lcGcs-127">
+        <mxCell id="F6vAtDqBR-0HTs7lcGcs-128" value="Service Unavailable&lt;div&gt;503&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F6vAtDqBR-0HTs7lcGcs-127">
           <mxGeometry x="-0.2952" y="-1" relative="1" as="geometry">
-            <mxPoint x="-11" y="-25" as="offset" />
+            <mxPoint x="-11" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F6vAtDqBR-0HTs7lcGcs-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="F6vAtDqBR-0HTs7lcGcs-19" target="F6vAtDqBR-0HTs7lcGcs-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="700" />
+              <mxPoint x="280" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F6vAtDqBR-0HTs7lcGcs-146" value="Created&amp;nbsp;&lt;div&gt;201&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F6vAtDqBR-0HTs7lcGcs-145">
+          <mxGeometry x="-0.275" y="-2" relative="1" as="geometry">
+            <mxPoint x="-12" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
