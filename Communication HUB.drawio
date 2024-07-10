@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T19:37:34.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lX25Zxkyrs8aJKsgWAg9" version="24.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-10T19:38:21.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PEZnBKZHCFfzDa_R-pzo" version="24.6.4" type="github" pages="5">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1166,7 +1166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qTaBg1qlqme9hokolFkT" name="SMS">
-    <mxGraphModel dx="724" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1442,6 +1442,11 @@
               <mxPoint x="660" y="450" />
               <mxPoint x="660" y="450" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F6vAtDqBR-0HTs7lcGcs-103" value="Send Event Retry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F6vAtDqBR-0HTs7lcGcs-102">
+          <mxGeometry x="0.3216" y="1" relative="1" as="geometry">
+            <mxPoint x="115" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
