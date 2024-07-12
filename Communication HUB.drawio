@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T19:16:06.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YwifG3ZjliypvbnCvqp6" version="24.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-12T20:00:59.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="73NOT6Qx7Vxx98vJZBT-" version="24.6.5" type="github" pages="5">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="2206" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -746,9 +746,6 @@
         <mxCell id="78druOdp1CY0nQv5vDMh-70" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.auto_scaling2;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
           <mxGeometry x="664.89" y="-581.5" width="28.25" height="28.25" as="geometry" />
         </mxCell>
-        <mxCell id="78druOdp1CY0nQv5vDMh-72" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;EKS&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=9;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.eks;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
-          <mxGeometry x="1021.12" y="-706.25" width="40" height="51" as="geometry" />
-        </mxCell>
         <mxCell id="PFYvJ2cEnXgvuuDq1DI9-0" value="" style="group" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1" connectable="0">
           <mxGeometry x="950" y="490" width="150.5" height="90" as="geometry" />
         </mxCell>
@@ -957,6 +954,9 @@
         </mxCell>
         <mxCell id="0XsjRdf76sN22lzuZFz7-59" value="Communication&lt;div&gt;Hub&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="740.8117596566523" y="129.00071428571437" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0XsjRdf76sN22lzuZFz7-60" value="AWS Fargate" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.fargate;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="1006.25" y="-681.63" width="52.8" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
