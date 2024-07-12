@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T23:24:42.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HZceXT4e8s8Whfm6itsL" version="24.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-12T23:29:06.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0r_hmiZgUps1MX0RpO-7" version="24.6.5" type="github" pages="6">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="2206" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -317,7 +317,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Architechture" id="SlBzTVeqFdqKTDmZe6ph">
-    <mxGraphModel dx="2049" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IXOz85ADF_nXkDeNcJsj-0" />
         <mxCell id="IXOz85ADF_nXkDeNcJsj-1" parent="IXOz85ADF_nXkDeNcJsj-0" />
@@ -855,19 +855,16 @@
           <mxGeometry x="257.28" y="890" width="512.72" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0XsjRdf76sN22lzuZFz7-3" value="&lt;font color=&quot;#330000&quot;&gt;On-Premise AT&amp;amp;T&lt;/font&gt;" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#6c8ebf;fillColor=#dae8fc;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="979.5" y="896" width="150.5" height="225" as="geometry" />
+          <mxGeometry x="979.5" y="940" width="150.5" height="181" as="geometry" />
         </mxCell>
         <mxCell id="0XsjRdf76sN22lzuZFz7-4" value="Communication Hub&lt;div style=&quot;font-size: 16px;&quot;&gt;V 1.0&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="40" y="860" width="396" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0XsjRdf76sN22lzuZFz7-5" value="SMPP" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="1001.5" y="930" width="100" height="50" as="geometry" />
+        <mxCell id="0XsjRdf76sN22lzuZFz7-5" value="SMSC" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="1001.5" y="983.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0XsjRdf76sN22lzuZFz7-6" value="Tralixx" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="1001.5" y="1057" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0XsjRdf76sN22lzuZFz7-26" value="Campaign" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="1001.5" y="995" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0XsjRdf76sN22lzuZFz7-29" value="AWS - AT&amp;amp;T" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#d6b656;fillColor=#fff2cc;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="260" y="1380" width="510" height="108" as="geometry" />
@@ -911,7 +908,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0XsjRdf76sN22lzuZFz7-48" value="AT&amp;amp;T&lt;div&gt;Digital Applications&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Enterprise_Applications.svg;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="97" y="1164" width="64" height="64" as="geometry" />
+          <mxGeometry x="109.94" y="1164" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="0XsjRdf76sN22lzuZFz7-50" value="" style="group" vertex="1" connectable="0" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="447.03000000000003" y="1111" width="134" height="170" as="geometry" />
