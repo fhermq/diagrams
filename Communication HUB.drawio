@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T22:38:16.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Pw0e2-TFJYKjxYWFsBh9" version="24.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-12T22:44:29.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ntzJSEu4_lXCg7aQ9CAF" version="24.6.5" type="github" pages="6">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="2206" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -913,23 +913,14 @@
         <mxCell id="0XsjRdf76sN22lzuZFz7-43" value="Monitor" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="892" y="967" width="54.800000000000004" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="0XsjRdf76sN22lzuZFz7-44" value="Log" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cloudwatch_logs;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="892" y="1188.5" width="57.83" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="0XsjRdf76sN22lzuZFz7-46" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="870.92" y="1135.41" as="sourcePoint" />
-            <mxPoint x="970.92" y="1135.41" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5sOkZJuOn9zkHj_lGv9N-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1" source="0XsjRdf76sN22lzuZFz7-48" target="0XsjRdf76sN22lzuZFz7-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0XsjRdf76sN22lzuZFz7-48" value="AT&amp;amp;T&lt;div&gt;Digital Applications&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Enterprise_Applications.svg;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="85.68" y="1139" width="64" height="64" as="geometry" />
+          <mxGeometry x="85.68" y="1150" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="0XsjRdf76sN22lzuZFz7-50" value="" style="group" vertex="1" connectable="0" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="349.71000000000004" y="1100" width="134" height="170" as="geometry" />
+          <mxGeometry x="349.71000000000004" y="1111" width="134" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0XsjRdf76sN22lzuZFz7-51" value="AWS - AT&amp;amp;T" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#d6b656;fillColor=#fff2cc;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="0XsjRdf76sN22lzuZFz7-50">
           <mxGeometry width="134" height="170" as="geometry" />
