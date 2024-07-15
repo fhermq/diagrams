@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T22:15:43.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_uMEutP90kAepASzS4Fi" version="24.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-15T22:15:55.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GL02mUbiJNZBQQVhVMFx" version="24.6.5" type="github" pages="5">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="2206" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1619,7 +1619,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="2404" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2669" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -2266,22 +2266,22 @@
           <mxGeometry x="1900" y="-467" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-21" value="Validar Capacidades" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="2130" y="-790" width="120" height="60" as="geometry" />
+          <mxGeometry x="2130" y="-706" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-23" value="Enviar mensaje" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="2130" y="-713" width="120" height="60" as="geometry" />
+          <mxGeometry x="2130" y="-629" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-24" value="Webhook" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="2130" y="-635" width="120" height="60" as="geometry" />
+          <mxGeometry x="2130" y="-551" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-34" value="Manejo de Errores" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="2130" y="-558" width="120" height="60" as="geometry" />
+          <mxGeometry x="2130" y="-474" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-35" value="Reintentos" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="2130" y="-481" width="120" height="60" as="geometry" />
+          <mxGeometry x="2130" y="-397" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-38" value="Registro DB" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="2130" y="-404" width="120" height="60" as="geometry" />
+          <mxGeometry x="2130" y="-320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-40" value="RCS" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="10" y="-810" width="1130" height="780" as="geometry" />
@@ -2331,10 +2331,10 @@
           <mxGeometry x="1520" y="-237.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-63" value="AppDynamics" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="2130" y="-326" width="120" height="60" as="geometry" />
+          <mxGeometry x="2130" y="-242" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-64" value="Logging" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="2130" y="-249.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="2130" y="-165.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-67" value="RCS" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="1189" y="-810" width="1130" height="780" as="geometry" />
