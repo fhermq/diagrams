@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T23:17:00.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="W4Z7gzZC64RPebDS2DLS" version="24.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-15T23:17:07.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ah430RXahWXfrv3dwoog" version="24.6.5" type="github" pages="5">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="2206" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2354,7 +2354,7 @@
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-69" value="Exposición API" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="1310" y="-509.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h-cxNmTWmCQNc7GuBQIM-75" value="Network" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+        <mxCell id="h-cxNmTWmCQNc7GuBQIM-75" value="Network" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="1310" y="-422.25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
