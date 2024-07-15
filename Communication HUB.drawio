@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T21:55:36.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TVMHochmKyXrxPQ9Yr4i" version="24.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-15T21:56:14.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="L30-_oqrO6FNRfROyK5C" version="24.6.5" type="github" pages="5">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="2206" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1619,7 +1619,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="1615" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2784" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -2144,7 +2144,7 @@
           <mxGeometry x="2360" y="310" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iesrg7Y95S7DJRIzqtIw-1" value="Necesita actualización" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="199" y="-60" width="770" height="30" as="geometry" />
+          <mxGeometry x="-780" y="90" width="770" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7UQhtaWCes0n2FLjp3Vy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" target="7UQhtaWCes0n2FLjp3Vy-9">
           <mxGeometry relative="1" as="geometry">
@@ -2279,6 +2279,9 @@
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-38" value="Registro DB" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="1377" y="-247.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h-cxNmTWmCQNc7GuBQIM-40" value="WSO2 - Microservice - MSK - DB" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+          <mxGeometry x="10" y="-810" width="1130" height="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
