@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T15:29:47.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SUhUfmJqWp7k4bKs94bg" version="24.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-15T15:30:03.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xXCJ-UVhsP0ytSUYDh8A" version="24.6.5" type="github" pages="6">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="2206" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2598,8 +2598,8 @@
         <mxCell id="zzHe1vNg4ZVs9PEsnYRN-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Google RCS&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Modelo de socios, misma credencial muchos agentes.&lt;/li&gt;&lt;li&gt;Recepcion de las respuesta de los usuarios.&lt;/li&gt;&lt;li&gt;Agente manda las notificaciones.&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="2360" y="310" width="350" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iesrg7Y95S7DJRIzqtIw-1" value="NEcesita actualización" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="530" y="-160" width="410" height="30" as="geometry" />
+        <mxCell id="iesrg7Y95S7DJRIzqtIw-1" value="NEcesita actualización" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+          <mxGeometry x="450" y="-160" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
