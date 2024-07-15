@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T22:20:00.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rKdiRPeSwcalLnlEx99u" version="24.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-15T22:20:28.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="30FLGk53JXSOe39U_1o7" version="24.6.5" type="github" pages="5">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="2206" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1619,7 +1619,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3078" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2784" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -2262,7 +2262,7 @@
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="h-cxNmTWmCQNc7GuBQIM-20" target="h-cxNmTWmCQNc7GuBQIM-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-cxNmTWmCQNc7GuBQIM-20" value="Micoservicios" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+        <mxCell id="h-cxNmTWmCQNc7GuBQIM-20" value="Micoservicios" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="1783" y="-479.25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-21" value="Validar Capacidades" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
@@ -2309,7 +2309,7 @@
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="h-cxNmTWmCQNc7GuBQIM-48" target="h-cxNmTWmCQNc7GuBQIM-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-cxNmTWmCQNc7GuBQIM-48" value="Active&lt;div&gt;MSK&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+        <mxCell id="h-cxNmTWmCQNc7GuBQIM-48" value="Active&lt;div&gt;MSK&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="1639" y="-622.25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-49" value="Eventos RCS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
@@ -2324,7 +2324,7 @@
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="h-cxNmTWmCQNc7GuBQIM-57" target="h-cxNmTWmCQNc7GuBQIM-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-cxNmTWmCQNc7GuBQIM-57" value="DLQ&lt;div&gt;MSK&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+        <mxCell id="h-cxNmTWmCQNc7GuBQIM-57" value="DLQ&lt;div&gt;MSK&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="1639" y="-319.75" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-58" value="Eventos RCS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
@@ -2348,7 +2348,7 @@
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="h-cxNmTWmCQNc7GuBQIM-68" target="h-cxNmTWmCQNc7GuBQIM-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h-cxNmTWmCQNc7GuBQIM-68" value="WSO2" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+        <mxCell id="h-cxNmTWmCQNc7GuBQIM-68" value="WSO2" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="1443" y="-479.25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-69" value="Exposición API" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
