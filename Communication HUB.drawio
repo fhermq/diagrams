@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T14:47:51.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="oRIev26MXT57h0mm5ah9" version="24.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-16T14:49:39.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="q2a1L-1l8w6yNtKNRzcb" version="24.6.5" type="github" pages="5">
   <diagram name="V2" id="0bJsG0tTesRoOmyfd_Is">
     <mxGraphModel dx="2206" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2262,6 +2262,9 @@
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="rP9GFd3awMIlGuRAaZDD-1" source="h-cxNmTWmCQNc7GuBQIM-20" target="h-cxNmTWmCQNc7GuBQIM-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JmClTFrFMb0gHki3Ya7v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="h-cxNmTWmCQNc7GuBQIM-20" target="JmClTFrFMb0gHki3Ya7v-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-20" value="Micoservicios" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="1731" y="-479.25" width="80" height="80" as="geometry" />
         </mxCell>
@@ -2349,10 +2352,10 @@
           <mxGeometry x="1701" y="-269.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-63" value="AppDynamics" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="1961" y="-254.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="1961" y="-187.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-64" value="Logging" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="1961" y="-177.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1961" y="-117.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-67" value="RCS" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="1189" y="-810" width="1130" height="780" as="geometry" />
@@ -2386,6 +2389,9 @@
         </mxCell>
         <mxCell id="JmClTFrFMb0gHki3Ya7v-4" value="Notificar" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="2157" y="-486.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JmClTFrFMb0gHki3Ya7v-7" value="Consulta transacciones" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+          <mxGeometry x="1961" y="-257.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
