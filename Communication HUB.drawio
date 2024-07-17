@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T16:28:57.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pj_WFjEJ4NEp6O7P6fdZ" version="24.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-17T16:51:28.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="W6YoHSsr46_dCnkI8oi3" version="24.6.5" type="github" pages="5">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
-    <mxGraphModel dx="1235" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IXOz85ADF_nXkDeNcJsj-0" />
         <mxCell id="IXOz85ADF_nXkDeNcJsj-1" parent="IXOz85ADF_nXkDeNcJsj-0" />
@@ -758,10 +758,10 @@
         <mxCell id="keBm4LUxpATf1Yy-_MzE-22" value="MongoDB" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="888.9300000000001" y="1974" width="102.4" height="102.4" as="geometry" />
         </mxCell>
-        <mxCell id="xxS9eHEEResqtMFATGAL-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Prioridad Prepago&lt;/h1&gt;&lt;p&gt;1. RCS&amp;nbsp; - Gonz&lt;/p&gt;&lt;p&gt;2. SMS 2 vias. - Ordoñez&lt;/p&gt;&lt;p&gt;1 de eneo 2024&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+        <mxCell id="xxS9eHEEResqtMFATGAL-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Prioridad Prepago&lt;/h1&gt;&lt;p&gt;1. RCS&amp;nbsp; - Gonzalo&lt;/p&gt;&lt;p&gt;2. SMS 2 vias. - Ordoñez&lt;/p&gt;&lt;p&gt;1 de eneo 2024a&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="1310" y="-661.31" width="250" height="121.31" as="geometry" />
         </mxCell>
-        <mxCell id="xxS9eHEEResqtMFATGAL-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Prioridad Pospago&lt;/h1&gt;&lt;p&gt;1. Mail - Michel.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+        <mxCell id="xxS9eHEEResqtMFATGAL-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Prioridad Pospago&lt;/h1&gt;&lt;p&gt;1. Mail - Michel.(FM)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="1310" y="-514.5" width="250" height="111.31" as="geometry" />
         </mxCell>
       </root>
