@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T17:09:28.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OqHrx683G9k01XaLYieS" version="24.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-17T17:40:18.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pDkfFN7zScm_1e3HJtx1" version="24.6.5" type="github" pages="5">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="989" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1487,7 +1487,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="2600" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2654" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -2284,6 +2284,9 @@
         </mxCell>
         <mxCell id="KzedJUANIyQDccm49_Ii-1" value="Reinto&amp;nbsp;&lt;div&gt;en SMS *&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;fontStyle=1" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="2157" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzedJUANIyQDccm49_Ii-5" value="Los reintentos de hacen en el micro servicio,&#xa;    Si no se alcanza entonces se mueve a los muertos." style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+          <mxGeometry x="-610" y="-230" width="320" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
