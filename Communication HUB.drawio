@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T17:27:37.587Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mf8NHj4iFOpXHXCXqysl" version="24.7.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-20T17:27:50.879Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jjCYiCsV-cb7FZqh36H6" version="24.7.1" type="github" pages="5">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="989" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -768,7 +768,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="739" dy="2884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="194" dy="2533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -1027,9 +1027,6 @@
         <mxCell id="ncvDwBFR9tYOOJ8dNLI7-11" value="errors" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_task;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="2525.969298245614" y="-855.75" width="37" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="l0LAmyuj-OCzAB9VSSDm-144" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.motivaconsulting.com/wp-content/uploads/2020/12/kibana0.jpg;clipPath=inset(7.37% 14% 9.47% 16%);" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
-          <mxGeometry x="2888.84" y="-1104.13" width="108.32" height="81.5" as="geometry" />
-        </mxCell>
         <mxCell id="ncvDwBFR9tYOOJ8dNLI7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="ncvDwBFR9tYOOJ8dNLI7-14" target="e_Ctu_K7nTrESrf8KY_8-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1038,6 +1035,9 @@
         </mxCell>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-121" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/appdynamics_logo_icon_170537.png;clipPath=inset(16.67% 2.67% 16.67% 1.67%);" parent="ncvDwBFR9tYOOJ8dNLI7-14" vertex="1">
           <mxGeometry x="13.289999999999964" y="188.55999999999995" width="123.41" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="l0LAmyuj-OCzAB9VSSDm-144" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.motivaconsulting.com/wp-content/uploads/2020/12/kibana0.jpg;clipPath=inset(7.37% 14% 9.47% 16%);" parent="ncvDwBFR9tYOOJ8dNLI7-14" vertex="1">
+          <mxGeometry x="18.840000000000146" y="59.059999999999945" width="108.32" height="81.5" as="geometry" />
         </mxCell>
         <mxCell id="ncvDwBFR9tYOOJ8dNLI7-22" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.auto_scaling3;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="2553" y="-1087" width="30" height="30" as="geometry" />
