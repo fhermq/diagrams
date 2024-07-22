@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T22:21:21.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="iVlwSspOer_4ChvISEkQ" version="24.7.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-22T22:26:33.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="m12mPYw_SCFK_KK1u-AQ" version="24.7.3" type="github" pages="5">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -768,7 +768,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="265" dy="2393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="518" dy="2523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -1076,7 +1076,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="2179" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3776" dy="2171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -1650,7 +1650,7 @@
         <mxCell id="7UQhtaWCes0n2FLjp3Vy-16" value="MSK" style="whiteSpace=wrap;html=1;rounded=0;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="373" y="-579.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KzedJUANIyQDccm49_Ii-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="7UQhtaWCes0n2FLjp3Vy-18" target="KzedJUANIyQDccm49_Ii-6">
+        <mxCell id="KzedJUANIyQDccm49_Ii-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rP9GFd3awMIlGuRAaZDD-1" source="7UQhtaWCes0n2FLjp3Vy-18" target="KzedJUANIyQDccm49_Ii-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7UQhtaWCes0n2FLjp3Vy-18" value="MongoDB" style="whiteSpace=wrap;html=1;rounded=0;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
@@ -1755,13 +1755,13 @@
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-24" value="Webhook" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="1961" y="-568.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KzedJUANIyQDccm49_Ii-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="h-cxNmTWmCQNc7GuBQIM-34" target="JmClTFrFMb0gHki3Ya7v-4">
+        <mxCell id="KzedJUANIyQDccm49_Ii-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rP9GFd3awMIlGuRAaZDD-1" source="h-cxNmTWmCQNc7GuBQIM-34" target="JmClTFrFMb0gHki3Ya7v-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-34" value="Manejo de Errores" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="1961" y="-491.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KzedJUANIyQDccm49_Ii-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="h-cxNmTWmCQNc7GuBQIM-35" target="KzedJUANIyQDccm49_Ii-1">
+        <mxCell id="KzedJUANIyQDccm49_Ii-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="rP9GFd3awMIlGuRAaZDD-1" source="h-cxNmTWmCQNc7GuBQIM-35" target="KzedJUANIyQDccm49_Ii-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-35" value="Reintentos" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
@@ -1862,7 +1862,7 @@
         <mxCell id="JmClTFrFMb0gHki3Ya7v-4" value="Notificar" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;fontStyle=1" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="2157" y="-491.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KzedJUANIyQDccm49_Ii-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="JmClTFrFMb0gHki3Ya7v-7" target="h-cxNmTWmCQNc7GuBQIM-38">
+        <mxCell id="KzedJUANIyQDccm49_Ii-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rP9GFd3awMIlGuRAaZDD-1" source="JmClTFrFMb0gHki3Ya7v-7" target="h-cxNmTWmCQNc7GuBQIM-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JmClTFrFMb0gHki3Ya7v-7" value="Consulta transacciones" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
@@ -1874,20 +1874,23 @@
         <mxCell id="JmClTFrFMb0gHki3Ya7v-11" value="Configuración&amp;nbsp;&lt;div&gt;C Hub&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="1961" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KzedJUANIyQDccm49_Ii-1" value="Reinto&amp;nbsp;&lt;div&gt;en SMS *&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;fontStyle=1" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+        <mxCell id="KzedJUANIyQDccm49_Ii-1" value="Reinto&amp;nbsp;&lt;div&gt;en SMS *&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;fontStyle=1" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="2157" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KzedJUANIyQDccm49_Ii-5" value="Los reintentos de hacen en el micro servicio,&#xa;    Si no se alcanza entonces se mueve a los muertos." style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+        <mxCell id="KzedJUANIyQDccm49_Ii-5" value="Los reintentos de hacen en el micro servicio,&#xa;    Si no se alcanza entonces se mueve a los muertos." style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="-610" y="-230" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KzedJUANIyQDccm49_Ii-6" value="DataModel&lt;div&gt;TM Forum&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+        <mxCell id="KzedJUANIyQDccm49_Ii-6" value="DataModel&lt;div&gt;TM Forum&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="573" y="-499.5" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="https://www.tmforum.org/oda/open-apis/directory/communication-management-api-TMF681/v4.0.0" link="https://www.tmforum.org/oda/open-apis/directory/communication-management-api-TMF681/v4.0.0" id="KzedJUANIyQDccm49_Ii-8">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+          <mxCell style="text;whiteSpace=wrap;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
             <mxGeometry x="557" y="-418" width="560" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="UUdvHU9e1a57-D0WhLT9-0" value="Cada paso un registro de la txs" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+          <mxGeometry x="-940" y="-664.5" width="320" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
