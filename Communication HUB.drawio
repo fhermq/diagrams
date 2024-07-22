@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T22:18:21.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZConqYWb7bULKWD766lN" version="24.7.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-22T22:21:21.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="iVlwSspOer_4ChvISEkQ" version="24.7.3" type="github" pages="5">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -768,7 +768,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="518" dy="2523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="265" dy="2393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -806,7 +806,7 @@
           <mxGeometry x="270" y="854" width="31.91" height="18" as="geometry" />
         </mxCell>
         <mxCell id="e_Ctu_K7nTrESrf8KY_8-37" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" parent="e_Ctu_K7nTrESrf8KY_8-66" vertex="1">
-          <mxGeometry x="640" y="141.30000000000007" width="76.7" height="76.7" as="geometry" />
+          <mxGeometry x="640" y="102.00000000000007" width="76.7" height="76.7" as="geometry" />
         </mxCell>
         <mxCell id="ncvDwBFR9tYOOJ8dNLI7-1" value="Availability zone" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
           <mxGeometry x="2325" y="-1292" width="150" height="722" as="geometry" />
