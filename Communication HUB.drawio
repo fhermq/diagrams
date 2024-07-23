@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T19:11:22.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="99IAofJh59ECnWNiDpSW" version="24.7.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-23T19:31:58.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Gv8zIJRK6CMUva4QSVIv" version="24.7.3" type="github" pages="5">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1096,6 +1096,9 @@
               <mxPoint x="2758" y="-790" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CMZHtYOe69qZ73_WvTWN-0" value="Fargate no esta autorizado por CSO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="3060" y="-1382" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
