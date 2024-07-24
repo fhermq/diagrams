@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T15:17:20.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SME71lAMhgSXsE36cowA" version="24.7.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-24T15:18:17.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4-zjCniA7HpUG65r2BbU" version="24.7.1" type="github" pages="5">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1858,9 +1858,6 @@
         </UserObject>
         <mxCell id="UUdvHU9e1a57-D0WhLT9-0" value="Cada paso un registro de la txs" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="-940" y="-664.5" width="320" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rj1ZD0UgvdufAnUPzZbr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="rP9GFd3awMIlGuRAaZDD-4" target="rj1ZD0UgvdufAnUPzZbr-0">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rj1ZD0UgvdufAnUPzZbr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="rP9GFd3awMIlGuRAaZDD-78" target="rj1ZD0UgvdufAnUPzZbr-2">
           <mxGeometry relative="1" as="geometry" />
