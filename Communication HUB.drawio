@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T20:53:24.615Z" version="24.7.2" etag="SCxJsoVJfanV5GPrxvgV" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T20:54:33.330Z" version="24.7.2" etag="SFNJ1SLv2wF490_mRIin" type="github" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1195" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2138,7 +2138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="1966" dy="1269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2856" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -2152,7 +2152,7 @@
           <mxGeometry x="80" y="80" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KBT-5L2El-NUVQtc919i-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBT-5L2El-NUVQtc919i-3">
-          <mxGeometry x="80" y="600" width="10" height="40" as="geometry" />
+          <mxGeometry x="80" y="580" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KBT-5L2El-NUVQtc919i-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBT-5L2El-NUVQtc919i-3">
           <mxGeometry x="80" y="210" width="10" height="60" as="geometry" />
@@ -2197,15 +2197,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vyoScroRCc8OIhdbfpBf-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBT-5L2El-NUVQtc919i-3">
-          <mxGeometry x="80" y="500" width="10" height="60" as="geometry" />
+          <mxGeometry x="80" y="488" width="10" height="52" as="geometry" />
         </mxCell>
         <mxCell id="vyoScroRCc8OIhdbfpBf-13" value="Error Handler" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="vyoScroRCc8OIhdbfpBf-12" parent="KBT-5L2El-NUVQtc919i-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="85" y="470" as="sourcePoint" />
+            <mxPoint x="85" y="458" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="470" />
-              <mxPoint x="115" y="470" />
-              <mxPoint x="115" y="510" />
+              <mxPoint x="85" y="458" />
+              <mxPoint x="115" y="458" />
+              <mxPoint x="115" y="498" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2356,7 +2356,7 @@
           <mxGeometry x="45" y="210" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vyoScroRCc8OIhdbfpBf-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBT-5L2El-NUVQtc919i-47">
-          <mxGeometry x="45" y="500" width="10" height="60" as="geometry" />
+          <mxGeometry x="45" y="484" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBT-5L2El-NUVQtc919i-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="vyoScroRCc8OIhdbfpBf-0">
           <mxGeometry relative="1" as="geometry">
@@ -2408,13 +2408,13 @@
             <mxPoint x="417.99999999999955" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KBT-5L2El-NUVQtc919i-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="vyoScroRCc8OIhdbfpBf-12" target="KBT-5L2El-NUVQtc919i-16">
+        <mxCell id="KBT-5L2El-NUVQtc919i-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="vyoScroRCc8OIhdbfpBf-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375.68" y="620" as="sourcePoint" />
-            <mxPoint x="250.00352941176465" y="620" as="targetPoint" />
+            <mxPoint x="375.68" y="608" as="sourcePoint" />
+            <mxPoint x="255" y="607.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="620" />
-              <mxPoint x="340" y="620" />
+              <mxPoint x="340" y="608" />
+              <mxPoint x="340" y="608" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2426,8 +2426,8 @@
         <mxCell id="KBT-5L2El-NUVQtc919i-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="KBT-5L2El-NUVQtc919i-5" target="KBT-5L2El-NUVQtc919i-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="700" />
-              <mxPoint x="280" y="700" />
+              <mxPoint x="280" y="680" />
+              <mxPoint x="280" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
