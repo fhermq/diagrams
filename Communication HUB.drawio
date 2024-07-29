@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T20:42:33.675Z" version="24.7.2" etag="HW_oEEX_vDXAHdSI0Pmu" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T20:43:21.688Z" version="24.7.2" etag="TH2aUfaagVQq9KGO8iGY" type="github" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1195" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2138,7 +2138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="2364" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2193" dy="1395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -3030,11 +3030,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vyoScroRCc8OIhdbfpBf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="vyoScroRCc8OIhdbfpBf-5" target="vyoScroRCc8OIhdbfpBf-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="490" />
+              <mxPoint x="590" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="vyoScroRCc8OIhdbfpBf-9" value="Produce Message RCS&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vyoScroRCc8OIhdbfpBf-8">
+        <mxCell id="vyoScroRCc8OIhdbfpBf-9" value="Produce Message RCS&amp;nbsp;&lt;div&gt;state:initial&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vyoScroRCc8OIhdbfpBf-8">
           <mxGeometry x="0.7473" y="2" relative="1" as="geometry">
-            <mxPoint x="-32" y="-8" as="offset" />
+            <mxPoint x="-32" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vyoScroRCc8OIhdbfpBf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="vyoScroRCc8OIhdbfpBf-7" target="vyoScroRCc8OIhdbfpBf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="510" />
+              <mxPoint x="590" y="510" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
