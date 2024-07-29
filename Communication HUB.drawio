@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T23:46:50.325Z" version="24.7.2" etag="vNT9Hw40hGbfOo0Ipx5h" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T23:48:01.799Z" version="24.7.2" etag="Cb5tbIpFq-s_WO6b6AJH" type="github" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1195" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -978,7 +978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="2762" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -1252,7 +1252,7 @@
           <mxGeometry x="1240" y="80" width="120" height="680" as="geometry" />
         </mxCell>
         <mxCell id="_p8_hxU0lWHtYo5vgcc3-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-72">
-          <mxGeometry x="55" y="90" width="10" height="80" as="geometry" />
+          <mxGeometry x="55" y="90" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-74" value="DB&lt;div&gt;Doc:&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;rcsCapabilities&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="1646" y="80" width="161" height="680" as="geometry" />
@@ -1310,6 +1310,17 @@
         </mxCell>
         <mxCell id="4hKPDcKGH7ij0OU1nmbY-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-77">
           <mxGeometry x="117" y="384" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4hKPDcKGH7ij0OU1nmbY-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-77">
+          <mxGeometry x="117" y="630" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4hKPDcKGH7ij0OU1nmbY-30" value="Error Handler" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="4hKPDcKGH7ij0OU1nmbY-29" parent="rP9GFd3awMIlGuRAaZDD-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="122" y="610" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="152" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-93" value="API Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="1020" y="540" width="97" height="40" as="geometry" />
