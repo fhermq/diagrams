@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T22:58:17.189Z" version="24.7.2" etag="PK7iJz2GoPGzsET4UmIG" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T22:59:12.752Z" version="24.7.2" etag="2Xsd5v7Ng8ytBGcipoLW" type="github" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1195" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -978,7 +978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="1886" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1869" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -1006,7 +1006,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="rP9GFd3awMIlGuRAaZDD-3" vertex="1">
-          <mxGeometry x="90" y="335" width="10" height="65" as="geometry" />
+          <mxGeometry x="90" y="335" width="10" height="45" as="geometry" />
         </mxCell>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-9" value="Error Handler" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="rP9GFd3awMIlGuRAaZDD-3" target="rP9GFd3awMIlGuRAaZDD-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1164,18 +1164,18 @@
             <mxPoint x="-9" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rP9GFd3awMIlGuRAaZDD-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="rP9GFd3awMIlGuRAaZDD-8" edge="1">
+        <mxCell id="rP9GFd3awMIlGuRAaZDD-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="rP9GFd3awMIlGuRAaZDD-8" edge="1" target="rP9GFd3awMIlGuRAaZDD-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="249.32352941176464" y="455" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="455" />
-              <mxPoint x="290" y="455" />
+              <mxPoint x="380" y="440" />
+              <mxPoint x="380" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-57" value="Service Unavailable&lt;div&gt;503&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rP9GFd3awMIlGuRAaZDD-56" vertex="1" connectable="0">
           <mxGeometry x="-0.2952" y="-1" relative="1" as="geometry">
-            <mxPoint x="-11" y="-14" as="offset" />
+            <mxPoint x="-11" y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="rP9GFd3awMIlGuRAaZDD-10" target="rP9GFd3awMIlGuRAaZDD-15" edge="1">
