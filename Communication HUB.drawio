@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T20:33:59.467Z" version="24.7.2" etag="XZpdjv-9RZQfxClJpxU6" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T20:35:45.412Z" version="24.7.2" etag="cSU95NImn0_fCo0oSiey" type="github" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1195" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2138,7 +2138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="2125" dy="1357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1904" dy="1235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -2304,33 +2304,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KBT-5L2El-NUVQtc919i-38" value="MSK:ErrorEvents" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="630" y="80" width="100" height="680" as="geometry" />
-        </mxCell>
-        <mxCell id="KBT-5L2El-NUVQtc919i-39" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBT-5L2El-NUVQtc919i-38">
-          <mxGeometry x="45" y="375" width="10" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="KBT-5L2El-NUVQtc919i-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-38" target="KBT-5L2El-NUVQtc919i-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-79" y="385" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-14" y="385" />
-              <mxPoint x="-14" y="385" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KBT-5L2El-NUVQtc919i-41" value="Create Event Error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KBT-5L2El-NUVQtc919i-40">
-          <mxGeometry x="0.3905" y="1" relative="1" as="geometry">
-            <mxPoint x="-21" y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KBT-5L2El-NUVQtc919i-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-38" source="KBT-5L2El-NUVQtc919i-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-79" y="405" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="16" y="405" />
-              <mxPoint x="16" y="405" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1119" y="70" width="100" height="680" as="geometry" />
         </mxCell>
         <mxCell id="KBT-5L2El-NUVQtc919i-43" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBT-5L2El-NUVQtc919i-38">
           <mxGeometry x="45" y="540" width="10" height="43" as="geometry" />
@@ -2359,7 +2333,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KBT-5L2El-NUVQtc919i-47" value="DB:Mongo" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="899" y="80" width="100" height="680" as="geometry" />
+          <mxGeometry x="557" y="80" width="100" height="680" as="geometry" />
         </mxCell>
         <mxCell id="KBT-5L2El-NUVQtc919i-48" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KBT-5L2El-NUVQtc919i-47">
           <mxGeometry x="45" y="434" width="10" height="50" as="geometry" />
@@ -2400,8 +2374,8 @@
         <mxCell id="KBT-5L2El-NUVQtc919i-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="KBT-5L2El-NUVQtc919i-10" target="KBT-5L2El-NUVQtc919i-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="300" />
-              <mxPoint x="720" y="300" />
+              <mxPoint x="510" y="300" />
+              <mxPoint x="510" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2410,14 +2384,11 @@
             <mxPoint x="-8" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KBT-5L2El-NUVQtc919i-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="KBT-5L2El-NUVQtc919i-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="KBT-5L2El-NUVQtc919i-49" target="KBT-5L2El-NUVQtc919i-10">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="758" y="320" />
-              <mxPoint x="758" y="320" />
-            </Array>
-            <mxPoint x="942" y="320" as="sourcePoint" />
-            <mxPoint x="417.99999999999955" y="320" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="602" y="330" as="sourcePoint" />
+            <mxPoint x="417.99999999999955" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KBT-5L2El-NUVQtc919i-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="KBT-5L2El-NUVQtc919i-11" target="KBT-5L2El-NUVQtc919i-48">
