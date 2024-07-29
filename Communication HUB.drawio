@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T23:16:17.793Z" version="24.7.2" etag="3jMzumrfdb9qmgQDmVqv" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T23:16:52.522Z" version="24.7.2" etag="TpOYTtpkJpkdsf5VNWjw" type="github" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1195" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2118,6 +2118,14 @@
         <mxCell id="_p8_hxU0lWHtYo5vgcc3-14" value="Search DNs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_p8_hxU0lWHtYo5vgcc3-13">
           <mxGeometry x="0.1703" relative="1" as="geometry">
             <mxPoint x="18" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_p8_hxU0lWHtYo5vgcc3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="_p8_hxU0lWHtYo5vgcc3-12" target="_p8_hxU0lWHtYo5vgcc3-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1600" y="310" />
+              <mxPoint x="1600" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
