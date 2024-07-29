@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T23:21:23.853Z" version="24.7.2" etag="DClaVR3ovDfEVC1VwPvx" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T23:21:35.846Z" version="24.7.2" etag="GMVh_fto-cTtQ3LAa8jh" type="github" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1195" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1273,6 +1273,9 @@
               <mxPoint x="152" y="210" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_p8_hxU0lWHtYo5vgcc3-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-77">
+          <mxGeometry x="117" y="280" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-93" value="API Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="1020" y="540" width="97" height="40" as="geometry" />
