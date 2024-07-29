@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T20:56:51.078Z" version="24.7.2" etag="eH1w9v5SbVR8fD_oe6C2" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-29T20:57:02.439Z" version="24.7.2" etag="SFdENeo3rfzuumIeIF7X" type="github" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1195" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2138,11 +2138,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="3081" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2603" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
-        <mxCell id="KBT-5L2El-NUVQtc919i-2" value="Communication Message (1 to N)" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="KBT-5L2El-NUVQtc919i-2" value="Communication Message" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="20" y="20" width="1130" height="780" as="geometry" />
         </mxCell>
         <mxCell id="KBT-5L2El-NUVQtc919i-3" value="ms&lt;div&gt;api/V1/communicationMessage&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
