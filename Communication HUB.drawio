@@ -3073,7 +3073,7 @@
             <mxPoint x="-11" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-0" value="&lt;div&gt;Envío de Mensajes&amp;nbsp;&lt;/div&gt;&lt;div&gt;in Progress&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+        <mxCell id="tW5B_xERMkfsoMW4rIa_-0" value="&lt;div&gt;Envío de Mensajes&amp;nbsp;&lt;/div&gt;&lt;div&gt;initial&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="20" y="851" width="1130" height="780" as="geometry" />
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-1" value="API Manager&lt;div&gt;Google&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
