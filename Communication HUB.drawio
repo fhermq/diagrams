@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-30T00:55:29.662Z" version="24.7.2" etag="kA7iYlYQiGqZGZQspa_a" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-30T00:57:17.646Z" version="24.7.2" etag="Pf_-9MBt_HMuaQ-eXbTV" type="github" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1195" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1047,7 +1047,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rP9GFd3awMIlGuRAaZDD-63" value="Produce Message RCS&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;rcsCapabilities&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: initial&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rP9GFd3awMIlGuRAaZDD-62" vertex="1" connectable="0">
+        <mxCell id="rP9GFd3awMIlGuRAaZDD-63" value="Produce Message RCS&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;rcsCapabilities&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: inprogress&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rP9GFd3awMIlGuRAaZDD-62" vertex="1" connectable="0">
           <mxGeometry x="0.7568" y="2" relative="1" as="geometry">
             <mxPoint x="-44" y="-27" as="offset" />
           </mxGeometry>
@@ -2146,7 +2146,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_p8_hxU0lWHtYo5vgcc3-6" value="consume Message RCS&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;rcsCapabilities&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: initial&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_p8_hxU0lWHtYo5vgcc3-5">
+        <mxCell id="_p8_hxU0lWHtYo5vgcc3-6" value="consume Message RCS&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;rcsCapabilities&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: inprogress&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_p8_hxU0lWHtYo5vgcc3-5">
           <mxGeometry x="0.1365" y="3" relative="1" as="geometry">
             <mxPoint x="2" y="-27" as="offset" />
           </mxGeometry>
@@ -2159,7 +2159,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_p8_hxU0lWHtYo5vgcc3-9" value="get Event&amp;nbsp;&lt;div&gt;state:initial&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_p8_hxU0lWHtYo5vgcc3-8">
+        <mxCell id="_p8_hxU0lWHtYo5vgcc3-9" value="get Event&amp;nbsp;&lt;div&gt;state:inprogress&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_p8_hxU0lWHtYo5vgcc3-8">
           <mxGeometry x="0.2531" y="2" relative="1" as="geometry">
             <mxPoint x="10" y="-18" as="offset" />
           </mxGeometry>
