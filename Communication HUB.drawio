@@ -3191,7 +3191,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-30" value="consume Message RCS&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap; background-color: initial;&quot;&gt;rcsA&lt;/span&gt;&lt;span style=&quot;font-size: 10px; text-wrap: wrap; background-color: initial;&quot;&gt;gentMessages&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: inprogress&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tW5B_xERMkfsoMW4rIa_-29">
+        <mxCell id="tW5B_xERMkfsoMW4rIa_-30" value="consume Message RCS&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap; background-color: initial;&quot;&gt;rcsA&lt;/span&gt;&lt;span style=&quot;font-size: 10px; text-wrap: wrap; background-color: initial;&quot;&gt;gentMessages&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: initial&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tW5B_xERMkfsoMW4rIa_-29">
           <mxGeometry x="0.1365" y="3" relative="1" as="geometry">
             <mxPoint x="2" y="-27" as="offset" />
           </mxGeometry>
