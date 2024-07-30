@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-30T00:19:56.700Z" version="24.7.2" etag="eUVR0KJ2QbljjW4eYGui" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" modified="2024-07-30T00:21:00.451Z" version="24.7.2" etag="P82qP3NO7lezad-7pqbZ" type="github" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
     <mxGraphModel dx="1195" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -978,7 +978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="2603" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2193" dy="1395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -2542,7 +2542,7 @@
         <mxCell id="4hKPDcKGH7ij0OU1nmbY-87" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4hKPDcKGH7ij0OU1nmbY-85">
           <mxGeometry x="60" y="384" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4hKPDcKGH7ij0OU1nmbY-88" value="MSK&lt;div&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;rcsCapabilities&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+        <mxCell id="4hKPDcKGH7ij0OU1nmbY-88" value="MSK&lt;div&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;rcsNotification&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="3578" y="80" width="120" height="680" as="geometry" />
         </mxCell>
         <mxCell id="4hKPDcKGH7ij0OU1nmbY-89" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="4hKPDcKGH7ij0OU1nmbY-88">
@@ -2628,7 +2628,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hKPDcKGH7ij0OU1nmbY-110" value="consume Message RCS&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;rcsCapabilities&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: failed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4hKPDcKGH7ij0OU1nmbY-109">
+        <mxCell id="4hKPDcKGH7ij0OU1nmbY-110" value="consume Message RCS&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;rcsNotification&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: completed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4hKPDcKGH7ij0OU1nmbY-109">
           <mxGeometry x="0.1365" y="3" relative="1" as="geometry">
             <mxPoint x="2" y="-27" as="offset" />
           </mxGeometry>
