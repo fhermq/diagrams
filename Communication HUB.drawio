@@ -978,7 +978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="4544" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3182" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -2118,7 +2118,7 @@
             <mxPoint x="-10" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lLqqGRum1WOXZtQ-Iwz-1" value="Validación de Capacidades" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+        <mxCell id="4lLqqGRum1WOXZtQ-Iwz-1" value="Envío de Mensajes" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="20" y="24" width="1130" height="780" as="geometry" />
         </mxCell>
         <mxCell id="4lLqqGRum1WOXZtQ-Iwz-2" value="ms&lt;div&gt;v1/{name=phones/*}/capabilities&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
