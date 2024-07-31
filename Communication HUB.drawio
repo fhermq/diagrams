@@ -1364,7 +1364,7 @@
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-44" value="Communication Suscribers Webhook&lt;div&gt;PATCH&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="1180" y="851" width="1130" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="OUVjyIaOlNhXNz1q1GGE-45" value="ms&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="OUVjyIaOlNhXNz1q1GGE-45" value="&lt;div&gt;ms&lt;div&gt;v1/suscribersWebhook/{id}&lt;/div&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="1490" y="911" width="170" height="680" as="geometry" />
         </mxCell>
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-46" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="OUVjyIaOlNhXNz1q1GGE-45">
@@ -1474,7 +1474,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OUVjyIaOlNhXNz1q1GGE-66" value="Insert suscriber&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OUVjyIaOlNhXNz1q1GGE-65">
+        <mxCell id="OUVjyIaOlNhXNz1q1GGE-66" value="Update suscriber&lt;div&gt;id&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OUVjyIaOlNhXNz1q1GGE-65">
           <mxGeometry x="0.7529" y="-1" relative="1" as="geometry">
             <mxPoint x="-23" y="-19" as="offset" />
           </mxGeometry>
