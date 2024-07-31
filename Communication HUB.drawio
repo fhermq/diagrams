@@ -978,7 +978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="1247" dy="1518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -1812,13 +1812,22 @@
           <mxGeometry x="2189" y="3205" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-135" value="&lt;b&gt;Communication Message&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="540" y="-280" width="600" height="250" as="geometry" />
+          <mxGeometry x="520" y="-280" width="600" height="250" as="geometry" />
         </mxCell>
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-137" value="Secuencia de Eventos para el registro de mensajes y distribución a los diferentes Canales:&lt;div&gt;&lt;ul&gt;&lt;li&gt;Google RCS&lt;/li&gt;&lt;li&gt;SMS&lt;/li&gt;&lt;li&gt;Email&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="570" y="-220" width="445" height="70" as="geometry" />
+          <mxGeometry x="550" y="-220" width="445" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-138" value="Version: 1.0&lt;div&gt;Fecha: 30/07/2024&lt;/div&gt;&lt;div&gt;Diseño: Fernando Mirasol Quecholac&amp;nbsp;&lt;/div&gt;&lt;div&gt;Reviso: Javier Aguilar Herrera&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="560" y="-120" width="280" height="70" as="geometry" />
+          <mxGeometry x="540" y="-120" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OUVjyIaOlNhXNz1q1GGE-139" value="&lt;b&gt;Communication Message&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="1677" y="-290" width="600" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="OUVjyIaOlNhXNz1q1GGE-140" value="Secuencia de Eventos para el registro de mensajes y distribución a los diferentes Canales:&lt;div&gt;&lt;ul&gt;&lt;li&gt;Google RCS&lt;/li&gt;&lt;li&gt;SMS&lt;/li&gt;&lt;li&gt;Email&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="1707" y="-230" width="445" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OUVjyIaOlNhXNz1q1GGE-141" value="Version: 1.0&lt;div&gt;Fecha: 30/07/2024&lt;/div&gt;&lt;div&gt;Diseño: Fernando Mirasol Quecholac&amp;nbsp;&lt;/div&gt;&lt;div&gt;Reviso: Javier Aguilar Herrera&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="1697" y="-130" width="280" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
