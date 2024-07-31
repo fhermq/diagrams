@@ -978,7 +978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -1361,10 +1361,10 @@
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-38" value="BD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2180" y="720" width="97" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OUVjyIaOlNhXNz1q1GGE-44" value="Communication Suscribers Webhook&lt;div&gt;POST&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="OUVjyIaOlNhXNz1q1GGE-44" value="Communication Suscribers Webhook&lt;div&gt;PATCH&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="1180" y="851" width="1130" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="OUVjyIaOlNhXNz1q1GGE-45" value="ms&lt;div&gt;v1/suscribersWebhook&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="OUVjyIaOlNhXNz1q1GGE-45" value="ms&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="1490" y="911" width="170" height="680" as="geometry" />
         </mxCell>
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-46" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="OUVjyIaOlNhXNz1q1GGE-45">
@@ -1408,7 +1408,7 @@
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="OUVjyIaOlNhXNz1q1GGE-53">
           <mxGeometry x="45" y="80" width="10" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="OUVjyIaOlNhXNz1q1GGE-55" value="&lt;div&gt;POST&lt;br&gt;&lt;/div&gt;&lt;div&gt;v1/suscribersWebhook&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="OUVjyIaOlNhXNz1q1GGE-58" target="OUVjyIaOlNhXNz1q1GGE-53">
+        <mxCell id="OUVjyIaOlNhXNz1q1GGE-55" value="&lt;div&gt;PATCH&lt;br&gt;&lt;/div&gt;&lt;div&gt;v1/suscribersWebhook/{id}&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="OUVjyIaOlNhXNz1q1GGE-58" target="OUVjyIaOlNhXNz1q1GGE-53">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="1290" y="1011" as="sourcePoint" />
             <mxPoint x="1350" y="1011" as="targetPoint" />
