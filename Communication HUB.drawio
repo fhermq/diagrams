@@ -3900,7 +3900,7 @@
         <mxCell id="tW5B_xERMkfsoMW4rIa_-185" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tW5B_xERMkfsoMW4rIa_-180">
           <mxGeometry x="117" y="159" width="10" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-186" value="maximo&lt;div&gt;intentos?&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="tW5B_xERMkfsoMW4rIa_-180" target="tW5B_xERMkfsoMW4rIa_-185">
+        <mxCell id="tW5B_xERMkfsoMW4rIa_-186" value="maximo&lt;div&gt;intentos?&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontColor=#FF3399;" edge="1" parent="tW5B_xERMkfsoMW4rIa_-180" target="tW5B_xERMkfsoMW4rIa_-185">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="122" y="139" as="sourcePoint" />
             <Array as="points">
