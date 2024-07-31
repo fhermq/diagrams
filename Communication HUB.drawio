@@ -978,7 +978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="1366" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -1278,12 +1278,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OUVjyIaOlNhXNz1q1GGE-13" value="MSK&lt;div&gt;Topic:SendRCS&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="1910" y="80" width="100" height="680" as="geometry" />
-        </mxCell>
-        <mxCell id="OUVjyIaOlNhXNz1q1GGE-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="OUVjyIaOlNhXNz1q1GGE-13">
-          <mxGeometry x="45" y="390" width="10" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-15" value="API Manager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="1360" y="80" width="100" height="680" as="geometry" />
         </mxCell>
@@ -1359,7 +1353,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OUVjyIaOlNhXNz1q1GGE-29" value="Insert Event&amp;nbsp;&lt;div&gt;state:initial&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OUVjyIaOlNhXNz1q1GGE-28">
+        <mxCell id="OUVjyIaOlNhXNz1q1GGE-29" value="Insert suscriber&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OUVjyIaOlNhXNz1q1GGE-28">
           <mxGeometry x="0.7529" y="-1" relative="1" as="geometry">
             <mxPoint x="-23" y="-19" as="offset" />
           </mxGeometry>
@@ -1411,12 +1405,13 @@
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-38" value="BD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2180" y="720" width="97" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OUVjyIaOlNhXNz1q1GGE-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="OUVjyIaOlNhXNz1q1GGE-9" target="OUVjyIaOlNhXNz1q1GGE-14">
+        <mxCell id="OUVjyIaOlNhXNz1q1GGE-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="OUVjyIaOlNhXNz1q1GGE-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1750" y="490" />
               <mxPoint x="1750" y="490" />
             </Array>
+            <mxPoint x="1955" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-40" value="Produce Message RCS&amp;nbsp;&lt;div&gt;topic: S&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 12px; text-wrap: wrap;&quot;&gt;endRCS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;state:initial&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OUVjyIaOlNhXNz1q1GGE-39">
@@ -1424,12 +1419,13 @@
             <mxPoint x="-27" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OUVjyIaOlNhXNz1q1GGE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="OUVjyIaOlNhXNz1q1GGE-14" target="OUVjyIaOlNhXNz1q1GGE-9">
+        <mxCell id="OUVjyIaOlNhXNz1q1GGE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" target="OUVjyIaOlNhXNz1q1GGE-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1750" y="510" />
               <mxPoint x="1750" y="510" />
             </Array>
+            <mxPoint x="1955" y="510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="OUVjyIaOlNhXNz1q1GGE-11" target="OUVjyIaOlNhXNz1q1GGE-23">
