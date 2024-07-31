@@ -1833,7 +1833,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3704" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3441" dy="1439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -4455,6 +4455,15 @@
               <mxPoint x="1713" y="2900" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7eznRq-9QhfK3x6opYxB-0" value="&lt;b&gt;Google RCS&lt;/b&gt;&lt;div&gt;&lt;b&gt;Validación de Capacidades&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+          <mxGeometry x="-640" y="-280" width="600" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7eznRq-9QhfK3x6opYxB-1" value="API y secuencia de Eventos para la validación de capacidades de usuarios Google RCS&lt;div&gt;&lt;ul&gt;&lt;li&gt;1 a 1&amp;nbsp;&lt;/li&gt;&lt;li&gt;Batch&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+          <mxGeometry x="-610" y="-220" width="445" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7eznRq-9QhfK3x6opYxB-2" value="Version: 1.0&lt;div&gt;Fecha: 30/07/2024&lt;/div&gt;&lt;div&gt;Diseño: Fernando Mirasol Quecholac&amp;nbsp;&lt;/div&gt;&lt;div&gt;Reviso: Javier Aguilar Herrera&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+          <mxGeometry x="-620" y="-120" width="280" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
