@@ -1708,7 +1708,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3093" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3055" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -3897,7 +3897,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-188" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tW5B_xERMkfsoMW4rIa_-180">
-          <mxGeometry x="117" y="369" width="10" height="41" as="geometry" />
+          <mxGeometry x="117" y="459" width="10" height="41" as="geometry" />
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-189" value="API Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="2180" y="1371" width="97" height="40" as="geometry" />
@@ -3949,7 +3949,7 @@
           <mxGeometry x="1890" y="913.5" width="140" height="701" as="geometry" />
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-202" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tW5B_xERMkfsoMW4rIa_-201">
-          <mxGeometry x="64" y="366.5" width="10" height="43.5" as="geometry" />
+          <mxGeometry x="64" y="452.75" width="10" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="tW5B_xERMkfsoMW4rIa_-185" target="tW5B_xERMkfsoMW4rIa_-178">
           <mxGeometry relative="1" as="geometry">
@@ -4001,8 +4001,8 @@
         <mxCell id="tW5B_xERMkfsoMW4rIa_-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="tW5B_xERMkfsoMW4rIa_-188" target="tW5B_xERMkfsoMW4rIa_-202">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1570" y="1290" />
-              <mxPoint x="1570" y="1290" />
+              <mxPoint x="1530" y="1380" />
+              <mxPoint x="1530" y="1380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4014,8 +4014,8 @@
         <mxCell id="tW5B_xERMkfsoMW4rIa_-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="tW5B_xERMkfsoMW4rIa_-202" target="tW5B_xERMkfsoMW4rIa_-188">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1840" y="1310" />
-              <mxPoint x="1840" y="1310" />
+              <mxPoint x="1900" y="1400" />
+              <mxPoint x="1900" y="1400" />
             </Array>
           </mxGeometry>
         </mxCell>
