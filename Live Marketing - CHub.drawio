@@ -34,9 +34,6 @@
         <mxCell id="mYkssnVN8zuhKRkWFqy8-22" value="&lt;div&gt;Envío SMS&amp;nbsp;&lt;/div&gt;Bind&lt;div&gt;Sincrono&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="90" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mYkssnVN8zuhKRkWFqy8-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mYkssnVN8zuhKRkWFqy8-24" target="mYkssnVN8zuhKRkWFqy8-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mYkssnVN8zuhKRkWFqy8-24" value="Envío" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
           <mxGeometry x="90" y="975" width="80" height="30" as="geometry" />
         </mxCell>
@@ -57,9 +54,6 @@
         </mxCell>
         <mxCell id="mYkssnVN8zuhKRkWFqy8-30" value="&lt;div&gt;&lt;div&gt;Envío SMS&amp;nbsp;&lt;/div&gt;Bind&lt;div&gt;Asincrono&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="920" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mYkssnVN8zuhKRkWFqy8-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mYkssnVN8zuhKRkWFqy8-39" target="mYkssnVN8zuhKRkWFqy8-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mYkssnVN8zuhKRkWFqy8-39" value="Respuesta" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
           <mxGeometry x="90" y="1196" width="80" height="30" as="geometry" />
