@@ -978,7 +978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="1105" dy="1421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="1317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -1982,7 +1982,7 @@
         <mxCell id="Azd51B14dpXpN2U6R5Kw-30" value="&lt;b&gt;Communication Settings&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2855" y="-290" width="600" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Azd51B14dpXpN2U6R5Kw-31" value="&lt;span style=&quot;background-color: initial;&quot;&gt;API Para el registro, actualización eliminación y consulta de suscriptores de Webhook&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="Azd51B14dpXpN2U6R5Kw-31" value="&lt;span style=&quot;background-color: initial;&quot;&gt;API para la gestion de plantillas para la distribución de mensajes.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2885" y="-230" width="445" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Azd51B14dpXpN2U6R5Kw-32" value="Version: 1.0&lt;div&gt;Fecha: 30/07/2024&lt;/div&gt;&lt;div&gt;Diseño: Fernando Mirasol Quecholac&amp;nbsp;&lt;/div&gt;&lt;div&gt;Reviso: Javier Aguilar Herrera&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
