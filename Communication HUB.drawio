@@ -1988,6 +1988,21 @@
         <mxCell id="Azd51B14dpXpN2U6R5Kw-32" value="Version: 1.0&lt;div&gt;Fecha: 05/08/2024&lt;/div&gt;&lt;div&gt;Diseño: Fernando Mirasol Quecholac&amp;nbsp;&lt;/div&gt;&lt;div&gt;Reviso: Javier Aguilar Herrera&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2875" y="-130" width="280" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Azd51B14dpXpN2U6R5Kw-33" value="Tralixx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="3310" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Azd51B14dpXpN2U6R5Kw-34" value="Google RCS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="3310" y="-620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Azd51B14dpXpN2U6R5Kw-35" value="SMSC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="3310" y="-520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Azd51B14dpXpN2U6R5Kw-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Template&lt;/h1&gt;&lt;p&gt;Type: HTML&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="3030" y="-680" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Azd51B14dpXpN2U6R5Kw-38" value="&lt;Noun&gt;&lt;PerformedAction&gt;Event&#xa;&#xa;Examples: &#xa;&#xa;ProductCreatedEvent&#xa;UserLoggedInEvent&#xa;ProductCreatedEvent,&#xa;OrderCreatedEvent." style="text;whiteSpace=wrap;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="3020" y="-540" width="210" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
