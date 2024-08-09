@@ -1013,6 +1013,12 @@
         <mxCell id="JfS8j33mKiy8XawTDVaZ-12" value="SaaS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="3070" y="-880" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="x0DHL7e1slWjOONRcTN_-2" value="Efectividad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="1504.38" y="-1277.5" width="102.37" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0DHL7e1slWjOONRcTN_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="e_Ctu_K7nTrESrf8KY_8-92" target="x0DHL7e1slWjOONRcTN_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
