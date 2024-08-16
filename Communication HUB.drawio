@@ -870,7 +870,7 @@
         <mxCell id="12jJQDPm23SvBHaCRqIL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1" source="12jJQDPm23SvBHaCRqIL-16" target="12jJQDPm23SvBHaCRqIL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="12jJQDPm23SvBHaCRqIL-16" value="Communicacion Hub" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=none;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+        <mxCell id="12jJQDPm23SvBHaCRqIL-16" value="Communicacion Hub" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="272.05999999999995" y="4350" width="133.53" height="71" as="geometry" />
         </mxCell>
         <mxCell id="12jJQDPm23SvBHaCRqIL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1" source="12jJQDPm23SvBHaCRqIL-17" target="12jJQDPm23SvBHaCRqIL-16">
@@ -897,8 +897,11 @@
         <mxCell id="12jJQDPm23SvBHaCRqIL-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2421/512/TikTok-128.png" vertex="1" parent="12jJQDPm23SvBHaCRqIL-21">
           <mxGeometry x="96.83605944595098" y="40" width="18" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="12jJQDPm23SvBHaCRqIL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1" source="12jJQDPm23SvBHaCRqIL-23" target="12jJQDPm23SvBHaCRqIL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="12jJQDPm23SvBHaCRqIL-23" value="Live Marketing" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=none;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="97" y="4350" width="133.53" height="71" as="geometry" />
+          <mxGeometry x="87.23" y="4349" width="133.53" height="71" as="geometry" />
         </mxCell>
         <mxCell id="12jJQDPm23SvBHaCRqIL-24" value="2 Vias" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=none;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="97" y="4460" width="133.53" height="71" as="geometry" />
