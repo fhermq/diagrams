@@ -900,6 +900,9 @@
         <mxCell id="12jJQDPm23SvBHaCRqIL-23" value="Live Marketing" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=none;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="97" y="4350" width="133.53" height="71" as="geometry" />
         </mxCell>
+        <mxCell id="12jJQDPm23SvBHaCRqIL-24" value="2 Vias" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=none;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="97" y="4460" width="133.53" height="71" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
