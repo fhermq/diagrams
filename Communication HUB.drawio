@@ -861,7 +861,7 @@
         <mxCell id="_OXVMCwbitm0bhmk3lOA-38" value="Clients" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
           <mxGeometry x="959.07" y="3359" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="12jJQDPm23SvBHaCRqIL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="IXOz85ADF_nXkDeNcJsj-1" source="12jJQDPm23SvBHaCRqIL-15" target="12jJQDPm23SvBHaCRqIL-17" edge="1">
+        <mxCell id="12jJQDPm23SvBHaCRqIL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="IXOz85ADF_nXkDeNcJsj-1" source="12jJQDPm23SvBHaCRqIL-15" target="12jJQDPm23SvBHaCRqIL-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="12jJQDPm23SvBHaCRqIL-15" value="Big Data" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=none;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
