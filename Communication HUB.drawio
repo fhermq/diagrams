@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
-    <mxGraphModel dx="989" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IXOz85ADF_nXkDeNcJsj-0" />
         <mxCell id="IXOz85ADF_nXkDeNcJsj-1" parent="IXOz85ADF_nXkDeNcJsj-0" />
@@ -883,7 +883,7 @@
           <mxGeometry x="192.93" y="4292" width="133.53" height="71" as="geometry" />
         </mxCell>
         <mxCell id="12jJQDPm23SvBHaCRqIL-21" value="" style="group;align=right;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1" connectable="0">
-          <mxGeometry x="589.4899999999999" y="4402" width="137.94" height="70" as="geometry" />
+          <mxGeometry x="649.9999999999999" y="4402" width="137.94" height="70" as="geometry" />
         </mxCell>
         <mxCell id="12jJQDPm23SvBHaCRqIL-1" value="Social Networks" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;fillColor=none;" parent="12jJQDPm23SvBHaCRqIL-21" vertex="1">
           <mxGeometry width="137.94" height="70" as="geometry" />
