@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
-    <mxGraphModel dx="574" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IXOz85ADF_nXkDeNcJsj-0" />
         <mxCell id="IXOz85ADF_nXkDeNcJsj-1" parent="IXOz85ADF_nXkDeNcJsj-0" />
+        <mxCell id="7nnNMyayAmVg4GYqbc2g-11" value="VPC" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=0;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="20" y="4140" width="630" height="510" as="geometry" />
+        </mxCell>
         <mxCell id="0cXvbhVzmK9QVHqLX4ro-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
           <mxGeometry x="247.63" y="2629" width="116.86" height="261" as="geometry" />
         </mxCell>
@@ -929,9 +932,6 @@
         </mxCell>
         <mxCell id="7nnNMyayAmVg4GYqbc2g-10" value="Agentes Inteligentes" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="148.57999999999998" y="4220" width="56.42" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7nnNMyayAmVg4GYqbc2g-11" value="VPC" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=0;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="50" y="4150" width="600" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
