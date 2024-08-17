@@ -882,7 +882,7 @@
         <mxCell id="12jJQDPm23SvBHaCRqIL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="IXOz85ADF_nXkDeNcJsj-1" source="12jJQDPm23SvBHaCRqIL-17" target="12jJQDPm23SvBHaCRqIL-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="12jJQDPm23SvBHaCRqIL-17" value="Motor Eventos" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
+        <mxCell id="12jJQDPm23SvBHaCRqIL-17" value="Event Generator" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
           <mxGeometry x="252.93" y="4302" width="133.53" height="71" as="geometry" />
         </mxCell>
         <mxCell id="12jJQDPm23SvBHaCRqIL-21" value="" style="group;align=right;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1" connectable="0">
@@ -918,7 +918,7 @@
         <mxCell id="7nnNMyayAmVg4GYqbc2g-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1" source="7nnNMyayAmVg4GYqbc2g-4" target="12jJQDPm23SvBHaCRqIL-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7nnNMyayAmVg4GYqbc2g-4" value="IA" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+        <mxCell id="7nnNMyayAmVg4GYqbc2g-4" value="AI" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="79.99999999999996" y="4190" width="133.53" height="71" as="geometry" />
         </mxCell>
         <mxCell id="7nnNMyayAmVg4GYqbc2g-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1" source="7nnNMyayAmVg4GYqbc2g-6" target="12jJQDPm23SvBHaCRqIL-15">
@@ -930,7 +930,7 @@
         <mxCell id="7nnNMyayAmVg4GYqbc2g-9" value="Deep Learning" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="84.78999999999999" y="4220" width="56.42" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7nnNMyayAmVg4GYqbc2g-10" value="Agentes Inteligentes" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+        <mxCell id="7nnNMyayAmVg4GYqbc2g-10" value="AI&amp;nbsp;&lt;div&gt;Assistant&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="148.57999999999998" y="4220" width="56.42" height="30" as="geometry" />
         </mxCell>
       </root>
