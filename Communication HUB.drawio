@@ -929,11 +929,11 @@
         <mxCell id="7nnNMyayAmVg4GYqbc2g-6" value="ETL" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="467.42" y="4366" width="120" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="7nnNMyayAmVg4GYqbc2g-9" value="Deep Learning" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="84.78999999999999" y="4244" width="56.42" height="30" as="geometry" />
+        <mxCell id="7nnNMyayAmVg4GYqbc2g-9" value="Deep Learning" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;dashed=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="86.78999999999999" y="4244" width="56.42" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7nnNMyayAmVg4GYqbc2g-10" value="AI&amp;nbsp;&lt;div&gt;Assistant&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="147.99999999999997" y="4284" width="56.42" height="30" as="geometry" />
+        <mxCell id="7nnNMyayAmVg4GYqbc2g-10" value="AI&amp;nbsp;&lt;div&gt;Assistant&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;dashed=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="149.78999999999996" y="4244" width="56.42" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7nnNMyayAmVg4GYqbc2g-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://products.containerize.com/single-sign-on/wso2/menu_image.png;clipPath=inset(31.62% 14.34% 31.62% 15.81%);" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="743.0699999999999" y="4459" width="57" height="30" as="geometry" />
