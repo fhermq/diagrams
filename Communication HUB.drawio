@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="6">
   <diagram name="HL Architechture" id="SlBzTVeqFdqKTDmZe6ph">
-    <mxGraphModel dx="1434" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="IXOz85ADF_nXkDeNcJsj-0" />
         <mxCell id="IXOz85ADF_nXkDeNcJsj-1" parent="IXOz85ADF_nXkDeNcJsj-0" />
@@ -870,7 +870,7 @@
         <mxCell id="12jJQDPm23SvBHaCRqIL-15" value="Big Data" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=none;" parent="IXOz85ADF_nXkDeNcJsj-1" vertex="1">
           <mxGeometry x="252.34999999999994" y="4254" width="133.53" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="12jJQDPm23SvBHaCRqIL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="IXOz85ADF_nXkDeNcJsj-1" source="12jJQDPm23SvBHaCRqIL-16" target="12jJQDPm23SvBHaCRqIL-1" edge="1">
+        <mxCell id="12jJQDPm23SvBHaCRqIL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="IXOz85ADF_nXkDeNcJsj-1" source="7nnNMyayAmVg4GYqbc2g-13" target="12jJQDPm23SvBHaCRqIL-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7nnNMyayAmVg4GYqbc2g-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1" source="12jJQDPm23SvBHaCRqIL-16" target="7nnNMyayAmVg4GYqbc2g-6">
@@ -935,11 +935,17 @@
         <mxCell id="7nnNMyayAmVg4GYqbc2g-10" value="AI&amp;nbsp;&lt;div&gt;Assistant&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;dashed=1;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
           <mxGeometry x="149.78999999999996" y="4244" width="56.42" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7nnNMyayAmVg4GYqbc2g-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://products.containerize.com/single-sign-on/wso2/menu_image.png;clipPath=inset(31.62% 14.34% 31.62% 15.81%);" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="743.0699999999999" y="4459" width="57" height="30" as="geometry" />
+        <mxCell id="7nnNMyayAmVg4GYqbc2g-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="IXOz85ADF_nXkDeNcJsj-1" source="12jJQDPm23SvBHaCRqIL-16" target="7nnNMyayAmVg4GYqbc2g-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="4512" as="sourcePoint" />
+            <mxPoint x="831" y="4511" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7nnNMyayAmVg4GYqbc2g-13" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
-          <mxGeometry x="670.3199999999999" y="4469" width="78" height="78" as="geometry" />
+          <mxGeometry x="670.3199999999999" y="4472.5" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="7nnNMyayAmVg4GYqbc2g-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://products.containerize.com/single-sign-on/wso2/menu_image.png;clipPath=inset(31.62% 14.34% 31.62% 15.81%);" vertex="1" parent="IXOz85ADF_nXkDeNcJsj-1">
+          <mxGeometry x="727.43" y="4459" width="57" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
