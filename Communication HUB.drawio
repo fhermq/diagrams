@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="840" dy="3759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="4060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -1521,15 +1521,6 @@
         </mxCell>
         <mxCell id="tX3aTPhCc9lYNagWoQMi-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0000FF;strokeColor=#6c8ebf;" vertex="1" parent="tX3aTPhCc9lYNagWoQMi-1">
           <mxGeometry x="180" y="122" width="32.75" height="32.75" as="geometry" />
-        </mxCell>
-        <mxCell id="tX3aTPhCc9lYNagWoQMi-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0000FF;strokeColor=#6c8ebf;" vertex="1" parent="tX3aTPhCc9lYNagWoQMi-1">
-          <mxGeometry x="70" y="482" width="32.75" height="32.75" as="geometry" />
-        </mxCell>
-        <mxCell id="tX3aTPhCc9lYNagWoQMi-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0000FF;strokeColor=#6c8ebf;" vertex="1" parent="tX3aTPhCc9lYNagWoQMi-1">
-          <mxGeometry x="530" y="821.25" width="32.75" height="32.75" as="geometry" />
-        </mxCell>
-        <mxCell id="tX3aTPhCc9lYNagWoQMi-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0000FF;strokeColor=#6c8ebf;" vertex="1" parent="tX3aTPhCc9lYNagWoQMi-1">
-          <mxGeometry x="400" y="821.25" width="32.75" height="32.75" as="geometry" />
         </mxCell>
         <mxCell id="tX3aTPhCc9lYNagWoQMi-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0000FF;strokeColor=#6c8ebf;" vertex="1" parent="tX3aTPhCc9lYNagWoQMi-1">
           <mxGeometry x="660" y="402" width="32.75" height="32.75" as="geometry" />
