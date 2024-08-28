@@ -1641,7 +1641,7 @@
           <mxGeometry x="2687" y="-2256" width="150" height="156" as="geometry" />
         </mxCell>
         <mxCell id="tX3aTPhCc9lYNagWoQMi-82" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/appdynamics_logo_icon_170537.png;clipPath=inset(16.67% 2.67% 16.67% 1.67%);" vertex="1" parent="tX3aTPhCc9lYNagWoQMi-81">
-          <mxGeometry x="12.209999999999964" y="79.99999999999994" width="123.41" height="43" as="geometry" />
+          <mxGeometry x="12.999999999999964" y="65.99999999999994" width="123.41" height="43" as="geometry" />
         </mxCell>
         <mxCell id="tX3aTPhCc9lYNagWoQMi-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" target="tX3aTPhCc9lYNagWoQMi-62">
           <mxGeometry relative="1" as="geometry">
