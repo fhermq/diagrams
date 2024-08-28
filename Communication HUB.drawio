@@ -1715,9 +1715,6 @@
         <mxCell id="tX3aTPhCc9lYNagWoQMi-108" value="Databricks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tX3aTPhCc9lYNagWoQMi-107">
           <mxGeometry x="30" y="42.25" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tX3aTPhCc9lYNagWoQMi-1" value="Region" style="shape=mxgraph.ibm.box;prType=region;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=2;dashed=0;container=0;spacing=-4;collapsible=0;expand=0;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
-          <mxGeometry x="1750" y="-2682" width="840" height="942" as="geometry" />
-        </mxCell>
         <mxCell id="tX3aTPhCc9lYNagWoQMi-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-51" target="tX3aTPhCc9lYNagWoQMi-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1741,6 +1738,9 @@
         </mxCell>
         <mxCell id="tX3aTPhCc9lYNagWoQMi-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0000FF;strokeColor=#6c8ebf;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="1930" y="-2560" width="32.75" height="32.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tX3aTPhCc9lYNagWoQMi-116" value="Region" style="shape=mxgraph.ibm.box;prType=region;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=2;dashed=0;container=0;spacing=-4;collapsible=0;expand=0;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="1750" y="-2682" width="840" height="942" as="geometry" />
         </mxCell>
         <mxCell id="tX3aTPhCc9lYNagWoQMi-31" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="2410" y="-2420" width="78" height="78" as="geometry" />
