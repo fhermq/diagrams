@@ -4172,7 +4172,7 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-72" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tW5B_xERMkfsoMW4rIa_-15">
           <mxGeometry x="75" y="340" width="10" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-73" value="&lt;div&gt;http response != 404&amp;nbsp;&lt;br&gt;&lt;/div&gt;retry &amp;gt; 0" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="tW5B_xERMkfsoMW4rIa_-15" target="e_pRlphicsNGoTgGfrTi-72">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-73" value="&lt;div&gt;http response != 404&amp;nbsp;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="tW5B_xERMkfsoMW4rIa_-15" target="e_pRlphicsNGoTgGfrTi-72">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="320" as="sourcePoint" />
             <Array as="points">
@@ -4209,7 +4209,7 @@
           <mxGeometry x="718" y="911" width="120" height="700" as="geometry" />
         </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-67" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tW5B_xERMkfsoMW4rIa_-37">
-          <mxGeometry x="55" y="231" width="10" height="80" as="geometry" />
+          <mxGeometry x="55" y="230" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-63" value="&lt;div&gt;Envío de Mensajes&lt;/div&gt;&lt;div&gt;Completed&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="20" y="2500" width="1130" height="780" as="geometry" />
@@ -5408,7 +5408,7 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="e_pRlphicsNGoTgGfrTi-72" target="e_pRlphicsNGoTgGfrTi-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-76" value="produce&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: initial&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e_pRlphicsNGoTgGfrTi-75">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-76" value="produce&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;retryRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: initial&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e_pRlphicsNGoTgGfrTi-75">
           <mxGeometry x="0.81" y="-1" relative="1" as="geometry">
             <mxPoint x="-32" y="-27" as="offset" />
           </mxGeometry>
