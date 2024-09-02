@@ -2769,7 +2769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3533" dy="2304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3362" dy="2211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -5440,7 +5440,7 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-85" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="e_pRlphicsNGoTgGfrTi-82">
           <mxGeometry x="74" y="154" width="10" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-86" value="retry == 0&lt;div&gt;waitTime(30 sec)&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="e_pRlphicsNGoTgGfrTi-82" target="e_pRlphicsNGoTgGfrTi-85">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-86" value="retry == 0&lt;div&gt;delay(30 sec, 60 sec, 120 sec)&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="e_pRlphicsNGoTgGfrTi-82" target="e_pRlphicsNGoTgGfrTi-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="79" y="134" as="sourcePoint" />
             <Array as="points">
