@@ -4149,9 +4149,6 @@
         <mxCell id="tW5B_xERMkfsoMW4rIa_-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="tW5B_xERMkfsoMW4rIa_-5" vertex="1">
           <mxGeometry x="55" y="75" width="10" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-8" value="DB&lt;div&gt;Doc:&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;communicationMessage&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="390" y="911" width="161" height="700" as="geometry" />
-        </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-15" value="ms&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;v1/enviaMensaje&lt;/font&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="209" y="911" width="160" height="700" as="geometry" />
         </mxCell>
