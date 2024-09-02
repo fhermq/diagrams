@@ -2769,7 +2769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3533" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3327" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -4143,7 +4143,7 @@
         <mxCell id="tW5B_xERMkfsoMW4rIa_-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="tW5B_xERMkfsoMW4rIa_-1" vertex="1">
           <mxGeometry x="60" y="244" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-5" value="MSK&lt;div style=&quot;font-size: 10px;&quot;&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;rcsA&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;gentMessages&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
+        <mxCell id="tW5B_xERMkfsoMW4rIa_-5" value="MSK&lt;div style=&quot;font-size: 10px;&quot;&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;rcsMain&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="71" y="911" width="120" height="700" as="geometry" />
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="tW5B_xERMkfsoMW4rIa_-5" vertex="1">
@@ -4156,16 +4156,16 @@
           <mxGeometry x="74" y="80" width="10" height="35" as="geometry" />
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="tW5B_xERMkfsoMW4rIa_-15" vertex="1">
-          <mxGeometry x="74" y="446.12" width="10" height="86.88" as="geometry" />
+          <mxGeometry x="74" y="524.12" width="10" height="86.88" as="geometry" />
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-18" value="&lt;span style=&quot;text-align: center;&quot;&gt;update Event&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-align: center;&quot;&gt;intentos --&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="tW5B_xERMkfsoMW4rIa_-15" target="tW5B_xERMkfsoMW4rIa_-17" edge="1">
           <mxGeometry x="0.1477" y="12" relative="1" as="geometry">
-            <mxPoint x="79" y="436.12000000000006" as="sourcePoint" />
+            <mxPoint x="79" y="514.1200000000001" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="109" y="436.12000000000006" />
-              <mxPoint x="109" y="461.1199999999999" />
+              <mxPoint x="109" y="514.1200000000001" />
+              <mxPoint x="109" y="539.1199999999999" />
             </Array>
-            <mxPoint x="84" y="443.12" as="targetPoint" />
+            <mxPoint x="84" y="521.12" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -4206,7 +4206,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-30" value="consume Message RCS&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap; background-color: initial;&quot;&gt;rcsA&lt;/span&gt;&lt;span style=&quot;font-size: 10px; text-wrap: wrap; background-color: initial;&quot;&gt;gentMessages&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: initial&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tW5B_xERMkfsoMW4rIa_-29" vertex="1" connectable="0">
+        <mxCell id="tW5B_xERMkfsoMW4rIa_-30" value="consume Message RCS&amp;nbsp;&lt;div&gt;topic: &lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;mainRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: initial&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tW5B_xERMkfsoMW4rIa_-29" vertex="1" connectable="0">
           <mxGeometry x="0.1365" y="3" relative="1" as="geometry">
             <mxPoint x="2" y="-27" as="offset" />
           </mxGeometry>
@@ -4225,7 +4225,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-49" value="&lt;div&gt;RCS&lt;/div&gt;v1/phones/PHONE_NUMBER/capabilities?requestId=REQUEST_ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tW5B_xERMkfsoMW4rIa_-48" vertex="1" connectable="0">
+        <mxCell id="tW5B_xERMkfsoMW4rIa_-49" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;RCS&lt;/div&gt;v1/phones/PHONE_NUMBER/capabilities?requestId=REQUEST_ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="tW5B_xERMkfsoMW4rIa_-48" vertex="1" connectable="0">
           <mxGeometry x="0.7652" y="1" relative="1" as="geometry">
             <mxPoint x="-126" y="-19" as="offset" />
           </mxGeometry>
@@ -4238,7 +4238,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" target="e_pRlphicsNGoTgGfrTi-9" edge="1">
+        <mxCell id="tW5B_xERMkfsoMW4rIa_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="tW5B_xERMkfsoMW4rIa_-17" target="e_pRlphicsNGoTgGfrTi-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="292.99999999999955" y="1404.0954545454545" as="sourcePoint" />
             <mxPoint x="465.5" y="1404.1863636363635" as="targetPoint" />
@@ -5292,9 +5292,6 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-0" value="Armando Palafox" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="1002" y="54" width="108" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-3" value="&lt;span data-teams=&quot;true&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;&lt;strong style=&quot;font-size: 9px;&quot;&gt;INITIAL&lt;/strong&gt;&lt;/i&gt;(&quot;initial&quot;), -&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;&lt;strong style=&quot;font-size: 9px;&quot;&gt;INPROGRESS&lt;/strong&gt;&lt;/i&gt;(&quot;inProgress&quot;), - Retry&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;&lt;strong style=&quot;font-size: 9px;&quot;&gt;COMPLETED&lt;/strong&gt;&lt;/i&gt;(&quot;completed&quot;),&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;&lt;strong style=&quot;font-size: 9px;&quot;&gt;CANCELLED&lt;/strong&gt;&lt;/i&gt;(&quot;cancelled&quot;),&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;&lt;strong style=&quot;font-size: 9px;&quot;&gt;FAILED&lt;/strong&gt;&lt;/i&gt;(&quot;failed&quot;); - DLQ&lt;/p&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="20" y="1115.5" width="170" height="214.5" as="geometry" />
-        </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-4" value="MSK&lt;div&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;DLQ&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="862" y="911" width="120" height="700" as="geometry" />
         </mxCell>
@@ -5312,7 +5309,7 @@
           <mxGeometry x="992" y="911" width="120" height="700" as="geometry" />
         </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="e_pRlphicsNGoTgGfrTi-8">
-          <mxGeometry x="55" y="465" width="10" height="54.5" as="geometry" />
+          <mxGeometry x="55" y="541" width="10" height="54.5" as="geometry" />
         </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="tW5B_xERMkfsoMW4rIa_-39" target="tW5B_xERMkfsoMW4rIa_-38">
           <mxGeometry relative="1" as="geometry">
