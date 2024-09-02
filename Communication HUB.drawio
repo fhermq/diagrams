@@ -2769,7 +2769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3485" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3704" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -4181,16 +4181,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-25" value="API Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="23" y="1372" width="97" height="40" as="geometry" />
+          <mxGeometry x="1020" y="1371" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-26" value="MSK Queue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="23" y="1432" width="97" height="40" as="geometry" />
+          <mxGeometry x="1020" y="1431" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-27" value="Microservice" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="23" y="1492" width="97" height="40" as="geometry" />
+          <mxGeometry x="1020" y="1491" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-28" value="BD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="23" y="1552" width="97" height="40" as="geometry" />
+          <mxGeometry x="1020" y="1551" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="tW5B_xERMkfsoMW4rIa_-6" target="tW5B_xERMkfsoMW4rIa_-16" edge="1">
           <mxGeometry relative="1" as="geometry">
