@@ -2769,7 +2769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3157" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3533" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -4169,17 +4169,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-38" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="tW5B_xERMkfsoMW4rIa_-15" vertex="1">
-          <mxGeometry x="74" y="502" width="10" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-58" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tW5B_xERMkfsoMW4rIa_-15">
           <mxGeometry x="75" y="349" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-59" value="&lt;div&gt;http response 404&amp;nbsp;&lt;/div&gt;&lt;div&gt;device doesn&#39;t support RCS&amp;nbsp;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="e_pRlphicsNGoTgGfrTi-58" parent="tW5B_xERMkfsoMW4rIa_-15">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-59" value="&lt;div&gt;http response == 404&amp;nbsp;&lt;/div&gt;&lt;div&gt;device doesn&#39;t support RCS&amp;nbsp;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="e_pRlphicsNGoTgGfrTi-58" parent="tW5B_xERMkfsoMW4rIa_-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="329" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="110" y="359" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-72" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tW5B_xERMkfsoMW4rIa_-15">
+          <mxGeometry x="75" y="439" width="10" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-73" value="&lt;div&gt;http response != 404&amp;nbsp;&lt;br&gt;&lt;/div&gt;retry &amp;gt; 0" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="tW5B_xERMkfsoMW4rIa_-15" target="e_pRlphicsNGoTgGfrTi-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="419" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="110" y="449" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5262,6 +5270,9 @@
         </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-8" value="MSK&lt;div&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;retryRCS&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="560" y="911" width="120" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-74" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="e_pRlphicsNGoTgGfrTi-8">
+          <mxGeometry x="55" y="388.75" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-11" value="Jerson" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="1070" y="1050.75" width="60" height="30" as="geometry" />
