@@ -4291,7 +4291,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-84" value="get Event&amp;nbsp;&lt;div&gt;state: completed&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tW5B_xERMkfsoMW4rIa_-83" vertex="1" connectable="0">
+        <mxCell id="tW5B_xERMkfsoMW4rIa_-84" value="update&lt;div&gt;state: completed&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tW5B_xERMkfsoMW4rIa_-83" vertex="1" connectable="0">
           <mxGeometry x="0.2531" y="2" relative="1" as="geometry">
             <mxPoint x="10" y="-18" as="offset" />
           </mxGeometry>
