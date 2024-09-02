@@ -2769,7 +2769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3157" dy="2100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3327" dy="2192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -5540,7 +5540,7 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="rP9GFd3awMIlGuRAaZDD-1" source="e_pRlphicsNGoTgGfrTi-85" target="e_pRlphicsNGoTgGfrTi-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-108" value="produce&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;DLQRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: initial&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e_pRlphicsNGoTgGfrTi-107">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-108" value="produce&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;DLQRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: failed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e_pRlphicsNGoTgGfrTi-107">
           <mxGeometry x="0.7406" y="-2" relative="1" as="geometry">
             <mxPoint x="-1" y="-34" as="offset" />
           </mxGeometry>
