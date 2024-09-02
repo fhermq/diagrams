@@ -2769,7 +2769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3207" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3055" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -5293,7 +5293,7 @@
           <mxGeometry x="1002" y="54" width="108" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-2" value="&lt;span data-teams=&quot;true&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;strong&gt;INITIAL&lt;/strong&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&quot;initial&quot;),&lt;/span&gt;&lt;br&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;strong&gt;INPROGRESS&lt;/strong&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&quot;inProgress&quot;),&lt;/span&gt;&lt;br&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;strong&gt;COMPLETED&lt;/strong&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&quot;completed&quot;),&lt;/span&gt;&lt;br&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;strong&gt;CANCELLED&lt;/strong&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&quot;cancelled&quot;),&lt;/span&gt;&lt;br&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;strong&gt;FAILED&lt;/strong&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&quot;failed&quot;);&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="70" y="-264.5" width="170" height="84.5" as="geometry" />
+          <mxGeometry x="79" y="-290" width="170" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-3" value="&lt;span data-teams=&quot;true&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;&lt;strong style=&quot;font-size: 9px;&quot;&gt;INITIAL&lt;/strong&gt;&lt;/i&gt;(&quot;initial&quot;), -&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;&lt;strong style=&quot;font-size: 9px;&quot;&gt;INPROGRESS&lt;/strong&gt;&lt;/i&gt;(&quot;inProgress&quot;), - Retry&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;&lt;strong style=&quot;font-size: 9px;&quot;&gt;COMPLETED&lt;/strong&gt;&lt;/i&gt;(&quot;completed&quot;),&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;&lt;strong style=&quot;font-size: 9px;&quot;&gt;CANCELLED&lt;/strong&gt;&lt;/i&gt;(&quot;cancelled&quot;),&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 9px;&quot;&gt;&lt;i style=&quot;font-size: 9px;&quot;&gt;&lt;strong style=&quot;font-size: 9px;&quot;&gt;FAILED&lt;/strong&gt;&lt;/i&gt;(&quot;failed&quot;); - DLQ&lt;/p&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="20" y="1115.5" width="170" height="214.5" as="geometry" />
@@ -5327,6 +5327,99 @@
         </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-11" value="Jerson" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
           <mxGeometry x="1070" y="1050.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-27" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
+          <mxGeometry x="60" y="-190" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-28" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-27">
+          <mxGeometry width="280" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-29" value="State" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-28">
+          <mxGeometry width="93" height="33" as="geometry">
+            <mxRectangle width="93" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-30" value="Value" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-28">
+          <mxGeometry x="93" width="94" height="33" as="geometry">
+            <mxRectangle width="94" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-31" value="Descrpción" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-28">
+          <mxGeometry x="187" width="93" height="33" as="geometry">
+            <mxRectangle width="93" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-27">
+          <mxGeometry y="33" width="280" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-33" value="&lt;i style=&quot;font-size: 9px; text-align: left; background-color: initial;&quot;&gt;&lt;strong&gt;INITIAL&lt;/strong&gt;&lt;/i&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-32">
+          <mxGeometry width="93" height="32" as="geometry">
+            <mxRectangle width="93" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-34" value="&quot;&lt;span style=&quot;font-size: 9px; text-align: left;&quot;&gt;initial&lt;/span&gt;&quot;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-32">
+          <mxGeometry x="93" width="94" height="32" as="geometry">
+            <mxRectangle width="94" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-35" value="Value 3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-32">
+          <mxGeometry x="187" width="93" height="32" as="geometry">
+            <mxRectangle width="93" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-27">
+          <mxGeometry y="65" width="280" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-37" value="Value 4" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-36">
+          <mxGeometry width="93" height="31" as="geometry">
+            <mxRectangle width="93" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-38" value="Value 5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-36">
+          <mxGeometry x="93" width="94" height="31" as="geometry">
+            <mxRectangle width="94" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-39" value="Value 6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-36">
+          <mxGeometry x="187" width="93" height="31" as="geometry">
+            <mxRectangle width="93" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-40" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-27">
+          <mxGeometry y="96" width="280" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-41" value="Value 7" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-40">
+          <mxGeometry width="93" height="33" as="geometry">
+            <mxRectangle width="93" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-42" value="Value 8" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-40">
+          <mxGeometry x="93" width="94" height="33" as="geometry">
+            <mxRectangle width="94" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-43" value="Value 9" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-40">
+          <mxGeometry x="187" width="93" height="33" as="geometry">
+            <mxRectangle width="93" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-27">
+          <mxGeometry y="129" width="280" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-45" value="Value 10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-44">
+          <mxGeometry width="93" height="31" as="geometry">
+            <mxRectangle width="93" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-46" value="Value 11" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-44">
+          <mxGeometry x="93" width="94" height="31" as="geometry">
+            <mxRectangle width="94" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_pRlphicsNGoTgGfrTi-47" value="Value 12" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="e_pRlphicsNGoTgGfrTi-44">
+          <mxGeometry x="187" width="93" height="31" as="geometry">
+            <mxRectangle width="93" height="31" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
