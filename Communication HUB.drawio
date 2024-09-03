@@ -1740,7 +1740,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="1687" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -2350,7 +2350,7 @@
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-137" value="API y secuencia de Eventos para el registro de mensajes y distribución a los diferentes Canales:&lt;div&gt;&lt;ul&gt;&lt;li&gt;Google RCS&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
           <mxGeometry x="550" y="-220" width="445" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OUVjyIaOlNhXNz1q1GGE-138" value="Version: 1.0&lt;div&gt;Fecha: 30/07/2024&lt;/div&gt;&lt;div&gt;Diseño: Fernando Mirasol Quecholac&amp;nbsp;&lt;/div&gt;&lt;div&gt;Reviso: Javier Aguilar Herrera&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
+        <mxCell id="OUVjyIaOlNhXNz1q1GGE-138" value="Version: 1.1&lt;div&gt;Fecha: 03/09/2024&lt;/div&gt;&lt;div&gt;Diseño: Fernando Mirasol Quecholac&amp;nbsp;&lt;/div&gt;&lt;div&gt;Reviso: Javier Aguilar Herrera&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
           <mxGeometry x="540" y="-120" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OUVjyIaOlNhXNz1q1GGE-139" value="&lt;b&gt;Communication Suscribers Webhook&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
