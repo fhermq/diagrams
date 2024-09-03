@@ -4161,7 +4161,7 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-58" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="tW5B_xERMkfsoMW4rIa_-15" vertex="1">
           <mxGeometry x="75" y="250" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-59" value="&lt;div&gt;http response == 404&amp;nbsp;&lt;/div&gt;&lt;div&gt;device doesn&#39;t support RCS&amp;nbsp;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="tW5B_xERMkfsoMW4rIa_-15" target="e_pRlphicsNGoTgGfrTi-58" edge="1">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-59" value="&lt;div&gt;http response == 404&amp;nbsp;&lt;/div&gt;&lt;div&gt;device doesn&#39;t support RCS&amp;nbsp;&lt;/div&gt;&lt;div&gt;retry = 0&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="tW5B_xERMkfsoMW4rIa_-15" target="e_pRlphicsNGoTgGfrTi-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="230" as="sourcePoint" />
             <Array as="points">
@@ -5322,7 +5322,7 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="e_pRlphicsNGoTgGfrTi-58" target="e_pRlphicsNGoTgGfrTi-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-71" value="produce&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: completed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e_pRlphicsNGoTgGfrTi-68" vertex="1" connectable="0">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-71" value="produce&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: failed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e_pRlphicsNGoTgGfrTi-68" vertex="1" connectable="0">
           <mxGeometry x="0.7698" y="-2" relative="1" as="geometry">
             <mxPoint x="-7" y="-33" as="offset" />
           </mxGeometry>
