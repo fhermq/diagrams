@@ -5588,7 +5588,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-143" value="Update Sender&lt;div&gt;state: delivered&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e_pRlphicsNGoTgGfrTi-142" vertex="1" connectable="0">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-143" value="Update Sender&lt;div&gt;Characteristics&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e_pRlphicsNGoTgGfrTi-142" vertex="1" connectable="0">
           <mxGeometry x="0.0955" y="-1" relative="1" as="geometry">
             <mxPoint x="22" y="-21" as="offset" />
           </mxGeometry>
