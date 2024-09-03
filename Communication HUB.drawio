@@ -1740,7 +1740,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="1434" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -2762,7 +2762,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bew2zhj5zHoOS7l2m96Q-44" value="Armando Palafox" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="992" y="54" width="108" height="30" as="geometry" />
+          <mxGeometry x="1040" y="-10" width="108" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
