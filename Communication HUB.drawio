@@ -5423,7 +5423,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-96" value="consume&lt;div style=&quot;font-size: 10px;&quot;&gt;topic: &lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;retryRCS&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;state: retry&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 10px;&quot;&gt;delay(30 sec, 60 sec, 120 sec)&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="e_pRlphicsNGoTgGfrTi-95" vertex="1" connectable="0">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-96" value="consume&lt;div style=&quot;font-size: 10px;&quot;&gt;topic: &lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;retryRCS&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;state: retry&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 10px;&quot;&gt;delay(30 sec, 60 sec, 120 sec)&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#FF0000;" parent="e_pRlphicsNGoTgGfrTi-95" vertex="1" connectable="0">
           <mxGeometry x="0.1365" y="3" relative="1" as="geometry">
             <mxPoint x="-11" y="-35" as="offset" />
           </mxGeometry>
