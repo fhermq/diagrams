@@ -2768,7 +2768,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="4945" dy="3072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4544" dy="2854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -4821,9 +4821,6 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-74" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="e_pRlphicsNGoTgGfrTi-8" vertex="1">
           <mxGeometry x="55" y="398" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-11" value="Jerson" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="995" y="107.75" width="98" height="41.25" as="geometry" />
-        </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-27" value="Assets" style="childLayout=tableLayout;recursiveResize=0;shadow=1;fontSize=9;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="23" y="-290" width="440" height="251" as="geometry" />
         </mxCell>
@@ -5088,9 +5085,6 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-102" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontColor=#FF0000;" parent="e_pRlphicsNGoTgGfrTi-101" vertex="1">
           <mxGeometry x="55" y="538" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-103" value="Jerson" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="1073" y="1042.75" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="e_pRlphicsNGoTgGfrTi-84" target="e_pRlphicsNGoTgGfrTi-79" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -5261,12 +5255,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-155" value="Jerson" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="995" y="1739" width="98" height="41.25" as="geometry" />
-        </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-156" value="Jerson" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="972" y="3387" width="98" height="41.25" as="geometry" />
-        </mxCell>
         <mxCell id="YsqO6XStD6la1Dfb_xk3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="YsqO6XStD6la1Dfb_xk3-0" target="YsqO6XStD6la1Dfb_xk3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -5388,9 +5376,6 @@
           <mxGeometry x="0.8222" relative="1" as="geometry">
             <mxPoint x="-29" y="-40" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-30" value="Jerson" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
-          <mxGeometry x="998" y="2571" width="98" height="41.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
