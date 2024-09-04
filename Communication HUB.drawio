@@ -4048,9 +4048,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-82" value="consume&lt;div style=&quot;font-size: 10px;&quot;&gt;topic: &lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;groupID: RCSService&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;state: completed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="tW5B_xERMkfsoMW4rIa_-81" vertex="1" connectable="0">
-          <mxGeometry x="0.1365" y="3" relative="1" as="geometry">
-            <mxPoint x="-64" y="-36" as="offset" />
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-1" value="&lt;div&gt;consume&lt;/div&gt;&lt;div&gt;topic: completedRCS&lt;/div&gt;&lt;div&gt;groupID: RCSService&amp;nbsp;&lt;/div&gt;&lt;div&gt;state: completed&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tW5B_xERMkfsoMW4rIa_-81">
+          <mxGeometry x="0.2128" relative="1" as="geometry">
+            <mxPoint x="-71" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="tW5B_xERMkfsoMW4rIa_-73" target="tW5B_xERMkfsoMW4rIa_-70" edge="1">
