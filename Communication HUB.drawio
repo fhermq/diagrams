@@ -2768,7 +2768,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3585" dy="2332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3400" dy="2232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -5381,12 +5381,12 @@
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-83" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-42">
           <mxGeometry y="250" width="560" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-84" value="webhookDLD" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-83">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-84" value="webhookDLD" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=3" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-83">
           <mxGeometry width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-85" value="TBD" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-83">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-85" value="TBD" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=3" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-83">
           <mxGeometry x="130" width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
