@@ -5158,7 +5158,7 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-126" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="e_pRlphicsNGoTgGfrTi-123" vertex="1">
           <mxGeometry x="90" y="296" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-127" value="HTTP&amp;nbsp;&lt;div&gt;Response&amp;nbsp;&lt;/div&gt;&lt;div&gt;201 ?&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="e_pRlphicsNGoTgGfrTi-123" target="e_pRlphicsNGoTgGfrTi-126" edge="1">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-127" value="HTTP&amp;nbsp;&lt;div&gt;Response&amp;nbsp;&lt;/div&gt;&lt;div&gt;200 ?&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="e_pRlphicsNGoTgGfrTi-123" target="e_pRlphicsNGoTgGfrTi-126" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="95" y="276" as="sourcePoint" />
             <Array as="points">
