@@ -5166,6 +5166,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-76" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="e_pRlphicsNGoTgGfrTi-123">
+          <mxGeometry x="90" y="95" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-77" value="Sender tiene Webhook?" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="TyJtWAUqAzPhKh6Bit0O-76" parent="e_pRlphicsNGoTgGfrTi-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="75" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="125" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-128" value="API Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="1010" y="3025" width="97" height="40" as="geometry" />
         </mxCell>
