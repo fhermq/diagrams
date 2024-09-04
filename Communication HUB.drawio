@@ -4953,7 +4953,7 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="e_pRlphicsNGoTgGfrTi-58" target="e_pRlphicsNGoTgGfrTi-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-71" value="produce&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;state: failed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="e_pRlphicsNGoTgGfrTi-68" vertex="1" connectable="0">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-71" value="produce&amp;nbsp;&lt;div&gt;topic: &lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;rcsTerminated&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;state: failed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="e_pRlphicsNGoTgGfrTi-68" vertex="1" connectable="0">
           <mxGeometry x="0.7698" y="-2" relative="1" as="geometry">
             <mxPoint x="-61" y="-42" as="offset" />
           </mxGeometry>
@@ -5251,7 +5251,7 @@
         <mxCell id="YsqO6XStD6la1Dfb_xk3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="YsqO6XStD6la1Dfb_xk3-0" target="YsqO6XStD6la1Dfb_xk3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YsqO6XStD6la1Dfb_xk3-4" value="produce&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;state: completed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="YsqO6XStD6la1Dfb_xk3-3" vertex="1" connectable="0">
+        <mxCell id="YsqO6XStD6la1Dfb_xk3-4" value="produce&amp;nbsp;&lt;div&gt;topic: &lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;rcsTerminated&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;state: completed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="YsqO6XStD6la1Dfb_xk3-3" vertex="1" connectable="0">
           <mxGeometry x="0.8387" y="-1" relative="1" as="geometry">
             <mxPoint x="-77" y="-41" as="offset" />
           </mxGeometry>
