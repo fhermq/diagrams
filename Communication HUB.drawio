@@ -5120,7 +5120,7 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fontColor=#FF0000;" parent="rP9GFd3awMIlGuRAaZDD-1" source="e_pRlphicsNGoTgGfrTi-89" target="e_pRlphicsNGoTgGfrTi-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-112" value="produce&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: retry&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="e_pRlphicsNGoTgGfrTi-111" vertex="1" connectable="0">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-112" value="produce&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;retryRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: retry&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" parent="e_pRlphicsNGoTgGfrTi-111" vertex="1" connectable="0">
           <mxGeometry x="0.81" y="-1" relative="1" as="geometry">
             <mxPoint x="-32" y="-27" as="offset" />
           </mxGeometry>
