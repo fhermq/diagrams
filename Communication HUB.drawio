@@ -2768,7 +2768,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3207" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3362" dy="2211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -5337,7 +5337,7 @@
         </mxCell>
         <mxCell id="C7916EOvvzCfdyqbKGas-22" value="consume&lt;div&gt;topic: &lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;groupID: RCSService&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;state: failed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="C7916EOvvzCfdyqbKGas-21" vertex="1" connectable="0">
           <mxGeometry x="0.1365" y="3" relative="1" as="geometry">
-            <mxPoint x="2" y="-27" as="offset" />
+            <mxPoint x="-67" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C7916EOvvzCfdyqbKGas-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="C7916EOvvzCfdyqbKGas-14" target="C7916EOvvzCfdyqbKGas-12" edge="1">
