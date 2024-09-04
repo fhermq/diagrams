@@ -5172,7 +5172,7 @@
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-78" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="e_pRlphicsNGoTgGfrTi-123">
           <mxGeometry x="90" y="289.5" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-79" value="HTTP POST&lt;div&gt;Error&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="TyJtWAUqAzPhKh6Bit0O-78" parent="e_pRlphicsNGoTgGfrTi-123">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-79" value="HTTP POST != 200&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="TyJtWAUqAzPhKh6Bit0O-78" parent="e_pRlphicsNGoTgGfrTi-123">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="95" y="269.5" as="sourcePoint" />
             <Array as="points">
