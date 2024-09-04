@@ -5076,6 +5076,9 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-98" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="e_pRlphicsNGoTgGfrTi-97" vertex="1">
           <mxGeometry x="55" y="450" width="10" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="C7916EOvvzCfdyqbKGas-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="e_pRlphicsNGoTgGfrTi-97" vertex="1">
+          <mxGeometry x="55" y="356" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-99" value="MSK&lt;div&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;rcsDLD&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="712.5" y="903" width="120" height="700" as="geometry" />
         </mxCell>
@@ -5120,9 +5123,9 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="e_pRlphicsNGoTgGfrTi-87" target="e_pRlphicsNGoTgGfrTi-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-110" value="produce&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: failed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e_pRlphicsNGoTgGfrTi-109" vertex="1" connectable="0">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-110" value="produce&amp;nbsp;&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: failed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="e_pRlphicsNGoTgGfrTi-109" vertex="1" connectable="0">
           <mxGeometry x="0.7698" y="-2" relative="1" as="geometry">
-            <mxPoint x="-7" y="-33" as="offset" />
+            <mxPoint x="-41" y="-35" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fontColor=#FF0000;" parent="rP9GFd3awMIlGuRAaZDD-1" source="e_pRlphicsNGoTgGfrTi-89" target="e_pRlphicsNGoTgGfrTi-102" edge="1">
@@ -5266,18 +5269,12 @@
             <mxPoint x="-77" y="-41" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-0" value="MSK&lt;div&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;completedRCS&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="1000" y="903" width="120" height="700" as="geometry" />
-        </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C7916EOvvzCfdyqbKGas-0" vertex="1">
-          <mxGeometry x="55" y="356" width="10" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="C7916EOvvzCfdyqbKGas-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="C7916EOvvzCfdyqbKGas-2" target="C7916EOvvzCfdyqbKGas-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-5" value="produce&amp;nbsp;&lt;div&gt;topic: &lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: completed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="C7916EOvvzCfdyqbKGas-4" vertex="1" connectable="0">
+        <mxCell id="C7916EOvvzCfdyqbKGas-5" value="produce&amp;nbsp;&lt;div&gt;topic: &lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;br&gt;&lt;div&gt;state: completed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="C7916EOvvzCfdyqbKGas-4" vertex="1" connectable="0">
           <mxGeometry x="0.8901" y="-1" relative="1" as="geometry">
-            <mxPoint x="-9" y="-41" as="offset" />
+            <mxPoint x="-78" y="-37" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C7916EOvvzCfdyqbKGas-8" value="&lt;div&gt;Envío de Mensajes&lt;/div&gt;&lt;div&gt;failed&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=30;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
