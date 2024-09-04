@@ -4040,7 +4040,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-1" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;consume&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;topic: terminatedRCS&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap: wrap;&quot;&gt;groupID:&amp;nbsp;rcsService&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;state: completed&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="tW5B_xERMkfsoMW4rIa_-81">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-1" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;consume&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;topic: terminatedRCS&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap: wrap;&quot;&gt;groupID:&amp;nbsp;rcsService&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;state: completed, failed&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="tW5B_xERMkfsoMW4rIa_-81">
           <mxGeometry x="0.2128" relative="1" as="geometry">
             <mxPoint x="-81" y="-29" as="offset" />
           </mxGeometry>
