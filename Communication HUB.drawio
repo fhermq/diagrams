@@ -5387,108 +5387,108 @@
           <mxGeometry width="560" height="43" as="geometry" />
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-44" value="Topic" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-43">
-          <mxGeometry width="140" height="43" as="geometry">
-            <mxRectangle width="140" height="43" as="alternateBounds" />
+          <mxGeometry width="130" height="43" as="geometry">
+            <mxRectangle width="130" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-45" value="Group ID" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-43">
-          <mxGeometry x="140" width="130" height="43" as="geometry">
+          <mxGeometry x="130" width="130" height="43" as="geometry">
             <mxRectangle width="130" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-46" value="Función" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-43">
-          <mxGeometry x="270" width="290" height="43" as="geometry">
-            <mxRectangle width="290" height="43" as="alternateBounds" />
+          <mxGeometry x="260" width="300" height="43" as="geometry">
+            <mxRectangle width="300" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-47" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-42">
           <mxGeometry y="43" width="560" height="42" as="geometry" />
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-48" value="rcsInitial" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;fontStyle=3" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-47">
-          <mxGeometry width="140" height="42" as="geometry">
-            <mxRectangle width="140" height="42" as="alternateBounds" />
+          <mxGeometry width="130" height="42" as="geometry">
+            <mxRectangle width="130" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-49" value="rcsService" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-47">
-          <mxGeometry x="140" width="130" height="42" as="geometry">
+          <mxGeometry x="130" width="130" height="42" as="geometry">
             <mxRectangle width="130" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-50" value="Procesar lógica para el envío de mensajes hacia Google RCS" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-47">
-          <mxGeometry x="270" width="290" height="42" as="geometry">
-            <mxRectangle width="290" height="42" as="alternateBounds" />
+          <mxGeometry x="260" width="300" height="42" as="geometry">
+            <mxRectangle width="300" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-42">
           <mxGeometry y="85" width="560" height="41" as="geometry" />
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-52" value="&lt;i&gt;&lt;b&gt;rcsRetry&lt;/b&gt;&lt;/i&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-51">
-          <mxGeometry width="140" height="41" as="geometry">
-            <mxRectangle width="140" height="41" as="alternateBounds" />
+          <mxGeometry width="130" height="41" as="geometry">
+            <mxRectangle width="130" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-53" value="rcsService" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-51">
-          <mxGeometry x="140" width="130" height="41" as="geometry">
+          <mxGeometry x="130" width="130" height="41" as="geometry">
             <mxRectangle width="130" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-54" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Procesar lógica para reintentar el envío de mensajes hacia Google RCS.&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=9;align=left;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-51">
-          <mxGeometry x="270" width="290" height="41" as="geometry">
-            <mxRectangle width="290" height="41" as="alternateBounds" />
+          <mxGeometry x="260" width="300" height="41" as="geometry">
+            <mxRectangle width="300" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-55" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-42">
           <mxGeometry y="126" width="560" height="44" as="geometry" />
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-56" value="&lt;i&gt;&lt;b&gt;rcsCompleted&lt;/b&gt;&lt;/i&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-55">
-          <mxGeometry width="140" height="44" as="geometry">
-            <mxRectangle width="140" height="44" as="alternateBounds" />
+          <mxGeometry width="130" height="44" as="geometry">
+            <mxRectangle width="130" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-57" value="rcsService" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-55">
-          <mxGeometry x="140" width="130" height="44" as="geometry">
+          <mxGeometry x="130" width="130" height="44" as="geometry">
             <mxRectangle width="130" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-58" value="Procesar lógica para el registro en BD del proceso completado." style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-55">
-          <mxGeometry x="270" width="290" height="44" as="geometry">
-            <mxRectangle width="290" height="44" as="alternateBounds" />
+          <mxGeometry x="260" width="300" height="44" as="geometry">
+            <mxRectangle width="300" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-42">
           <mxGeometry y="170" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-60" value="&lt;i&gt;&lt;b&gt;rcsCompleted&lt;/b&gt;&lt;/i&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-59">
-          <mxGeometry width="140" height="40" as="geometry">
-            <mxRectangle width="140" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-61" value="rcsWebhookSender" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-59">
-          <mxGeometry x="140" width="130" height="40" as="geometry">
+          <mxGeometry width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-62" value="Estado que indica que el evento fué cancelado por la aplicación solicitante." style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-59">
-          <mxGeometry x="270" width="290" height="40" as="geometry">
-            <mxRectangle width="290" height="40" as="alternateBounds" />
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-61" value="rcsWebhookSender" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-59">
+          <mxGeometry x="130" width="130" height="40" as="geometry">
+            <mxRectangle width="130" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-62" value="Procesar lógica para el envío de respuestas por medio de webhook para los senders." style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-59">
+          <mxGeometry x="260" width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-42">
           <mxGeometry y="210" width="560" height="41" as="geometry" />
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-64" value="" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-63">
-          <mxGeometry width="140" height="41" as="geometry">
-            <mxRectangle width="140" height="41" as="alternateBounds" />
+          <mxGeometry width="130" height="41" as="geometry">
+            <mxRectangle width="130" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-65" value="&quot;&lt;span style=&quot;font-size: 9px; text-align: left;&quot;&gt;failed&lt;/span&gt;&quot;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-63">
-          <mxGeometry x="140" width="130" height="41" as="geometry">
+          <mxGeometry x="130" width="130" height="41" as="geometry">
             <mxRectangle width="130" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-66" value="Estado que indica que el evento fallo y se encuentra en el topico DLD" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-63">
-          <mxGeometry x="270" width="290" height="41" as="geometry">
-            <mxRectangle width="290" height="41" as="alternateBounds" />
+          <mxGeometry x="260" width="300" height="41" as="geometry">
+            <mxRectangle width="300" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-67" value="Groups" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
