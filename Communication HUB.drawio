@@ -2768,7 +2768,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3585" dy="2332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3362" dy="2211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -4827,17 +4827,17 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-28" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="e_pRlphicsNGoTgGfrTi-27" vertex="1">
           <mxGeometry width="440" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-29" value="State" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" parent="e_pRlphicsNGoTgGfrTi-28" vertex="1">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-29" value="State" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" parent="e_pRlphicsNGoTgGfrTi-28" vertex="1">
           <mxGeometry width="119" height="43" as="geometry">
             <mxRectangle width="119" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-30" value="Value" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" parent="e_pRlphicsNGoTgGfrTi-28" vertex="1">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-30" value="Value" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" parent="e_pRlphicsNGoTgGfrTi-28" vertex="1">
           <mxGeometry x="119" width="119" height="43" as="geometry">
             <mxRectangle width="119" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-31" value="Descrpción" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" parent="e_pRlphicsNGoTgGfrTi-28" vertex="1">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-31" value="Descrpción" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" parent="e_pRlphicsNGoTgGfrTi-28" vertex="1">
           <mxGeometry x="238" width="202" height="43" as="geometry">
             <mxRectangle width="202" height="43" as="alternateBounds" />
           </mxGeometry>
@@ -5386,17 +5386,17 @@
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-43" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-42">
           <mxGeometry width="560" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-44" value="Topic" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-43">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-44" value="Topic" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-43">
           <mxGeometry width="130" height="43" as="geometry">
             <mxRectangle width="130" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-45" value="Group ID" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-43">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-45" value="Group ID" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-43">
           <mxGeometry x="130" width="130" height="43" as="geometry">
             <mxRectangle width="130" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-46" value="Función" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-43">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-46" value="Función" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#d5e8d4;align=center;fontStyle=1;html=1;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-43">
           <mxGeometry x="260" width="300" height="43" as="geometry">
             <mxRectangle width="300" height="43" as="alternateBounds" />
           </mxGeometry>
