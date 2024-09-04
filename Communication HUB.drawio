@@ -4020,17 +4020,6 @@
         <mxCell id="tW5B_xERMkfsoMW4rIa_-73" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="tW5B_xERMkfsoMW4rIa_-72" vertex="1">
           <mxGeometry x="90" y="100" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="tW5B_xERMkfsoMW4rIa_-72" vertex="1">
-          <mxGeometry x="90" y="230" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-7" value="if Sender has Webhook" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="tW5B_xERMkfsoMW4rIa_-72" target="C7916EOvvzCfdyqbKGas-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="210" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="125" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-77" value="API Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="1014" y="2189" width="97" height="40" as="geometry" />
         </mxCell>
@@ -5222,22 +5211,6 @@
               <mxPoint x="540" y="3665" />
               <mxPoint x="540" y="3665" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-145" value="MSK&lt;div&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;webhookRCS&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="683" y="1729" width="120" height="680" as="geometry" />
-        </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-149" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="e_pRlphicsNGoTgGfrTi-145" vertex="1">
-          <mxGeometry x="54" y="220" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="C7916EOvvzCfdyqbKGas-6" target="e_pRlphicsNGoTgGfrTi-149" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="332.99999999999955" y="2004" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-151" value="produce&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;webhookRCS&lt;/span&gt;&lt;div&gt;state: completed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e_pRlphicsNGoTgGfrTi-150" vertex="1" connectable="0">
-          <mxGeometry x="0.8222" relative="1" as="geometry">
-            <mxPoint x="-29" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="e_pRlphicsNGoTgGfrTi-125" target="e_pRlphicsNGoTgGfrTi-116" edge="1">
