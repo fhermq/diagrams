@@ -5187,7 +5187,7 @@
             <mxPoint x="323" y="3496.999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-72" value="&lt;div&gt;consume&lt;/div&gt;&lt;div&gt;topic: terminatedRCS&lt;/div&gt;&lt;div&gt;groupID: rcsWebhookSender&lt;/div&gt;&lt;div&gt;state: completed&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e_pRlphicsNGoTgGfrTi-132">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-72" value="&lt;div&gt;consume&lt;/div&gt;&lt;div&gt;topic: terminatedRCS&lt;/div&gt;&lt;div&gt;groupID: rcsWebhookSender&lt;/div&gt;&lt;div&gt;state: *&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e_pRlphicsNGoTgGfrTi-132">
           <mxGeometry x="-0.1077" y="2" relative="1" as="geometry">
             <mxPoint x="-59" y="-25" as="offset" />
           </mxGeometry>
