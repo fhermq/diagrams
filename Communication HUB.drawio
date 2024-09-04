@@ -5432,7 +5432,7 @@
             <mxRectangle width="130" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-54" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Procesar lógica para reintentar el envío de mensajes hacia Google RCS&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=9;align=left;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-51">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-54" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Procesar lógica para reintentar el envío de mensajes hacia Google RCS.&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=9;align=left;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-51">
           <mxGeometry x="270" width="290" height="41" as="geometry">
             <mxRectangle width="290" height="41" as="alternateBounds" />
           </mxGeometry>
@@ -5450,7 +5450,7 @@
             <mxRectangle width="130" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-58" value="Estado que indica que el evento ha finalzado correctamente." style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-55">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-58" value="Procesar lógica para el registro en BD del proceso completado." style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="TyJtWAUqAzPhKh6Bit0O-55">
           <mxGeometry x="270" width="290" height="44" as="geometry">
             <mxRectangle width="290" height="44" as="alternateBounds" />
           </mxGeometry>
