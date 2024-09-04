@@ -3985,9 +3985,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-30" value="consume&amp;nbsp;&lt;div&gt;topic: &lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;mainRCS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;groupID:&amp;nbsp;RCSService&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;state: initial&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tW5B_xERMkfsoMW4rIa_-29" vertex="1" connectable="0">
+        <mxCell id="tW5B_xERMkfsoMW4rIa_-30" value="consume&amp;nbsp;&lt;div&gt;topic: &lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;mainRCS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;groupID:&amp;nbsp;RCSService&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;state: initial&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="tW5B_xERMkfsoMW4rIa_-29" vertex="1" connectable="0">
           <mxGeometry x="0.1365" y="3" relative="1" as="geometry">
-            <mxPoint x="2" y="-27" as="offset" />
+            <mxPoint x="-53" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tW5B_xERMkfsoMW4rIa_-37" value="MSK&lt;div&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;terminatedRCS&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
