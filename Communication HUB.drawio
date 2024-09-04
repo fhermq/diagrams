@@ -2768,7 +2768,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3847" dy="2475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3362" dy="2211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -5137,7 +5137,7 @@
         <mxCell id="e_pRlphicsNGoTgGfrTi-116" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="e_pRlphicsNGoTgGfrTi-115" vertex="1">
           <mxGeometry x="60" y="98" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-117" value="MSK&lt;div&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;webhookRCS&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-117" value="MSK&lt;div&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;terminatedRCS&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="74" y="3387" width="120" height="680" as="geometry" />
         </mxCell>
         <mxCell id="e_pRlphicsNGoTgGfrTi-118" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="e_pRlphicsNGoTgGfrTi-117" vertex="1">
@@ -5187,7 +5187,7 @@
             <mxPoint x="323" y="3496.999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e_pRlphicsNGoTgGfrTi-133" value="consume&lt;div&gt;topic: &lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;webHookRCS&lt;/span&gt;&lt;div&gt;&lt;div&gt;state: completed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e_pRlphicsNGoTgGfrTi-132" vertex="1" connectable="0">
+        <mxCell id="e_pRlphicsNGoTgGfrTi-133" value="consume&lt;div&gt;topic: &lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;rcsWebhookSender&lt;/span&gt;&lt;div&gt;&lt;div&gt;state: completed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="e_pRlphicsNGoTgGfrTi-132" vertex="1" connectable="0">
           <mxGeometry x="0.1365" y="3" relative="1" as="geometry">
             <mxPoint x="2" y="-27" as="offset" />
           </mxGeometry>
@@ -5271,17 +5271,6 @@
         <mxCell id="C7916EOvvzCfdyqbKGas-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C7916EOvvzCfdyqbKGas-13" vertex="1">
           <mxGeometry x="90" y="100" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C7916EOvvzCfdyqbKGas-13" vertex="1">
-          <mxGeometry x="90" y="230" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-16" value="if Sender has Webhook" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="C7916EOvvzCfdyqbKGas-13" target="C7916EOvvzCfdyqbKGas-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="210" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="125" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="C7916EOvvzCfdyqbKGas-17" value="API Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="1017" y="3021" width="97" height="40" as="geometry" />
         </mxCell>
@@ -5302,7 +5291,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-22" value="consume&lt;div&gt;topic: &lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;groupID: RCSService&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;state: failed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="C7916EOvvzCfdyqbKGas-21" vertex="1" connectable="0">
+        <mxCell id="C7916EOvvzCfdyqbKGas-22" value="consume&lt;div&gt;topic: &lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;completedRCS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;groupID:&amp;nbsp;rcsService&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;state: failed&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="C7916EOvvzCfdyqbKGas-21" vertex="1" connectable="0">
           <mxGeometry x="0.1365" y="3" relative="1" as="geometry">
             <mxPoint x="-67" y="-27" as="offset" />
           </mxGeometry>
@@ -5326,22 +5315,6 @@
               <mxPoint x="427" y="2701" />
               <mxPoint x="427" y="2701" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-26" value="MSK&lt;div&gt;Topic:&lt;span style=&quot;background-color: initial;&quot;&gt;webhookRCS&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
-          <mxGeometry x="686" y="2561" width="120" height="680" as="geometry" />
-        </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C7916EOvvzCfdyqbKGas-26" vertex="1">
-          <mxGeometry x="54" y="220" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="rP9GFd3awMIlGuRAaZDD-1" source="C7916EOvvzCfdyqbKGas-15" target="C7916EOvvzCfdyqbKGas-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335.99999999999955" y="2836" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C7916EOvvzCfdyqbKGas-29" value="produce&lt;div&gt;topic:&amp;nbsp;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;webhookRCS&lt;/span&gt;&lt;div&gt;state: failed&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="C7916EOvvzCfdyqbKGas-28" vertex="1" connectable="0">
-          <mxGeometry x="0.8222" relative="1" as="geometry">
-            <mxPoint x="-29" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-41" value="Estados" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="rP9GFd3awMIlGuRAaZDD-1">
