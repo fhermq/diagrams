@@ -3985,7 +3985,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tW5B_xERMkfsoMW4rIa_-30" value="consume&amp;nbsp;&lt;div&gt;topic: &lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;mainRCS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;groupID:&amp;nbsp;RCSService&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;state: initial&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="tW5B_xERMkfsoMW4rIa_-29" vertex="1" connectable="0">
+        <mxCell id="tW5B_xERMkfsoMW4rIa_-30" value="consume&amp;nbsp;&lt;div&gt;topic: &lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;mainRCS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; text-wrap: wrap;&quot;&gt;groupID:&amp;nbsp;rcsService&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;state: initial&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="tW5B_xERMkfsoMW4rIa_-29" vertex="1" connectable="0">
           <mxGeometry x="0.1365" y="3" relative="1" as="geometry">
             <mxPoint x="-53" y="-27" as="offset" />
           </mxGeometry>
