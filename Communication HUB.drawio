@@ -1736,8 +1736,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D71FssSLxx5gzww5NAac-0" value="Segmento red&lt;div&gt;WSO2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
-          <mxGeometry x="1604" y="-2077" width="60" height="30" as="geometry" />
+        <mxCell id="D71FssSLxx5gzww5NAac-0" value="Segmento red&lt;div&gt;WSO2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="1642" y="-2073" width="69" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
