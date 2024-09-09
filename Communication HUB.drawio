@@ -5221,17 +5221,17 @@
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-55" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="TyJtWAUqAzPhKh6Bit0O-42" vertex="1">
           <mxGeometry y="85" width="560" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-56" value="&lt;i&gt;&lt;b&gt;rcsTerminated&lt;/b&gt;&lt;/i&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="TyJtWAUqAzPhKh6Bit0O-55" vertex="1">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-56" value="&lt;i&gt;&lt;b&gt;rcsTerminated&lt;/b&gt;&lt;/i&gt;" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#EAF2D3;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="TyJtWAUqAzPhKh6Bit0O-55" vertex="1">
           <mxGeometry width="130" height="44" as="geometry">
             <mxRectangle width="130" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-57" value="rcsService" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="TyJtWAUqAzPhKh6Bit0O-55" vertex="1">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-57" value="rcsService" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#EAF2D3;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="TyJtWAUqAzPhKh6Bit0O-55" vertex="1">
           <mxGeometry x="130" width="130" height="44" as="geometry">
             <mxRectangle width="130" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-58" value="Procesar lógica para el registro en BD del proceso completado." style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;fontSize=10;" parent="TyJtWAUqAzPhKh6Bit0O-55" vertex="1">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-58" value="Procesar lógica para el registro en BD del proceso completado." style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#EAF2D3;fontStyle=0;align=left;whiteSpace=wrap;html=1;fontSize=10;" parent="TyJtWAUqAzPhKh6Bit0O-55" vertex="1">
           <mxGeometry x="260" width="300" height="44" as="geometry">
             <mxRectangle width="300" height="44" as="alternateBounds" />
           </mxGeometry>
@@ -5239,17 +5239,17 @@
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" parent="TyJtWAUqAzPhKh6Bit0O-42" vertex="1">
           <mxGeometry y="129" width="560" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-60" value="&lt;i&gt;&lt;b&gt;rcsTerminated&lt;/b&gt;&lt;/i&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" parent="TyJtWAUqAzPhKh6Bit0O-59" vertex="1">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-60" value="&lt;i&gt;&lt;b&gt;rcsTerminated&lt;/b&gt;&lt;/i&gt;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;" parent="TyJtWAUqAzPhKh6Bit0O-59" vertex="1">
           <mxGeometry width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-61" value="rcsWebhookSender" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" parent="TyJtWAUqAzPhKh6Bit0O-59" vertex="1">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-61" value="rcsWebhookSender" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;" parent="TyJtWAUqAzPhKh6Bit0O-59" vertex="1">
           <mxGeometry x="130" width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-62" value="Procesar lógica para el envío de respuestas por medio de webhook para los senders." style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=10;align=left;" parent="TyJtWAUqAzPhKh6Bit0O-59" vertex="1">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-62" value="Procesar lógica para el envío de respuestas por medio de webhook para los senders." style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;fontSize=10;align=left;" parent="TyJtWAUqAzPhKh6Bit0O-59" vertex="1">
           <mxGeometry x="260" width="300" height="40" as="geometry">
             <mxRectangle width="300" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -5257,17 +5257,17 @@
         <mxCell id="TyJtWAUqAzPhKh6Bit0O-68" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" parent="TyJtWAUqAzPhKh6Bit0O-42" vertex="1">
           <mxGeometry y="169" width="560" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-69" value="&lt;b&gt;&lt;i&gt;rcsDLD&lt;/i&gt;&lt;/b&gt;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="TyJtWAUqAzPhKh6Bit0O-68" vertex="1">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-69" value="&lt;b&gt;&lt;i&gt;rcsDLD&lt;/i&gt;&lt;/b&gt;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#EAF2D3;" parent="TyJtWAUqAzPhKh6Bit0O-68" vertex="1">
           <mxGeometry width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-70" value="&lt;i&gt;&lt;b&gt;TBD&lt;/b&gt;&lt;/i&gt;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="TyJtWAUqAzPhKh6Bit0O-68" vertex="1">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-70" value="&lt;i&gt;&lt;b&gt;TBD&lt;/b&gt;&lt;/i&gt;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#EAF2D3;" parent="TyJtWAUqAzPhKh6Bit0O-68" vertex="1">
           <mxGeometry x="130" width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TyJtWAUqAzPhKh6Bit0O-71" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;fontSize=10;align=left;labelBackgroundColor=none;" parent="TyJtWAUqAzPhKh6Bit0O-68" vertex="1">
+        <mxCell id="TyJtWAUqAzPhKh6Bit0O-71" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;fontSize=10;align=left;labelBackgroundColor=none;fillColor=#EAF2D3;" parent="TyJtWAUqAzPhKh6Bit0O-68" vertex="1">
           <mxGeometry x="260" width="300" height="40" as="geometry">
             <mxRectangle width="300" height="40" as="alternateBounds" />
           </mxGeometry>
