@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="1406" dy="4000" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="634" dy="3580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -1720,14 +1720,6 @@
         <mxCell id="tX3aTPhCc9lYNagWoQMi-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#FF0000;" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-58" target="tX3aTPhCc9lYNagWoQMi-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tX3aTPhCc9lYNagWoQMi-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-58" target="tX3aTPhCc9lYNagWoQMi-98" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2710" y="-2157" />
-              <mxPoint x="2710" y="-2400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tX3aTPhCc9lYNagWoQMi-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-62" target="tX3aTPhCc9lYNagWoQMi-82" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1736,10 +1728,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D71FssSLxx5gzww5NAac-0" value="Segmento red&lt;div&gt;WSO2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+        <mxCell id="D71FssSLxx5gzww5NAac-0" value="Segmento red&lt;div&gt;WSO2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
           <mxGeometry x="1609" y="-2081" width="94" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="D71FssSLxx5gzww5NAac-1" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; dir=&quot;ltr&quot;&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;UAT&lt;/span&gt;&lt;/h2&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.109.32/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.109.0/27&lt;/p&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&amp;nbsp;&lt;/h2&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;PREPROD&lt;/span&gt;&lt;/h2&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.192/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.224/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;PRODUCCIÓN&lt;/span&gt;&lt;/h2&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.32/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.64/2&lt;/p&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+        <mxCell id="D71FssSLxx5gzww5NAac-1" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; dir=&quot;ltr&quot;&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;UAT&lt;/span&gt;&lt;/h2&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.109.32/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.109.0/27&lt;/p&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&amp;nbsp;&lt;/h2&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;PREPROD&lt;/span&gt;&lt;/h2&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.192/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.224/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;PRODUCCIÓN&lt;/span&gt;&lt;/h2&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.32/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.64/2&lt;/p&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
           <mxGeometry x="1513" y="-1627" width="151" height="137" as="geometry" />
         </mxCell>
       </root>
@@ -2842,7 +2834,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="4025" dy="2572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4728" dy="2954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
