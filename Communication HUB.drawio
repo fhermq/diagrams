@@ -1738,7 +1738,7 @@
           <mxGeometry x="2443" y="-1989" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="0-oW-AR7cCt7tqSvo2yw-4" value="SaaS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
-          <mxGeometry x="2859" y="-2035" width="70" height="30" as="geometry" />
+          <mxGeometry x="2863" y="-2016" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0-oW-AR7cCt7tqSvo2yw-5" value="OCI - AT&amp;amp;T" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#b85450;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="2746" y="-1973" width="153" height="155" as="geometry" />
