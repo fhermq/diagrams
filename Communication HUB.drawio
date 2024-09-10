@@ -1787,7 +1787,7 @@
         <mxCell id="BZHXoxl5hgpx4tHaMhNq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="BZHXoxl5hgpx4tHaMhNq-7" target="BZHXoxl5hgpx4tHaMhNq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BZHXoxl5hgpx4tHaMhNq-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+        <mxCell id="BZHXoxl5hgpx4tHaMhNq-16" value="GitHub" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="2800" y="-2329" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BZHXoxl5hgpx4tHaMhNq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="BZHXoxl5hgpx4tHaMhNq-13" target="BZHXoxl5hgpx4tHaMhNq-16">
