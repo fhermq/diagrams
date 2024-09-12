@@ -1803,7 +1803,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="1247" dy="1505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="717" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -2267,10 +2267,16 @@
         <mxCell id="z6_fRc97xb6gZJQmDFyX-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="z6_fRc97xb6gZJQmDFyX-17">
           <mxGeometry x="44" y="80" width="10" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="z6_fRc97xb6gZJQmDFyX-19" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;GET&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;v1/{parent=phones/*}/agentMessages&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" target="z6_fRc97xb6gZJQmDFyX-18">
-          <mxGeometry width="60" relative="1" as="geometry">
+        <mxCell id="z6_fRc97xb6gZJQmDFyX-19" value="" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" target="z6_fRc97xb6gZJQmDFyX-18">
+          <mxGeometry x="-0.4302" y="41" width="60" relative="1" as="geometry">
             <mxPoint x="1293.3888888888887" y="421" as="sourcePoint" />
             <mxPoint x="1477.5" y="421" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6_fRc97xb6gZJQmDFyX-46" value="&lt;span style=&quot;text-wrap: wrap; font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;GET&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;communicationManagement/v4/communicationMessage&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z6_fRc97xb6gZJQmDFyX-19">
+          <mxGeometry x="0.1138" y="1" relative="1" as="geometry">
+            <mxPoint x="-34" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z6_fRc97xb6gZJQmDFyX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="z6_fRc97xb6gZJQmDFyX-18" target="z6_fRc97xb6gZJQmDFyX-2">
