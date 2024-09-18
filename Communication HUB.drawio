@@ -5736,10 +5736,43 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OghB0Op5eEHz8ftocrOI" name="Data Strategy">
-    <mxGraphModel dx="1793" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7J_PrtEHiGQSB8arEDmS-2" value="Oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="760" y="220" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7J_PrtEHiGQSB8arEDmS-3" value="Datalake" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Lake.svg;" vertex="1" parent="1">
+          <mxGeometry x="771" y="450" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzZUD9BfC8V_KnXFqoIH-1" target="7J_PrtEHiGQSB8arEDmS-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-5" value="End" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GzZUD9BfC8V_KnXFqoIH-4">
+          <mxGeometry x="0.2957" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-1" value="Communication Message" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="440" y="330" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GzZUD9BfC8V_KnXFqoIH-1" target="7J_PrtEHiGQSB8arEDmS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-3" value="Begin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GzZUD9BfC8V_KnXFqoIH-2">
+          <mxGeometry x="0.393" y="1" relative="1" as="geometry">
+            <mxPoint x="-19" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
