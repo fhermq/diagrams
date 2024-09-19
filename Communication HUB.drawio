@@ -5825,7 +5825,7 @@
           <mxGeometry x="71" y="20" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-29" value="Escenario B&lt;div&gt;Configuración de Oracle para almacenar en frio en Datalake&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="611" y="20" width="350" height="30" as="geometry" />
+          <mxGeometry x="663" y="20" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-32" target="GzZUD9BfC8V_KnXFqoIH-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
