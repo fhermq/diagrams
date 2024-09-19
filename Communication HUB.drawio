@@ -5733,7 +5733,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OghB0Op5eEHz8ftocrOI" name="Data Strategy">
-    <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5939,17 +5939,23 @@
         <mxCell id="ctoT20OXpIoLWuqCQC7c-1" value="No es viable por que tendriamos mover registro por rtegistro&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="245.2" y="188" width="219" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7ChIVpDquH6LzlZuAWiP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ctoT20OXpIoLWuqCQC7c-2" target="7ChIVpDquH6LzlZuAWiP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ctoT20OXpIoLWuqCQC7c-2" value="Oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1002.2" y="520" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ctoT20OXpIoLWuqCQC7c-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GzZUD9BfC8V_KnXFqoIH-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="628" as="sourcePoint" />
+            <mxPoint x="630" y="624" as="sourcePoint" />
             <mxPoint x="710" y="628" as="targetPoint" />
             <Array as="points">
               <mxPoint x="630" y="624" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7ChIVpDquH6LzlZuAWiP-2" value="Participación" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1112.2" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
