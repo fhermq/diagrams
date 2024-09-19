@@ -5954,7 +5954,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ChIVpDquH6LzlZuAWiP-2" value="Participación" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="7ChIVpDquH6LzlZuAWiP-2" value="Partición" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1112.2" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
