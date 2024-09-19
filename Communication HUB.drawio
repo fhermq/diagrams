@@ -5882,17 +5882,15 @@
             <mxPoint x="8" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GzZUD9BfC8V_KnXFqoIH-47" value="MongoDB" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" parent="1" vertex="1">
-          <mxGeometry x="988.6" y="517.6" width="82.4" height="82.4" as="geometry" />
-        </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-48" value="Datalake" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Lake.svg;" parent="1" vertex="1">
           <mxGeometry x="1005.6000000000001" y="680" width="53.2" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GzZUD9BfC8V_KnXFqoIH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-49" target="GzZUD9BfC8V_KnXFqoIH-47" edge="1">
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.283;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-49" target="ctoT20OXpIoLWuqCQC7c-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="906" y="550" />
+              <mxPoint x="906" y="549" />
             </Array>
+            <mxPoint x="988.5999999999999" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-49" target="GzZUD9BfC8V_KnXFqoIH-48" edge="1">
@@ -5905,12 +5903,13 @@
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-49" value="Envio Datalake" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="1" vertex="1">
           <mxGeometry x="881" y="600" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="GzZUD9BfC8V_KnXFqoIH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-52" target="GzZUD9BfC8V_KnXFqoIH-47" edge="1">
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-52" target="ctoT20OXpIoLWuqCQC7c-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="746" y="500" />
               <mxPoint x="1032" y="500" />
             </Array>
+            <mxPoint x="1032" y="517.5999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-56" value="Transaccional&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GzZUD9BfC8V_KnXFqoIH-53" vertex="1" connectable="0">
@@ -5939,6 +5938,9 @@
         </mxCell>
         <mxCell id="ctoT20OXpIoLWuqCQC7c-1" value="No es viable por que tendriamos mover registro por rtegistro&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="245.2" y="188" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctoT20OXpIoLWuqCQC7c-2" value="Oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1002.2" y="520" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
