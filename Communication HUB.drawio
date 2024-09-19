@@ -5738,15 +5738,15 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7J_PrtEHiGQSB8arEDmS-2" value="Oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="471" y="60" width="60" height="80" as="geometry" />
+          <mxGeometry x="427" y="60" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7J_PrtEHiGQSB8arEDmS-3" value="Datalake" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Lake.svg;" parent="1" vertex="1">
-          <mxGeometry x="471" y="280" width="53.2" height="70" as="geometry" />
+          <mxGeometry x="427" y="280" width="53.2" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-1" target="7J_PrtEHiGQSB8arEDmS-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="176" y="320" />
+              <mxPoint x="132" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5756,12 +5756,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-1" value="Communication Message" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="1" vertex="1">
-          <mxGeometry x="151" y="170" width="50" height="48" as="geometry" />
+          <mxGeometry x="107" y="170" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-1" target="7J_PrtEHiGQSB8arEDmS-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="176" y="100" />
+              <mxPoint x="132" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5772,7 +5772,7 @@
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="GzZUD9BfC8V_KnXFqoIH-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="71" y="194" as="sourcePoint" />
+            <mxPoint x="27" y="194" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-17" target="GzZUD9BfC8V_KnXFqoIH-18" edge="1">
@@ -5784,15 +5784,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-17" value="Oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="1011" y="60" width="60" height="80" as="geometry" />
+          <mxGeometry x="967" y="60" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-18" value="Datalake" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Lake.svg;" parent="1" vertex="1">
-          <mxGeometry x="1014.4000000000001" y="280" width="53.2" height="70" as="geometry" />
+          <mxGeometry x="970.4000000000001" y="280" width="53.2" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-21" target="GzZUD9BfC8V_KnXFqoIH-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="716" y="320" />
+              <mxPoint x="672" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5802,12 +5802,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-21" value="Communication Message" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="1" vertex="1">
-          <mxGeometry x="691" y="170" width="50" height="48" as="geometry" />
+          <mxGeometry x="647" y="170" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-21" target="GzZUD9BfC8V_KnXFqoIH-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="716" y="100" />
+              <mxPoint x="672" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5818,14 +5818,14 @@
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="GzZUD9BfC8V_KnXFqoIH-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="611" y="194" as="sourcePoint" />
+            <mxPoint x="567" y="194" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-28" value="Escenario A&lt;div&gt;Al finalizar la transaccion se envia a Datalake&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="71" y="20" width="280" height="30" as="geometry" />
+          <mxGeometry x="27" y="20" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-29" value="Escenario B&lt;div&gt;Configuración de Oracle para almacenar en frio en Datalake&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="663" y="20" width="350" height="30" as="geometry" />
+          <mxGeometry x="619" y="20" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-32" target="GzZUD9BfC8V_KnXFqoIH-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -5836,15 +5836,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-32" value="Oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="464.19999999999993" y="470" width="60" height="80" as="geometry" />
+          <mxGeometry x="420.19999999999993" y="470" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-34" value="Communication Message" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="1" vertex="1">
-          <mxGeometry x="144.20000000000005" y="580" width="50" height="48" as="geometry" />
+          <mxGeometry x="100.20000000000005" y="580" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-34" target="GzZUD9BfC8V_KnXFqoIH-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="169.20000000000005" y="510" />
+              <mxPoint x="125.20000000000005" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5855,25 +5855,25 @@
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="GzZUD9BfC8V_KnXFqoIH-34" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="64.20000000000005" y="604" as="sourcePoint" />
+            <mxPoint x="20.200000000000045" y="604" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-38" value="Escenario C&lt;div&gt;Configuración de Oracle para almacenar en Object Storage&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="64.20000000000005" y="430" width="350" height="30" as="geometry" />
+          <mxGeometry x="20.200000000000045" y="430" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-39" target="GzZUD9BfC8V_KnXFqoIH-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-39" value="Replica" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="464.19999999999993" y="690" width="60" height="80" as="geometry" />
+          <mxGeometry x="420.19999999999993" y="690" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-42" value="Object Storage" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bucket_with_objects;" parent="1" vertex="1">
-          <mxGeometry x="464.19999999999993" y="588" width="60" height="60" as="geometry" />
+          <mxGeometry x="420.19999999999993" y="588" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-34" target="GzZUD9BfC8V_KnXFqoIH-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="169.60000000000002" y="730" />
+              <mxPoint x="125.60000000000002" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5883,33 +5883,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-48" value="Datalake" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Lake.svg;" parent="1" vertex="1">
-          <mxGeometry x="1005.6000000000001" y="680" width="53.2" height="70" as="geometry" />
+          <mxGeometry x="961.6000000000001" y="680" width="53.2" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.283;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-49" target="ctoT20OXpIoLWuqCQC7c-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="906" y="549" />
+              <mxPoint x="862" y="549" />
             </Array>
-            <mxPoint x="988.5999999999999" y="550" as="targetPoint" />
+            <mxPoint x="944.5999999999999" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-49" target="GzZUD9BfC8V_KnXFqoIH-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="906" y="715" />
+              <mxPoint x="862" y="715" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-49" value="Envio Datalake" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="1" vertex="1">
-          <mxGeometry x="881" y="600" width="50" height="48" as="geometry" />
+          <mxGeometry x="837" y="600" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-52" target="ctoT20OXpIoLWuqCQC7c-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="746" y="500" />
-              <mxPoint x="1032" y="500" />
+              <mxPoint x="702" y="500" />
+              <mxPoint x="988" y="500" />
             </Array>
-            <mxPoint x="1032" y="517.5999999999999" as="targetPoint" />
+            <mxPoint x="988" y="517.5999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-56" value="Transaccional&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GzZUD9BfC8V_KnXFqoIH-53" vertex="1" connectable="0">
@@ -5920,8 +5920,8 @@
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-52" target="GzZUD9BfC8V_KnXFqoIH-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="746" y="790" />
-              <mxPoint x="1032" y="790" />
+              <mxPoint x="702" y="790" />
+              <mxPoint x="988" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5931,31 +5931,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-52" value="Communication Message" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="1" vertex="1">
-          <mxGeometry x="721" y="600" width="50" height="48" as="geometry" />
+          <mxGeometry x="677" y="600" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-55" value="Escenario D&lt;div&gt;Dejar MongoDB como BD principal y cear un proceso de&amp;nbsp; envío a Datalake&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="671" y="430" width="430" height="30" as="geometry" />
+          <mxGeometry x="627" y="430" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ctoT20OXpIoLWuqCQC7c-1" value="No es viable por que tendriamos mover registro por rtegistro&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="245.2" y="188" width="219" height="30" as="geometry" />
+          <mxGeometry x="201.2" y="188" width="219" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ChIVpDquH6LzlZuAWiP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ctoT20OXpIoLWuqCQC7c-2" target="7ChIVpDquH6LzlZuAWiP-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ctoT20OXpIoLWuqCQC7c-2" value="Oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1002.2" y="520" width="60" height="80" as="geometry" />
+          <mxGeometry x="958.2" y="520" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ctoT20OXpIoLWuqCQC7c-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GzZUD9BfC8V_KnXFqoIH-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="624" as="sourcePoint" />
-            <mxPoint x="710" y="628" as="targetPoint" />
+            <mxPoint x="586" y="624" as="sourcePoint" />
+            <mxPoint x="666" y="628" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="624" />
+              <mxPoint x="586" y="624" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7ChIVpDquH6LzlZuAWiP-2" value="Partición" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1112.2" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="1057" y="530" width="81.8" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
