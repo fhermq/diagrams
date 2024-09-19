@@ -5942,6 +5942,15 @@
         <mxCell id="ctoT20OXpIoLWuqCQC7c-2" value="Oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1002.2" y="520" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ctoT20OXpIoLWuqCQC7c-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GzZUD9BfC8V_KnXFqoIH-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="628" as="sourcePoint" />
+            <mxPoint x="710" y="628" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
