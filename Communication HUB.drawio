@@ -1790,6 +1790,9 @@
         <mxCell id="BZHXoxl5hgpx4tHaMhNq-19" value="dev/config&lt;div&gt;stage/config&lt;/div&gt;&lt;div&gt;prod/config&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
           <mxGeometry x="2857" y="-2322" width="91" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="HxyBdrUg9EtWWMS6K2dK-1" value="Revisar con Christian&lt;div&gt;Relling&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="1454" y="-1994" width="142" height="142" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
