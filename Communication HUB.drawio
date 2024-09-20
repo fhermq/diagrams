@@ -5998,7 +5998,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WwQLaeAy0eWJfTKMXlTE-8" value="Almacena&lt;div&gt;Consulta&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WwQLaeAy0eWJfTKMXlTE-8" value="Azure Storage" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="759.8" y="1038" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WwQLaeAy0eWJfTKMXlTE-12" target="WwQLaeAy0eWJfTKMXlTE-6">
@@ -6014,9 +6014,6 @@
         </mxCell>
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-15" value="hot" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Registrations.svg;" vertex="1" parent="1">
           <mxGeometry x="979.8" y="925" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="WwQLaeAy0eWJfTKMXlTE-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/mimetypes/zip.png" vertex="1" parent="1">
-          <mxGeometry x="587.8" y="890" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-18" value="cool" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Registrations.svg;" vertex="1" parent="1">
           <mxGeometry x="979.8" y="1018" width="50" height="50" as="geometry" />
