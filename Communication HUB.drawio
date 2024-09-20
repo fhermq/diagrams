@@ -5733,7 +5733,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OghB0Op5eEHz8ftocrOI" name="Data Strategy">
-    <mxGraphModel dx="1500" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5978,7 +5978,7 @@
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WwQLaeAy0eWJfTKMXlTE-6" target="WwQLaeAy0eWJfTKMXlTE-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WwQLaeAy0eWJfTKMXlTE-6" value="Datalake" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="WwQLaeAy0eWJfTKMXlTE-6" value="Azure Storage" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="1038" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-8" value="Almacena&lt;div&gt;Consulta&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
