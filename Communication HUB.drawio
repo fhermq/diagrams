@@ -5999,7 +5999,7 @@
           <mxGeometry x="1030" y="905" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/mimetypes/zip.png" vertex="1" parent="1">
-          <mxGeometry x="618.2" y="880" width="128" height="128" as="geometry" />
+          <mxGeometry x="638" y="870" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-18" value="cool" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Registrations.svg;" vertex="1" parent="1">
           <mxGeometry x="1030" y="998" width="50" height="50" as="geometry" />
