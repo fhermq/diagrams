@@ -5972,7 +5972,7 @@
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WwQLaeAy0eWJfTKMXlTE-4" target="WwQLaeAy0eWJfTKMXlTE-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WwQLaeAy0eWJfTKMXlTE-4" value="Enviar a Datalake" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WwQLaeAy0eWJfTKMXlTE-4" value="Enviar a Azure" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="1038" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WwQLaeAy0eWJfTKMXlTE-6" target="WwQLaeAy0eWJfTKMXlTE-8">
