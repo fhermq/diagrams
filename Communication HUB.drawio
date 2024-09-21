@@ -5988,7 +5988,7 @@
             <mxPoint x="590" y="1068" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WwQLaeAy0eWJfTKMXlTE-4" value="Enviar a Colda Data Transacciones Finalizadas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WwQLaeAy0eWJfTKMXlTE-4" value="Enviar Data Transacciones Finalizadas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="1038" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-8" value="Azure Storage" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
