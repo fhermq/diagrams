@@ -5742,7 +5742,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OghB0Op5eEHz8ftocrOI" name="Data Strategy">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5891,34 +5891,34 @@
             <mxPoint x="8" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GzZUD9BfC8V_KnXFqoIH-48" value="Datalake" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Lake.svg;" parent="1" vertex="1">
-          <mxGeometry x="961.6000000000001" y="680" width="53.2" height="70" as="geometry" />
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-48" value="Azure Storage" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/mscae/Data_Lake.svg;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1006.6000000000001" y="680" width="53.2" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GzZUD9BfC8V_KnXFqoIH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.283;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-49" target="ctoT20OXpIoLWuqCQC7c-2" edge="1">
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-49" target="BRSfrA28MMtqoMm1kXBA-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="862" y="549" />
+              <mxPoint x="907" y="549" />
             </Array>
-            <mxPoint x="944.5999999999999" y="550" as="targetPoint" />
+            <mxPoint x="1020.1799999999998" y="549.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-49" target="GzZUD9BfC8V_KnXFqoIH-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="862" y="715" />
+              <mxPoint x="907" y="715" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GzZUD9BfC8V_KnXFqoIH-49" value="Envio Datalake" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="1" vertex="1">
-          <mxGeometry x="837" y="600" width="50" height="48" as="geometry" />
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-49" value="Envio Azure" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api;labelPosition=right;align=left;" parent="1" vertex="1">
+          <mxGeometry x="882" y="600" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="GzZUD9BfC8V_KnXFqoIH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-52" target="ctoT20OXpIoLWuqCQC7c-2" edge="1">
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzZUD9BfC8V_KnXFqoIH-52" target="BRSfrA28MMtqoMm1kXBA-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="702" y="500" />
-              <mxPoint x="988" y="500" />
+              <mxPoint x="1044" y="500" />
             </Array>
-            <mxPoint x="988" y="517.5999999999999" as="targetPoint" />
+            <mxPoint x="988" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-56" value="Transaccional&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GzZUD9BfC8V_KnXFqoIH-53" vertex="1" connectable="0">
@@ -5930,16 +5930,16 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="702" y="790" />
-              <mxPoint x="988" y="790" />
+              <mxPoint x="1030" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GzZUD9BfC8V_KnXFqoIH-57" value="Histórico" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GzZUD9BfC8V_KnXFqoIH-54" vertex="1" connectable="0">
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-57" value="Histórico&lt;div&gt;On Demand&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GzZUD9BfC8V_KnXFqoIH-54" vertex="1" connectable="0">
           <mxGeometry x="0.1564" y="-3" relative="1" as="geometry">
             <mxPoint x="11" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GzZUD9BfC8V_KnXFqoIH-52" value="Communication Message" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="1" vertex="1">
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-52" value="Communication Message" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api;labelPosition=right;align=left;" parent="1" vertex="1">
           <mxGeometry x="677" y="600" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-55" value="Escenario D&lt;div&gt;Dejar MongoDB como BD principal y cear un proceso de&amp;nbsp; envío a Datalake&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -5947,12 +5947,6 @@
         </mxCell>
         <mxCell id="ctoT20OXpIoLWuqCQC7c-1" value="No es viable por que tendriamos mover registro por rtegistro&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="201.2" y="188" width="219" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ChIVpDquH6LzlZuAWiP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ctoT20OXpIoLWuqCQC7c-2" target="7ChIVpDquH6LzlZuAWiP-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ctoT20OXpIoLWuqCQC7c-2" value="Oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="958.2" y="520" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ctoT20OXpIoLWuqCQC7c-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GzZUD9BfC8V_KnXFqoIH-52">
           <mxGeometry relative="1" as="geometry">
@@ -5962,9 +5956,6 @@
               <mxPoint x="586" y="624" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7ChIVpDquH6LzlZuAWiP-2" value="Partición" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1057" y="530" width="81.8" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BRSfrA28MMtqoMm1kXBA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WwQLaeAy0eWJfTKMXlTE-1" target="BRSfrA28MMtqoMm1kXBA-1">
           <mxGeometry relative="1" as="geometry">
@@ -6023,6 +6014,9 @@
         </mxCell>
         <mxCell id="BRSfrA28MMtqoMm1kXBA-1" value="Recuperar Registros de información on demand" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="393.6" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRSfrA28MMtqoMm1kXBA-5" value="MongoDB" style="dashed=0;outlineConnect=0;html=1;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="1014" y="520" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
