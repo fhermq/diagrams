@@ -5942,8 +5942,8 @@
         <mxCell id="GzZUD9BfC8V_KnXFqoIH-52" value="Communication Message" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api;labelPosition=right;align=left;" parent="1" vertex="1">
           <mxGeometry x="677" y="600" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="GzZUD9BfC8V_KnXFqoIH-55" value="Escenario D&lt;div&gt;Dejar MongoDB como BD principal y cear un proceso de&amp;nbsp; envío a Datalake&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="627" y="430" width="430" height="30" as="geometry" />
+        <mxCell id="GzZUD9BfC8V_KnXFqoIH-55" value="&lt;div&gt;MongoDB u Oracle como BD transaccional y cear un proceso de&amp;nbsp; envío a Azure Storage&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="627" y="430" width="483" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ctoT20OXpIoLWuqCQC7c-1" value="No es viable por que tendriamos mover registro por rtegistro&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="201.2" y="188" width="219" height="30" as="geometry" />
