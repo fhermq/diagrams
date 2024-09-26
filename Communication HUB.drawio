@@ -6041,7 +6041,7 @@
         <mxCell id="GvQq7yp1H6dOVh4Gyv3d-3" value="Communication Hub&lt;div&gt;API&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="340" y="1394" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="GvQq7yp1H6dOVh4Gyv3d-4" value="MongoDB" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="1">
+        <mxCell id="GvQq7yp1H6dOVh4Gyv3d-4" value="MongoDB" style="dashed=0;outlineConnect=0;html=1;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="1">
           <mxGeometry x="511" y="1230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qkq78w9YUuXlZ1-6pgQB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qkq78w9YUuXlZ1-6pgQB-1" target="GvQq7yp1H6dOVh4Gyv3d-2">
