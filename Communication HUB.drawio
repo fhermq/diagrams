@@ -6047,7 +6047,7 @@
         <mxCell id="Qkq78w9YUuXlZ1-6pgQB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qkq78w9YUuXlZ1-6pgQB-1" target="GvQq7yp1H6dOVh4Gyv3d-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qkq78w9YUuXlZ1-6pgQB-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" vertex="1" parent="1">
+        <mxCell id="Qkq78w9YUuXlZ1-6pgQB-1" value="Event Hub" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" vertex="1" parent="1">
           <mxGeometry x="670" y="1393" width="48" height="50" as="geometry" />
         </mxCell>
       </root>
