@@ -6056,6 +6056,29 @@
         <mxCell id="ShxIoeAY8KsQmjQfxFUA-1" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#8C4FFF;strokeColor=#ffffff;fontColor=#232F3E;sketch=0;dashed=0;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="489.9999999999998" y="1546" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="s1vZo9OpqlvuOVajaZcw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1vZo9OpqlvuOVajaZcw-5" target="s1vZo9OpqlvuOVajaZcw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1vZo9OpqlvuOVajaZcw-5" value="MSK" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="1">
+          <mxGeometry x="1207.5999999999997" y="1378" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="s1vZo9OpqlvuOVajaZcw-6" value="Azure Storage" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
+          <mxGeometry x="1483.1499999999999" y="1376" width="88.89" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s1vZo9OpqlvuOVajaZcw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="s1vZo9OpqlvuOVajaZcw-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1086.6" y="1417" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s1vZo9OpqlvuOVajaZcw-8" value="Communication Hub&lt;div&gt;API&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1394" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="s1vZo9OpqlvuOVajaZcw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s1vZo9OpqlvuOVajaZcw-10" target="s1vZo9OpqlvuOVajaZcw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1vZo9OpqlvuOVajaZcw-10" value="MongoDB" style="dashed=0;outlineConnect=0;html=1;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="1205.6" y="1230" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
