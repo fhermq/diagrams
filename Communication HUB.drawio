@@ -6139,8 +6139,8 @@
         <mxCell id="MZaKh7u20I0zBBR1sKnS-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Pros&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Simplifación del flujo de datos.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1450" y="2077" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MZaKh7u20I0zBBR1sKnS-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Cons&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Costos en trafico de AWS hacia Azure.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Costso por uso de Event Hub en Azure&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1933.3" y="2077" width="180" height="120" as="geometry" />
+        <mxCell id="MZaKh7u20I0zBBR1sKnS-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Cons&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Costos en trafico de AWS hacia Azure.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Costso por uso de Event Hub en Azure&lt;/li&gt;&lt;li&gt;Funcionalidad nueva de MongoDB&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1933.3" y="2077" width="180" height="143" as="geometry" />
         </mxCell>
         <mxCell id="MZaKh7u20I0zBBR1sKnS-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MZaKh7u20I0zBBR1sKnS-7" target="s1vZo9OpqlvuOVajaZcw-6">
           <mxGeometry relative="1" as="geometry" />
