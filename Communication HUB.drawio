@@ -5742,7 +5742,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OghB0Op5eEHz8ftocrOI" name="Data Strategy">
-    <mxGraphModel dx="1147" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6091,44 +6091,44 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-8" value="MSK" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="1">
-          <mxGeometry x="927.5999999999997" y="2537" width="78" height="78" as="geometry" />
+          <mxGeometry x="472.9099999999997" y="2728" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="kde9_CcowGpoOz9gwMCt-8" source="kde9_CcowGpoOz9gwMCt-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="2576" as="sourcePoint" />
+            <mxPoint x="375.31" y="2767" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-11" value="Communication Hub&lt;div&gt;API&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="790" y="2553" width="50" height="48" as="geometry" />
+          <mxGeometry x="335.31" y="2744" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kde9_CcowGpoOz9gwMCt-13" target="kde9_CcowGpoOz9gwMCt-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1247.6999999999998" y="2535" as="targetPoint" />
+            <mxPoint x="793.0099999999998" y="2726" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-13" value="AWS&amp;nbsp;&lt;div&gt;MongoDB&lt;/div&gt;" style="dashed=0;outlineConnect=0;html=1;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="1">
-          <mxGeometry x="926.5999999999999" y="2389" width="80" height="80" as="geometry" />
+          <mxGeometry x="471.9099999999999" y="2580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kde9_CcowGpoOz9gwMCt-15" target="kde9_CcowGpoOz9gwMCt-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-15" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="1099" y="2506" width="80" height="100" as="geometry" />
+          <mxGeometry x="644.31" y="2697" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kde9_CcowGpoOz9gwMCt-16" target="kde9_CcowGpoOz9gwMCt-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-16" value="Extraccion Parquet" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="1114" y="2686" width="50" height="48" as="geometry" />
+          <mxGeometry x="659.31" y="2877" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-17" value="Azure Storage" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
-          <mxGeometry x="1309" y="2670" width="88.89" height="80" as="geometry" />
+          <mxGeometry x="854.31" y="2861" width="88.89" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kde9_CcowGpoOz9gwMCt-20" target="kde9_CcowGpoOz9gwMCt-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-20" value="Event Hub" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="2686" width="48" height="50" as="geometry" />
+          <mxGeometry x="765.31" y="2877" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MZaKh7u20I0zBBR1sKnS-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Pros&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Trafico interno AWS-On Premise - Azure&lt;/li&gt;&lt;li&gt;Reducción de transacciones a la BD (MongoDB u Oracle)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290.7" y="2077" width="180" height="120" as="geometry" />
