@@ -1806,7 +1806,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="4097" dy="2938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -2420,11 +2420,17 @@
         <mxCell id="AR4Ioh7e0D4HD8Ry5sXo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="AR4Ioh7e0D4HD8Ry5sXo-1" target="AR4Ioh7e0D4HD8Ry5sXo-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RXq_uCtd-gl2Ieehj2Li-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="AR4Ioh7e0D4HD8Ry5sXo-1" target="RXq_uCtd-gl2Ieehj2Li-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AR4Ioh7e0D4HD8Ry5sXo-1" value="Communicacion Hub" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Enterprise_Applications.svg;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2500" y="300" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="AR4Ioh7e0D4HD8Ry5sXo-3" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="AR4Ioh7e0D4HD8Ry5sXo-3" value="Webhook&lt;div&gt;(Notificaciones)&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2650" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RXq_uCtd-gl2Ieehj2Li-1" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="2650" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
