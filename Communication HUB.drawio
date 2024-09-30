@@ -5742,7 +5742,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OghB0Op5eEHz8ftocrOI" name="Data Strategy">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6126,6 +6126,12 @@
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-20" value="Event Hub" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" vertex="1" parent="1">
           <mxGeometry x="2100" y="1528" width="48" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MZaKh7u20I0zBBR1sKnS-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Pros&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Trafico interno AWS-On Premise - Azure&lt;/li&gt;&lt;li&gt;Reducción de transacciones a la BD (MongoDB u Oracle)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220.7" y="1528" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MZaKh7u20I0zBBR1sKnS-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Cons&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Costos en AWS por Kafka Connect&lt;/li&gt;&lt;li&gt;Costos en azure por uso de Event hub&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="704" y="1528" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
