@@ -1806,7 +1806,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="956" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -2447,7 +2447,10 @@
         <mxCell id="onohLj4vvlTbA_S5QWZe-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-8" target="onohLj4vvlTbA_S5QWZe-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="onohLj4vvlTbA_S5QWZe-8" value="WhatsApp" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="onohLj4vvlTbA_S5QWZe-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-8" target="onohLj4vvlTbA_S5QWZe-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onohLj4vvlTbA_S5QWZe-8" value="WhatsApp" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;dashed=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2620" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onohLj4vvlTbA_S5QWZe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-11" target="onohLj4vvlTbA_S5QWZe-14">
@@ -2477,11 +2480,26 @@
         <mxCell id="onohLj4vvlTbA_S5QWZe-20" value="2 vías" style="whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="3320" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="onohLj4vvlTbA_S5QWZe-24" value="Messages" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="onohLj4vvlTbA_S5QWZe-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-24" target="onohLj4vvlTbA_S5QWZe-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onohLj4vvlTbA_S5QWZe-24" value="Messages" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;dashed=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2790" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="onohLj4vvlTbA_S5QWZe-26" value="Google&lt;div&gt;RCS&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="onohLj4vvlTbA_S5QWZe-26" value="Google&lt;div&gt;RCS&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="3023" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="onohLj4vvlTbA_S5QWZe-28" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;WhatsApp Business&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="3010" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="onohLj4vvlTbA_S5QWZe-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-30" target="onohLj4vvlTbA_S5QWZe-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onohLj4vvlTbA_S5QWZe-30" value="Webhoook" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;dashed=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="2790" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onohLj4vvlTbA_S5QWZe-32" value="API Cliente WhatsApp" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;dashed=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="2990" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
