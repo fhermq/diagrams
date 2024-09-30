@@ -1806,7 +1806,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="2868" dy="2305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -2416,6 +2416,9 @@
           <mxGeometry x="-0.2952" y="-1" relative="1" as="geometry">
             <mxPoint x="-11" y="-19" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AR4Ioh7e0D4HD8Ry5sXo-1" value="Communicacion Hub" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Enterprise_Applications.svg;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="2670" y="140" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
