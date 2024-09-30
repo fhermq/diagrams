@@ -1806,7 +1806,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="1195" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4097" dy="2938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -2417,14 +2417,20 @@
             <mxPoint x="-11" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AR4Ioh7e0D4HD8Ry5sXo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="AR4Ioh7e0D4HD8Ry5sXo-1" target="AR4Ioh7e0D4HD8Ry5sXo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AR4Ioh7e0D4HD8Ry5sXo-1" value="Communicacion Hub" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Enterprise_Applications.svg;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="2670" y="140" width="64" height="64" as="geometry" />
+          <mxGeometry x="2500" y="300" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="AR4Ioh7e0D4HD8Ry5sXo-3" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="2650" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Google RCS" id="LsQg53eAMe0Bkhw6eI3n">
-    <mxGraphModel dx="3847" dy="2432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3704" dy="2358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rP9GFd3awMIlGuRAaZDD-0" />
         <mxCell id="rP9GFd3awMIlGuRAaZDD-1" parent="rP9GFd3awMIlGuRAaZDD-0" />
@@ -2807,7 +2813,7 @@
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-8" value="IDP&lt;div&gt;DevSecOps&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="-1956" y="572.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h-cxNmTWmCQNc7GuBQIM-9" value="Satage" style="whiteSpace=wrap;html=1;rounded=0;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
+        <mxCell id="h-cxNmTWmCQNc7GuBQIM-9" value="Stage" style="whiteSpace=wrap;html=1;rounded=0;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="-1616" y="190.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h-cxNmTWmCQNc7GuBQIM-10" value="Produccion" style="whiteSpace=wrap;html=1;rounded=0;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
@@ -3007,7 +3013,7 @@
         <mxCell id="KzedJUANIyQDccm49_Ii-5" value="Los reintentos de hacen en el micro servicio,&#xa;    Si no se alcanza entonces se mueve a los muertos." style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="-1599" y="585" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KzedJUANIyQDccm49_Ii-6" value="DataModel&lt;div&gt;TM Forum&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
+        <mxCell id="KzedJUANIyQDccm49_Ii-6" value="DataModel&lt;div&gt;TM Forum&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rP9GFd3awMIlGuRAaZDD-1" vertex="1">
           <mxGeometry x="-1756" y="330.5" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="https://www.tmforum.org/oda/open-apis/directory/communication-management-api-TMF681/v4.0.0" link="https://www.tmforum.org/oda/open-apis/directory/communication-management-api-TMF681/v4.0.0" id="KzedJUANIyQDccm49_Ii-8">
