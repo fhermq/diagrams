@@ -6084,6 +6084,34 @@
         <mxCell id="kde9_CcowGpoOz9gwMCt-4" value="Kafka Connect" style="whiteSpace=wrap;html=1;verticalAlign=top;sketch=0;dashed=0;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="557.5999999999998" y="1388" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kde9_CcowGpoOz9gwMCt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kde9_CcowGpoOz9gwMCt-8" target="kde9_CcowGpoOz9gwMCt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kde9_CcowGpoOz9gwMCt-8" value="MSK" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="1">
+          <mxGeometry x="1807.5999999999997" y="1379" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="kde9_CcowGpoOz9gwMCt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="kde9_CcowGpoOz9gwMCt-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1686.6" y="1418" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kde9_CcowGpoOz9gwMCt-11" value="Communication Hub&lt;div&gt;API&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1395" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="kde9_CcowGpoOz9gwMCt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kde9_CcowGpoOz9gwMCt-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2127.7" y="1377" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kde9_CcowGpoOz9gwMCt-13" value="AWS&amp;nbsp;&lt;div&gt;MongoDB&lt;/div&gt;" style="dashed=0;outlineConnect=0;html=1;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="1805.6" y="1231" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kde9_CcowGpoOz9gwMCt-14" value="Costo de trafico red" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1201" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kde9_CcowGpoOz9gwMCt-15" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="1376" width="80" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
