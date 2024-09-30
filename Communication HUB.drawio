@@ -6075,8 +6075,8 @@
         <mxCell id="s1vZo9OpqlvuOVajaZcw-10" value="AWS&amp;nbsp;&lt;div&gt;MongoDB&lt;/div&gt;" style="dashed=0;outlineConnect=0;html=1;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" parent="1" vertex="1">
           <mxGeometry x="1205.6" y="1230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kde9_CcowGpoOz9gwMCt-3" value="Costo de trafico red" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="1200" width="170" height="30" as="geometry" />
+        <mxCell id="kde9_CcowGpoOz9gwMCt-3" value="Costo de trafico red" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1211" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kde9_CcowGpoOz9gwMCt-4" target="Qkq78w9YUuXlZ1-6pgQB-1">
           <mxGeometry relative="1" as="geometry" />
