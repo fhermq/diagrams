@@ -2468,7 +2468,7 @@
         <mxCell id="onohLj4vvlTbA_S5QWZe-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-16" target="onohLj4vvlTbA_S5QWZe-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="onohLj4vvlTbA_S5QWZe-16" value="Server&amp;nbsp;&lt;div&gt;Notificaciones hacia clientes&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="onohLj4vvlTbA_S5QWZe-16" value="&lt;div&gt;Notificaciones hacia clientes&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="3098" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onohLj4vvlTbA_S5QWZe-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-18" target="onohLj4vvlTbA_S5QWZe-20">
