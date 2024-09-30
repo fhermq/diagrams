@@ -2456,11 +2456,11 @@
         <mxCell id="onohLj4vvlTbA_S5QWZe-0" value="SendMessage" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2803" y="252" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="onohLj4vvlTbA_S5QWZe-2" value="WhatsApp" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;dashed=1;dashPattern=8 8;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="onohLj4vvlTbA_S5QWZe-2" value="WhatsApp" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;dashed=1;dashPattern=8 8;strokeColor=#FF8000;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2786" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onohLj4vvlTbA_S5QWZe-8" value="WhatsApp" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="2620" y="414" width="120" height="60" as="geometry" />
+          <mxGeometry x="2620" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onohLj4vvlTbA_S5QWZe-11" value="Webhook" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2803" y="330" width="120" height="60" as="geometry" />
