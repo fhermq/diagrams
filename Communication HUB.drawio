@@ -2438,6 +2438,9 @@
         <mxCell id="RXq_uCtd-gl2Ieehj2Li-1" value="RCS" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2620" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="onohLj4vvlTbA_S5QWZe-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-0" target="onohLj4vvlTbA_S5QWZe-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="onohLj4vvlTbA_S5QWZe-0" value="SendMessage" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2803" y="70" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2476,6 +2479,9 @@
         </mxCell>
         <mxCell id="onohLj4vvlTbA_S5QWZe-24" value="Messages" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2790" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="onohLj4vvlTbA_S5QWZe-26" value="Google&lt;div&gt;RCS&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="3023" y="60" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
