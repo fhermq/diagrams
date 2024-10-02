@@ -6177,7 +6177,7 @@
           <mxGeometry x="490.5999999999998" y="1928" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="GvQq7yp1H6dOVh4Gyv3d-2" value="Azure Storage" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" parent="1" vertex="1">
-          <mxGeometry x="892.55" y="1925" width="88.89" height="80" as="geometry" />
+          <mxGeometry x="890" y="1927" width="88.89" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GvQq7yp1H6dOVh4Gyv3d-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GvQq7yp1H6dOVh4Gyv3d-3" target="GvQq7yp1H6dOVh4Gyv3d-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -6187,12 +6187,6 @@
         </mxCell>
         <mxCell id="GvQq7yp1H6dOVh4Gyv3d-4" value="MongoDB" style="dashed=0;outlineConnect=0;html=1;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" parent="1" vertex="1">
           <mxGeometry x="490.6" y="1790" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Qkq78w9YUuXlZ1-6pgQB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Qkq78w9YUuXlZ1-6pgQB-1" target="GvQq7yp1H6dOVh4Gyv3d-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qkq78w9YUuXlZ1-6pgQB-1" value="Event Hub" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" parent="1" vertex="1">
-          <mxGeometry x="797" y="1941" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s1vZo9OpqlvuOVajaZcw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s1vZo9OpqlvuOVajaZcw-5" target="s1vZo9OpqlvuOVajaZcw-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -6219,8 +6213,10 @@
         <mxCell id="s1vZo9OpqlvuOVajaZcw-10" value="AWS&amp;nbsp;&lt;div&gt;MongoDB&lt;/div&gt;" style="dashed=0;outlineConnect=0;html=1;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" parent="1" vertex="1">
           <mxGeometry x="1646.6" y="1789" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kde9_CcowGpoOz9gwMCt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kde9_CcowGpoOz9gwMCt-4" target="Qkq78w9YUuXlZ1-6pgQB-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kde9_CcowGpoOz9gwMCt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kde9_CcowGpoOz9gwMCt-4" target="GvQq7yp1H6dOVh4Gyv3d-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="797" y="1966" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kde9_CcowGpoOz9gwMCt-4" value="Kafka Connect" style="whiteSpace=wrap;html=1;verticalAlign=middle;sketch=0;dashed=0;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="627.5999999999998" y="1937" width="120" height="60" as="geometry" />
