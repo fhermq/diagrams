@@ -2441,7 +2441,7 @@
         <mxCell id="onohLj4vvlTbA_S5QWZe-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-8" target="onohLj4vvlTbA_S5QWZe-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="onohLj4vvlTbA_S5QWZe-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-8" target="onohLj4vvlTbA_S5QWZe-30" edge="1">
+        <mxCell id="onohLj4vvlTbA_S5QWZe-31" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-8" target="onohLj4vvlTbA_S5QWZe-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onohLj4vvlTbA_S5QWZe-8" value="WhatsApp" style="whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=default;dashed=1;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
@@ -2459,12 +2459,12 @@
         <mxCell id="onohLj4vvlTbA_S5QWZe-14" value="API Cliente Google" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
           <mxGeometry x="3000" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="onohLj4vvlTbA_S5QWZe-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-16" target="UqUS8O-P8QFXNqsmpptR-0" edge="1">
+        <mxCell id="onohLj4vvlTbA_S5QWZe-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-16" target="UqUS8O-P8QFXNqsmpptR-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3278" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UqUS8O-P8QFXNqsmpptR-5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-16" target="UqUS8O-P8QFXNqsmpptR-9">
+        <mxCell id="UqUS8O-P8QFXNqsmpptR-5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-16" target="UqUS8O-P8QFXNqsmpptR-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3350" y="495" as="targetPoint" />
           </mxGeometry>
@@ -2502,7 +2502,7 @@
           <mxGeometry x="2990" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UqUS8O-P8QFXNqsmpptR-1" value="" style="group" vertex="1" connectable="0" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="3320" y="200" width="262" height="150" as="geometry" />
+          <mxGeometry x="3320" y="180" width="262" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UqUS8O-P8QFXNqsmpptR-0" value="Live Marketing" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="UqUS8O-P8QFXNqsmpptR-1">
           <mxGeometry width="262" height="150" as="geometry" />
@@ -2514,7 +2514,7 @@
           <mxGeometry x="30" y="35" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UqUS8O-P8QFXNqsmpptR-8" value="" style="group" vertex="1" connectable="0" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="3320" y="380" width="262" height="150" as="geometry" />
+          <mxGeometry x="3320" y="370" width="262" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UqUS8O-P8QFXNqsmpptR-9" value="Mi ATT" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="UqUS8O-P8QFXNqsmpptR-8">
           <mxGeometry width="262" height="150" as="geometry" />
