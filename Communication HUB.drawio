@@ -5861,7 +5861,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OghB0Op5eEHz8ftocrOI" name="Data Strategy">
-    <mxGraphModel dx="2049" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6127,14 +6127,28 @@
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-20" value="archieve" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Registrations.svg;" parent="1" vertex="1">
           <mxGeometry x="806" y="1085" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WwQLaeAy0eWJfTKMXlTE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WwQLaeAy0eWJfTKMXlTE-8" target="WwQLaeAy0eWJfTKMXlTE-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WwQLaeAy0eWJfTKMXlTE-21" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WwQLaeAy0eWJfTKMXlTE-8" target="WwQLaeAy0eWJfTKMXlTE-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="940" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WwQLaeAy0eWJfTKMXlTE-8" target="WwQLaeAy0eWJfTKMXlTE-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="958" />
+              <mxPoint x="750" y="1015" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WwQLaeAy0eWJfTKMXlTE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WwQLaeAy0eWJfTKMXlTE-8" target="WwQLaeAy0eWJfTKMXlTE-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="958" />
+              <mxPoint x="750" y="1105" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qwq3DlHLI1kXJlHnFS-T-3" value="&amp;gt; 30 dias" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="883.2" y="1006.5" width="60" height="30" as="geometry" />
@@ -6247,6 +6261,19 @@
         </mxCell>
         <mxCell id="MZaKh7u20I0zBBR1sKnS-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Cons&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Costos en trafico de AWS hacia Azure.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Costso por uso de Event Hub en Azure&lt;/li&gt;&lt;li&gt;Funcionalidad nueva de MongoDB&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1933.3" y="2077" width="180" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="86QBO5puYgyfmKBNCpbl-4" value="Eliminación" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.delete;" vertex="1" parent="1">
+          <mxGeometry x="806" y="1190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="86QBO5puYgyfmKBNCpbl-5" value="&amp;gt; 365 dias" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="882" y="1190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="86QBO5puYgyfmKBNCpbl-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.598;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WwQLaeAy0eWJfTKMXlTE-8" target="86QBO5puYgyfmKBNCpbl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="1080" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
