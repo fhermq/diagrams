@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="887" dy="3718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1249" dy="3856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -1734,9 +1734,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D71FssSLxx5gzww5NAac-0" value="Segmento red&lt;div&gt;WSO2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
-          <mxGeometry x="1609" y="-2081" width="94" height="53" as="geometry" />
-        </mxCell>
         <mxCell id="D71FssSLxx5gzww5NAac-1" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; dir=&quot;ltr&quot;&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;UAT&lt;/span&gt;&lt;/h2&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.109.32/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.109.0/27&lt;/p&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&amp;nbsp;&lt;/h2&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;PREPROD&lt;/span&gt;&lt;/h2&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.192/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.224/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;PRODUCCIÓN&lt;/span&gt;&lt;/h2&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.32/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.64/2&lt;/p&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
           <mxGeometry x="1513" y="-1627" width="151" height="137" as="geometry" />
         </mxCell>
@@ -1774,9 +1771,6 @@
               <mxPoint x="2726" y="-2221" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HxyBdrUg9EtWWMS6K2dK-1" value="Revisar con Christian&lt;div&gt;Relling&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
-          <mxGeometry x="1454" y="-1994" width="142" height="142" as="geometry" />
         </mxCell>
         <mxCell id="smpYG_lCh_IuM0ooRHqe-0" value="Azure" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#0000FF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
           <mxGeometry x="2741.05" y="-2633" width="159.90999999999985" height="127" as="geometry" />
