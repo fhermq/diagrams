@@ -2464,8 +2464,10 @@
             <mxPoint x="3278" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UqUS8O-P8QFXNqsmpptR-5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-16" target="UqUS8O-P8QFXNqsmpptR-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UqUS8O-P8QFXNqsmpptR-5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="onohLj4vvlTbA_S5QWZe-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3350" y="495" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="onohLj4vvlTbA_S5QWZe-16" value="&lt;div&gt;Notificaciones hacia clientes&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
           <mxGeometry x="3098" y="300" width="120" height="60" as="geometry" />
@@ -2506,13 +2508,10 @@
           <mxGeometry width="262" height="150" as="geometry" />
         </mxCell>
         <mxCell id="onohLj4vvlTbA_S5QWZe-20" value="2 vías" style="whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" parent="UqUS8O-P8QFXNqsmpptR-1" vertex="1">
-          <mxGeometry x="71" y="45" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="45" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UqUS8O-P8QFXNqsmpptR-2" value="" style="group;dashed=1;strokeColor=default;dashPattern=12 12;" vertex="1" connectable="0" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="3376" y="380" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UqUS8O-P8QFXNqsmpptR-3" value="Mi ATT" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="UqUS8O-P8QFXNqsmpptR-2">
-          <mxGeometry width="150" height="80" as="geometry" />
+        <mxCell id="UqUS8O-P8QFXNqsmpptR-7" value="Webhook&lt;div&gt;Cliente&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="UqUS8O-P8QFXNqsmpptR-1">
+          <mxGeometry x="30" y="35" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
