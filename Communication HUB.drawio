@@ -1626,7 +1626,7 @@
           <mxGeometry x="-2.2737367544323206e-13" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="BZHXoxl5hgpx4tHaMhNq-13" value="Config Server" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="tX3aTPhCc9lYNagWoQMi-61" vertex="1">
-          <mxGeometry x="199" y="84" width="50" height="48" as="geometry" />
+          <mxGeometry x="202" y="56" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tX3aTPhCc9lYNagWoQMi-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#9933FF;strokeWidth=2;" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-81" target="tX3aTPhCc9lYNagWoQMi-58" edge="1">
           <mxGeometry relative="1" as="geometry">
