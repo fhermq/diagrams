@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="1249" dy="3914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="19" dy="3222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -1513,7 +1513,7 @@
         <mxCell id="tX3aTPhCc9lYNagWoQMi-16" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
           <mxGeometry x="1799" y="-2427.32" width="136" height="137.32" as="geometry" />
         </mxCell>
-        <mxCell id="tX3aTPhCc9lYNagWoQMi-17" value="ALB&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;chub.mx.att.com&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.application_load_balancer;" parent="tX3aTPhCc9lYNagWoQMi-16" vertex="1">
+        <mxCell id="tX3aTPhCc9lYNagWoQMi-17" value="ALB&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;chub.mx.att.com/communicationMessage&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;chub.mx.att.com/webhookRCS&lt;br&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.application_load_balancer;" parent="tX3aTPhCc9lYNagWoQMi-16" vertex="1">
           <mxGeometry x="36.7" y="34.97" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="tX3aTPhCc9lYNagWoQMi-18" value="Excelencia Operativa" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;fillColor=#dae8fc;arcSize=30;fontSize=7;spacingLeft=42;fontStyle=1;align=left;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
