@@ -1793,7 +1793,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Communication Hub" id="fwvOMDQk0415-PEbnTRR">
-    <mxGraphModel dx="1593" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KBT-5L2El-NUVQtc919i-0" />
         <mxCell id="KBT-5L2El-NUVQtc919i-1" parent="KBT-5L2El-NUVQtc919i-0" />
@@ -2515,7 +2515,7 @@
         <mxCell id="canSzsXn55u65RUl1XMd-24" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="UqUS8O-P8QFXNqsmpptR-13" target="canSzsXn55u65RUl1XMd-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UqUS8O-P8QFXNqsmpptR-13" value="Canales" style="rounded=0;whiteSpace=wrap;html=1;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
+        <mxCell id="UqUS8O-P8QFXNqsmpptR-13" value="Communication Hub" style="rounded=0;whiteSpace=wrap;html=1;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
           <mxGeometry x="2510" y="354" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="canSzsXn55u65RUl1XMd-4" value="Push Notifications" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
