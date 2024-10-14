@@ -2507,15 +2507,6 @@
         <mxCell id="UqUS8O-P8QFXNqsmpptR-13" value="Canales" style="rounded=0;whiteSpace=wrap;html=1;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
           <mxGeometry x="2510" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UqUS8O-P8QFXNqsmpptR-15" value="Integración de BSPs" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
-          <mxGeometry x="3076" y="900" width="214" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="UqUS8O-P8QFXNqsmpptR-16" value="Recepción de notificaciones de BSPs" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
-          <mxGeometry x="2840" y="900" width="214" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="UqUS8O-P8QFXNqsmpptR-19" value="Gobierno" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
-          <mxGeometry x="2840" y="1030" width="214" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="canSzsXn55u65RUl1XMd-4" value="Push Notifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2726" y="724" width="120" height="60" as="geometry" />
         </mxCell>
