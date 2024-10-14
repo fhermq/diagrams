@@ -2519,7 +2519,7 @@
           <mxGeometry x="2510" y="354" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="canSzsXn55u65RUl1XMd-4" value="Push Notifications" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="2726" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="2726" y="594" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="canSzsXn55u65RUl1XMd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="canSzsXn55u65RUl1XMd-9" target="canSzsXn55u65RUl1XMd-11">
           <mxGeometry relative="1" as="geometry" />
@@ -2543,7 +2543,7 @@
           <mxGeometry x="2726" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="canSzsXn55u65RUl1XMd-23" value="SMS" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
-          <mxGeometry x="2720" y="704" width="120" height="60" as="geometry" />
+          <mxGeometry x="2726" y="704" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
