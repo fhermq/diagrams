@@ -2504,11 +2504,17 @@
         <mxCell id="canSzsXn55u65RUl1XMd-5" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="UqUS8O-P8QFXNqsmpptR-13" target="canSzsXn55u65RUl1XMd-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="canSzsXn55u65RUl1XMd-7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="UqUS8O-P8QFXNqsmpptR-13" target="canSzsXn55u65RUl1XMd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UqUS8O-P8QFXNqsmpptR-13" value="Canales" style="rounded=0;whiteSpace=wrap;html=1;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
           <mxGeometry x="2510" y="354" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="canSzsXn55u65RUl1XMd-4" value="Push Notifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2726" y="724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="canSzsXn55u65RUl1XMd-6" value="Schedule" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+          <mxGeometry x="2726" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
