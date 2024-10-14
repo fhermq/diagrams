@@ -2512,6 +2512,9 @@
         <mxCell id="canSzsXn55u65RUl1XMd-22" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="UqUS8O-P8QFXNqsmpptR-13" target="RXq_uCtd-gl2Ieehj2Li-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="canSzsXn55u65RUl1XMd-24" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KBT-5L2El-NUVQtc919i-1" source="UqUS8O-P8QFXNqsmpptR-13" target="canSzsXn55u65RUl1XMd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UqUS8O-P8QFXNqsmpptR-13" value="Canales" style="rounded=0;whiteSpace=wrap;html=1;" parent="KBT-5L2El-NUVQtc919i-1" vertex="1">
           <mxGeometry x="2510" y="354" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2539,7 +2542,7 @@
         <mxCell id="canSzsXn55u65RUl1XMd-19" value="Schedule" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2726" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="canSzsXn55u65RUl1XMd-23" value="Push Notifications" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
+        <mxCell id="canSzsXn55u65RUl1XMd-23" value="SMS" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="KBT-5L2El-NUVQtc919i-1">
           <mxGeometry x="2720" y="704" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
