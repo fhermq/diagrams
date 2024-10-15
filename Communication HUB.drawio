@@ -6290,11 +6290,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JDfuQxRgW4kq3ZVd-3M_" name="Página-7">
-    <mxGraphModel dx="1909" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N5VPGyxtrmLoZCA7PCGU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-1" target="N5VPGyxtrmLoZCA7PCGU-6">
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-1" target="N5VPGyxtrmLoZCA7PCGU-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N5VPGyxtrmLoZCA7PCGU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-1" target="N5VPGyxtrmLoZCA7PCGU-20">
@@ -6324,13 +6324,13 @@
         <mxCell id="N5VPGyxtrmLoZCA7PCGU-5" value="Live Marketnig" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N5VPGyxtrmLoZCA7PCGU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-6" target="N5VPGyxtrmLoZCA7PCGU-3">
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-6" target="N5VPGyxtrmLoZCA7PCGU-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N5VPGyxtrmLoZCA7PCGU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-6" target="N5VPGyxtrmLoZCA7PCGU-4">
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-6" target="N5VPGyxtrmLoZCA7PCGU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N5VPGyxtrmLoZCA7PCGU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-6" target="N5VPGyxtrmLoZCA7PCGU-5">
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-6" target="N5VPGyxtrmLoZCA7PCGU-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N5VPGyxtrmLoZCA7PCGU-6" value="WSO2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
