@@ -6366,6 +6366,12 @@
         <mxCell id="N5VPGyxtrmLoZCA7PCGU-26" value="SMS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="671" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-29" target="N5VPGyxtrmLoZCA7PCGU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-29" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="112" width="62.8" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
