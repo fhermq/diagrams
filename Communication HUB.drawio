@@ -6294,8 +6294,53 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-1" target="N5VPGyxtrmLoZCA7PCGU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="N5VPGyxtrmLoZCA7PCGU-1" value="Communication Hub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-3" value="WhatsApp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-4" value="RCS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamond;endFill=0;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-5" target="N5VPGyxtrmLoZCA7PCGU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-5" value="Live Marketnig" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-6" target="N5VPGyxtrmLoZCA7PCGU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-6" target="N5VPGyxtrmLoZCA7PCGU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-6" target="N5VPGyxtrmLoZCA7PCGU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-6" value="WSO2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-11" target="N5VPGyxtrmLoZCA7PCGU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-11" target="N5VPGyxtrmLoZCA7PCGU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-11" target="N5VPGyxtrmLoZCA7PCGU-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-11" value="2 vías" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-15" value="Campañas" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-18" value="Encuestas" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
