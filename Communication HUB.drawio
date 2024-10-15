@@ -6312,7 +6312,7 @@
         <mxCell id="N5VPGyxtrmLoZCA7PCGU-1" value="Communication Hub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N5VPGyxtrmLoZCA7PCGU-3" value="WhatsApp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-3" value="Mi ATT&lt;div&gt;TechMahindra&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N5VPGyxtrmLoZCA7PCGU-4" value="RCS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -6360,10 +6360,10 @@
         <mxCell id="N5VPGyxtrmLoZCA7PCGU-22" value="RCS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N5VPGyxtrmLoZCA7PCGU-23" value="SMS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-23" value="Push Notifcatons" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N5VPGyxtrmLoZCA7PCGU-26" value="WhatsApp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="N5VPGyxtrmLoZCA7PCGU-26" value="SMS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
