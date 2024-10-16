@@ -6333,6 +6333,9 @@
         <mxCell id="N5VPGyxtrmLoZCA7PCGU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="N5VPGyxtrmLoZCA7PCGU-6" target="N5VPGyxtrmLoZCA7PCGU-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bCgYral586ZLL3D3p9Gx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N5VPGyxtrmLoZCA7PCGU-6" target="bCgYral586ZLL3D3p9Gx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="N5VPGyxtrmLoZCA7PCGU-6" value="WSO2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -6371,6 +6374,9 @@
         </mxCell>
         <mxCell id="N5VPGyxtrmLoZCA7PCGU-29" value="Databricks" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="328.6" y="30" width="62.8" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="bCgYral586ZLL3D3p9Gx-2" value="SMSC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
