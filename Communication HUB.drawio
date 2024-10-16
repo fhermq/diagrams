@@ -6370,7 +6370,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N5VPGyxtrmLoZCA7PCGU-29" value="Databricks" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
-          <mxGeometry x="140" y="112" width="62.8" height="68" as="geometry" />
+          <mxGeometry x="328.6" y="30" width="62.8" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
