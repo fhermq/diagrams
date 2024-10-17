@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="634" dy="3580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-117" dy="3171" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -1552,7 +1552,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tX3aTPhCc9lYNagWoQMi-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fillColor=#dae8fc;strokeColor=#0000FF;strokeWidth=2;" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-39" target="0BLr1ntbOdI37X4sX1vV-4" edge="1">
+        <mxCell id="tX3aTPhCc9lYNagWoQMi-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fillColor=#dae8fc;strokeColor=#0000FF;strokeWidth=2;" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-38" target="0BLr1ntbOdI37X4sX1vV-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1694" y="-2160" as="sourcePoint" />
             <mxPoint x="1835.6999999999998" y="-2353" as="targetPoint" />
@@ -1563,7 +1563,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tX3aTPhCc9lYNagWoQMi-38" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#8C4FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
-          <mxGeometry x="1504" y="-2230" width="179.5" height="140" as="geometry" />
+          <mxGeometry x="1504" y="-2228" width="179.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="tX3aTPhCc9lYNagWoQMi-39" value="WSO2" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" parent="tX3aTPhCc9lYNagWoQMi-38" vertex="1">
           <mxGeometry x="41" y="34" width="78" height="78" as="geometry" />
@@ -1701,7 +1701,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tX3aTPhCc9lYNagWoQMi-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#FF0000;" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-58" target="tX3aTPhCc9lYNagWoQMi-39" edge="1">
+        <mxCell id="tX3aTPhCc9lYNagWoQMi-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#FF0000;strokeWidth=2;" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-58" target="tX3aTPhCc9lYNagWoQMi-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D71FssSLxx5gzww5NAac-1" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; dir=&quot;ltr&quot;&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;UAT&lt;/span&gt;&lt;/h2&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.109.32/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.109.0/27&lt;/p&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&amp;nbsp;&lt;/h2&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;PREPROD&lt;/span&gt;&lt;/h2&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.192/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.224/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;h2 style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;PRODUCCIÓN&lt;/span&gt;&lt;/h2&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.32/27&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0px; margin-top: 0px;&quot;&gt;10.237.99.64/2&lt;/p&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
