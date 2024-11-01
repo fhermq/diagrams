@@ -1790,39 +1790,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6WxV5IsqMjqwyqQSDEPg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="BZHXoxl5hgpx4tHaMhNq-5" target="6WxV5IsqMjqwyqQSDEPg-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1826" y="-1699.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6WxV5IsqMjqwyqQSDEPg-2" value="Azure&amp;nbsp;&lt;div&gt;GooglWebhook&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
-          <mxGeometry x="1848.9999999999998" y="-1705" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="6WxV5IsqMjqwyqQSDEPg-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2137" y="-2002" as="sourcePoint" />
-            <mxPoint x="2187" y="-2052" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2187" y="-2002" />
-              <mxPoint x="2137" y="-2052" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6WxV5IsqMjqwyqQSDEPg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-47" target="tX3aTPhCc9lYNagWoQMi-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1244" y="-1970" />
-              <mxPoint x="1584" y="-1970" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6WxV5IsqMjqwyqQSDEPg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-39" target="6WxV5IsqMjqwyqQSDEPg-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1611" y="-1666" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
