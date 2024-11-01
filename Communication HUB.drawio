@@ -6527,11 +6527,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vt4KyCMOam8Li6g5BMlQ" name="Página-8">
-    <mxGraphModel dx="3088" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4261" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="x8vjBDdSD3rTsbFcJHUK-1" value="Push Notifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x8vjBDdSD3rTsbFcJHUK-1" value="Push Notifications" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-930" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x8vjBDdSD3rTsbFcJHUK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x8vjBDdSD3rTsbFcJHUK-2" target="x8vjBDdSD3rTsbFcJHUK-4">
@@ -6665,7 +6665,7 @@
         <mxCell id="x8vjBDdSD3rTsbFcJHUK-47" value="Kakfa&lt;div&gt;Azure&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-650" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x8vjBDdSD3rTsbFcJHUK-50" value="Google RCS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x8vjBDdSD3rTsbFcJHUK-50" value="Google RCS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x8vjBDdSD3rTsbFcJHUK-77" value="AS is&lt;div&gt;SendMessage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
