@@ -6738,9 +6738,6 @@
         <mxCell id="x8vjBDdSD3rTsbFcJHUK-93" value="AS is&lt;div&gt;Webhook&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="526" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x8vjBDdSD3rTsbFcJHUK-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x8vjBDdSD3rTsbFcJHUK-96" target="x8vjBDdSD3rTsbFcJHUK-98">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="x8vjBDdSD3rTsbFcJHUK-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x8vjBDdSD3rTsbFcJHUK-96" target="x8vjBDdSD3rTsbFcJHUK-104">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -6757,7 +6754,7 @@
         <mxCell id="x8vjBDdSD3rTsbFcJHUK-98" value="WSO2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="616" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x8vjBDdSD3rTsbFcJHUK-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x8vjBDdSD3rTsbFcJHUK-100" target="x8vjBDdSD3rTsbFcJHUK-96">
+        <mxCell id="x8vjBDdSD3rTsbFcJHUK-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="x8vjBDdSD3rTsbFcJHUK-100" target="x8vjBDdSD3rTsbFcJHUK-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x8vjBDdSD3rTsbFcJHUK-100" value="Clientes&lt;div&gt;Aplicaciones de ATT&lt;/div&gt;&lt;div&gt;(Live Marketing)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
