@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="709" dy="3578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="3724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -1722,23 +1722,6 @@
         <mxCell id="tX3aTPhCc9lYNagWoQMi-115" value="WebhookRCS&lt;div&gt;3&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="BZHXoxl5hgpx4tHaMhNq-4" vertex="1">
           <mxGeometry x="187" y="55.99999999999994" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BZHXoxl5hgpx4tHaMhNq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF00FF;strokeWidth=2;" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-62" target="BZHXoxl5hgpx4tHaMhNq-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2726" y="-2357" />
-              <mxPoint x="2726" y="-2221" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="smpYG_lCh_IuM0ooRHqe-8" value="" style="group" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1" connectable="0">
-          <mxGeometry x="3082" y="-2250" width="150.5" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="BZHXoxl5hgpx4tHaMhNq-16" value="Git On Premise" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" parent="smpYG_lCh_IuM0ooRHqe-8" vertex="1">
-          <mxGeometry width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BZHXoxl5hgpx4tHaMhNq-19" value="dev/config&lt;div&gt;stage/config&lt;/div&gt;&lt;div&gt;prod/config&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="smpYG_lCh_IuM0ooRHqe-8" vertex="1">
-          <mxGeometry x="59.5" y="6" width="91" height="47" as="geometry" />
-        </mxCell>
         <mxCell id="4lHvX6di_a0Wbk1IiX-2-1" value="webhook Notifier&lt;div&gt;3&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
           <mxGeometry x="2314" y="-2361" width="50" height="48" as="geometry" />
         </mxCell>
@@ -1784,8 +1767,17 @@
         <mxCell id="7qlREXe0TTZ5gkkXTGcR-0" value="ECR" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="2250" y="-1994" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="7qlREXe0TTZ5gkkXTGcR-2" value="AT&amp;amp;T On-Premise" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
-          <mxGeometry x="3053" y="-2450" width="130" height="130" as="geometry" />
+        <mxCell id="7qlREXe0TTZ5gkkXTGcR-5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="tX3aTPhCc9lYNagWoQMi-62" target="7qlREXe0TTZ5gkkXTGcR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7qlREXe0TTZ5gkkXTGcR-7" value="" style="group" vertex="1" connectable="0" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="3053" y="-2376" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7qlREXe0TTZ5gkkXTGcR-4" value="On-Premise" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="7qlREXe0TTZ5gkkXTGcR-7">
+          <mxGeometry width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7qlREXe0TTZ5gkkXTGcR-6" value="GIT On Premise" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="7qlREXe0TTZ5gkkXTGcR-7">
+          <mxGeometry x="38" y="40" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
