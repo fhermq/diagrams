@@ -1794,7 +1794,7 @@
         <mxCell id="M2zo6NZ_K7U-hMlDbOgH-0" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.peering;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
           <mxGeometry x="2551.0000000000005" y="-2155" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="7qlREXe0TTZ5gkkXTGcR-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.policy;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+        <mxCell id="7qlREXe0TTZ5gkkXTGcR-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.policy;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="1986.42" y="-2131" width="43.07" height="37" as="geometry" />
         </mxCell>
       </root>
