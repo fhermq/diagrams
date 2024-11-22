@@ -1816,11 +1816,29 @@
         <mxCell id="FenfJ8lWp0tTr2WsgdJr-4" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="FenfJ8lWp0tTr2WsgdJr-1" target="FenfJ8lWp0tTr2WsgdJr-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FenfJ8lWp0tTr2WsgdJr-8" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="FenfJ8lWp0tTr2WsgdJr-1" target="FenfJ8lWp0tTr2WsgdJr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FenfJ8lWp0tTr2WsgdJr-1" value="Roles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="3988" y="-2200.63" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FenfJ8lWp0tTr2WsgdJr-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="FenfJ8lWp0tTr2WsgdJr-3" target="FenfJ8lWp0tTr2WsgdJr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FenfJ8lWp0tTr2WsgdJr-3" value="DeployCommunicationHub" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="4165" y="-2376" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FenfJ8lWp0tTr2WsgdJr-5" value="Rol para poder impelemtar la IaC de Terraform" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="4365" y="-2376" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FenfJ8lWp0tTr2WsgdJr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="FenfJ8lWp0tTr2WsgdJr-7" target="FenfJ8lWp0tTr2WsgdJr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FenfJ8lWp0tTr2WsgdJr-7" value="DeployMicroServices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="4165" y="-2297.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FenfJ8lWp0tTr2WsgdJr-9" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Permisos para deployar micro servicios en fargate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="4365" y="-2297.06" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
