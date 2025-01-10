@@ -1311,7 +1311,7 @@
         <mxCell id="M2zo6NZ_K7U-hMlDbOgH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00CC00;strokeWidth=2;" parent="l0LAmyuj-OCzAB9VSSDm-1" source="0BLr1ntbOdI37X4sX1vV-3" target="tX3aTPhCc9lYNagWoQMi-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0BLr1ntbOdI37X4sX1vV-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.peering;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
+        <mxCell id="0BLr1ntbOdI37X4sX1vV-3" value="peering" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.peering;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
           <mxGeometry x="2551.9700000000003" y="-2442" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="M2zo6NZ_K7U-hMlDbOgH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;strokeWidth=2;" parent="l0LAmyuj-OCzAB9VSSDm-1" source="0BLr1ntbOdI37X4sX1vV-4" target="0BLr1ntbOdI37X4sX1vV-0" edge="1">
