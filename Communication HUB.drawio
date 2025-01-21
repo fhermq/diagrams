@@ -6341,7 +6341,7 @@
         <mxCell id="6PGZuMb06o7wCCYI5P-i-1" value="Communication Hub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6PGZuMb06o7wCCYI5P-i-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6PGZuMb06o7wCCYI5P-i-2" target="6PGZuMb06o7wCCYI5P-i-1">
+        <mxCell id="6PGZuMb06o7wCCYI5P-i-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6PGZuMb06o7wCCYI5P-i-2" target="6PGZuMb06o7wCCYI5P-i-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6PGZuMb06o7wCCYI5P-i-2" value="Live Marketing&lt;div&gt;u Otras APPs&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
