@@ -1412,13 +1412,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9fch6xa1vWRoyTAwIRgL-17" value="internet" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
-          <mxGeometry x="1722" y="-760" width="79.5" height="79.5" as="geometry" />
+          <mxGeometry x="1764" y="-758.5" width="79.5" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="9fch6xa1vWRoyTAwIRgL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="9fch6xa1vWRoyTAwIRgL-18" target="9fch6xa1vWRoyTAwIRgL-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9fch6xa1vWRoyTAwIRgL-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
-          <mxGeometry x="1548" y="-760" width="41" height="78" as="geometry" />
+          <mxGeometry x="1549" y="-757" width="41" height="78" as="geometry" />
         </mxCell>
         <mxCell id="9fch6xa1vWRoyTAwIRgL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="9fch6xa1vWRoyTAwIRgL-19" target="9fch6xa1vWRoyTAwIRgL-10">
           <mxGeometry relative="1" as="geometry" />
@@ -1433,7 +1433,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9fch6xa1vWRoyTAwIRgL-32" value="https://admin-contentmanager.mx.att.com/private" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudfront;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
-          <mxGeometry x="1801.5" y="-1028" width="78" height="78" as="geometry" />
+          <mxGeometry x="1770" y="-1028" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="9fch6xa1vWRoyTAwIRgL-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="9fch6xa1vWRoyTAwIRgL-34" target="9fch6xa1vWRoyTAwIRgL-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fch6xa1vWRoyTAwIRgL-34" value="Admon&lt;div&gt;Content&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=user" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="1537.21" y="-1020" width="64.58" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
