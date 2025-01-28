@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="447" dy="3443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="3724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -1488,6 +1488,9 @@
         </mxCell>
         <mxCell id="nEzcTAaDVpq4VEdpEpsC-23" value="Administrador" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="1608" y="-1021.5" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="nEzcTAaDVpq4VEdpEpsC-30" value="&lt;font color=&quot;#000000&quot;&gt;vpc-tbd/ VPC-CONTENTMANAGEMENT-DEV&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#3907FF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="2690.19" y="-1183" width="238.81" height="377" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
