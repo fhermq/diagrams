@@ -40,7 +40,7 @@
         <mxCell id="kIFRUREvjJaYd9ezVtCr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kIFRUREvjJaYd9ezVtCr-15" target="kIFRUREvjJaYd9ezVtCr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kIFRUREvjJaYd9ezVtCr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kIFRUREvjJaYd9ezVtCr-15" target="kIFRUREvjJaYd9ezVtCr-48">
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="kIFRUREvjJaYd9ezVtCr-15" target="kIFRUREvjJaYd9ezVtCr-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kIFRUREvjJaYd9ezVtCr-15" value="Live Marketing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -85,11 +85,11 @@
         <mxCell id="kIFRUREvjJaYd9ezVtCr-48" value="Envio de mensajes por medio de CHUB utilizando plantillas existentes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="357.26" y="80" width="217" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kIFRUREvjJaYd9ezVtCr-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kIFRUREvjJaYd9ezVtCr-50" target="kIFRUREvjJaYd9ezVtCr-40">
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="kIFRUREvjJaYd9ezVtCr-50" target="kIFRUREvjJaYd9ezVtCr-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kIFRUREvjJaYd9ezVtCr-50" value="Creación de plantillas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65.24" y="340" width="102.03" height="30" as="geometry" />
+          <mxGeometry x="65.24" y="305" width="102.03" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kIFRUREvjJaYd9ezVtCr-52" value="Ver 2" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/forall/1062/window-128.png" vertex="1" parent="1">
           <mxGeometry x="150" y="327.5" width="55" height="55" as="geometry" />
