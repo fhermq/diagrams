@@ -22,6 +22,9 @@
         <mxCell id="kIFRUREvjJaYd9ezVtCr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIFRUREvjJaYd9ezVtCr-4" target="kIFRUREvjJaYd9ezVtCr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="kIFRUREvjJaYd9ezVtCr-4" target="kIFRUREvjJaYd9ezVtCr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kIFRUREvjJaYd9ezVtCr-4" value="API Manager" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wso2.cachefly.net/wso2/sites/images/brand/wso2-logo.png;" vertex="1" parent="1">
           <mxGeometry x="200" y="350" width="91.49" height="50" as="geometry" />
         </mxCell>
@@ -32,10 +35,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kIFRUREvjJaYd9ezVtCr-15" value="Live Marketing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="345" width="120" height="60" as="geometry" />
+          <mxGeometry x="185.74" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kIFRUREvjJaYd9ezVtCr-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;API - Plantillas&lt;/h1&gt;&lt;div&gt;Create&lt;/div&gt;&lt;div&gt;Read&lt;/div&gt;&lt;div&gt;Update&lt;/div&gt;&lt;div&gt;Delete&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="490" width="180" height="120" as="geometry" />
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;API&lt;/h1&gt;&lt;div&gt;Create&lt;/div&gt;&lt;div&gt;Read&lt;/div&gt;&lt;div&gt;Update&lt;/div&gt;&lt;div&gt;Delete&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIFRUREvjJaYd9ezVtCr-19" target="kIFRUREvjJaYd9ezVtCr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="47.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
