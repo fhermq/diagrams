@@ -70,6 +70,9 @@
         <mxCell id="kIFRUREvjJaYd9ezVtCr-40" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="92.5" y="205" width="47.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-45" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json" vertex="1" parent="1">
+          <mxGeometry x="158" y="250" width="36.94" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
