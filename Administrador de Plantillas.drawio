@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Página-1" id="I--uYjoeAKg2iHmLg4aw">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="896" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,6 +40,9 @@
         <mxCell id="kIFRUREvjJaYd9ezVtCr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kIFRUREvjJaYd9ezVtCr-15" target="kIFRUREvjJaYd9ezVtCr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kIFRUREvjJaYd9ezVtCr-15" target="kIFRUREvjJaYd9ezVtCr-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kIFRUREvjJaYd9ezVtCr-15" value="Live Marketing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="65" width="120" height="60" as="geometry" />
         </mxCell>
@@ -70,7 +73,7 @@
         <mxCell id="kIFRUREvjJaYd9ezVtCr-40" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="92.5" y="205" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kIFRUREvjJaYd9ezVtCr-45" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json" vertex="1" parent="1">
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-45" value="Ver 1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json" vertex="1" parent="1">
           <mxGeometry x="158" y="250" width="36.94" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kIFRUREvjJaYd9ezVtCr-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kIFRUREvjJaYd9ezVtCr-46" target="kIFRUREvjJaYd9ezVtCr-19">
@@ -78,6 +81,18 @@
         </mxCell>
         <mxCell id="kIFRUREvjJaYd9ezVtCr-46" value="Google RCS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="113.75" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-48" value="Envio de mensajes por medio de CHUB utilizando plantillas existentes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357.26" y="80" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kIFRUREvjJaYd9ezVtCr-50" target="kIFRUREvjJaYd9ezVtCr-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-50" value="Creación de plantillas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65.24" y="340" width="102.03" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kIFRUREvjJaYd9ezVtCr-52" value="Ver 2" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/forall/1062/window-128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="327.5" width="55" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
