@@ -1310,11 +1310,6 @@
         <mxCell id="nRLCe8-GYssvjVOmLAve-17" value="CONTENTMANAGEMENT" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="nRLCe8-GYssvjVOmLAve-16">
           <mxGeometry x="54.00000000000009" y="45.80999999999986" width="76.7" height="76.7" as="geometry" />
         </mxCell>
-        <mxCell id="nRLCe8-GYssvjVOmLAve-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" target="nRLCe8-GYssvjVOmLAve-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3015.9991136766507" y="36.84210526315792" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nRLCe8-GYssvjVOmLAve-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="nRLCe8-GYssvjVOmLAve-23" target="nRLCe8-GYssvjVOmLAve-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
