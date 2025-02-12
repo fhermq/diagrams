@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="312" dy="2585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-353" dy="2243" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -1328,7 +1328,7 @@
         <mxCell id="nRLCe8-GYssvjVOmLAve-28" value="&lt;font color=&quot;#000000&quot;&gt;vpc-tbd/ VPC-CONTENTMANAGEMENT-DEV&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#3907FF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="2586" y="-158" width="443" height="377" as="geometry" />
         </mxCell>
-        <mxCell id="nRLCe8-GYssvjVOmLAve-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Capacidades&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;API TMF667&amp;nbsp;Document Management API&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;POST&lt;/li&gt;&lt;li&gt;PATCH&lt;/li&gt;&lt;li&gt;DELETE&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cargar Imágen S3 (multipart)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Generación de imágenes pequeñas(iconos)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Generacion de presign URL publica.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+        <mxCell id="nRLCe8-GYssvjVOmLAve-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Capacidades&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;TMF667&amp;nbsp;Document Management API&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;POST&lt;/li&gt;&lt;li&gt;PATCH&lt;/li&gt;&lt;li&gt;DELETE&lt;/li&gt;&lt;li&gt;GET&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cargar Imágen S3 (multipart)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Generación de imágenes pequeñas(iconos)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Generacion de presign URL publica.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="3528" y="-232" width="327" height="222" as="geometry" />
         </mxCell>
         <mxCell id="nRLCe8-GYssvjVOmLAve-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="nRLCe8-GYssvjVOmLAve-36" target="nRLCe8-GYssvjVOmLAve-34">
