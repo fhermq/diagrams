@@ -1352,7 +1352,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRLCe8-GYssvjVOmLAve-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="nRLCe8-GYssvjVOmLAve-31" target="nRLCe8-GYssvjVOmLAve-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2963" y="36" />
+              <mxPoint x="2963" y="121" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nRLCe8-GYssvjVOmLAve-31" value="Document Management API&lt;div&gt;TMF667&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="2656" width="69" height="72" as="geometry" />
