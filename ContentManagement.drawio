@@ -1268,7 +1268,7 @@
           <mxGeometry x="2478" y="323.75" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="nRLCe8-GYssvjVOmLAve-6" value="WSO2&lt;div&gt;API Manager&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" parent="l0LAmyuj-OCzAB9VSSDm-1" vertex="1">
-          <mxGeometry x="2123" y="-3" width="78" height="78" as="geometry" />
+          <mxGeometry x="2258" y="-3" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="nRLCe8-GYssvjVOmLAve-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="l0LAmyuj-OCzAB9VSSDm-1" source="nRLCe8-GYssvjVOmLAve-8" target="nRLCe8-GYssvjVOmLAve-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1387,7 +1387,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-j1IXxzj_chfxG-dcrux-0" value="https://admin-document-management.mx.att.com/" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudfront;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
-          <mxGeometry x="2014" y="-6" width="78" height="78" as="geometry" />
+          <mxGeometry x="2075" y="-3" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
