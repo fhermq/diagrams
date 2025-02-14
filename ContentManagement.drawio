@@ -1686,7 +1686,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17axZ0I9HA6gSQ8tR_Oj-143" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
-          <mxGeometry x="4495" y="-2788" width="79.5" height="79.5" as="geometry" />
+          <mxGeometry x="4502" y="-2780" width="79.5" height="79.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
