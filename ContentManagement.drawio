@@ -1586,6 +1586,12 @@
         <mxCell id="17axZ0I9HA6gSQ8tR_Oj-102" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.authentication_google;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
           <mxGeometry x="5005" y="-2657" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="17axZ0I9HA6gSQ8tR_Oj-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="17axZ0I9HA6gSQ8tR_Oj-103" target="17axZ0I9HA6gSQ8tR_Oj-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17axZ0I9HA6gSQ8tR_Oj-103" value="Document Management API&lt;div&gt;TMF667&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="5268" y="-2668" width="69" height="72" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
