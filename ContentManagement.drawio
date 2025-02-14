@@ -1612,7 +1612,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="17axZ0I9HA6gSQ8tR_Oj-132" value="VPC" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="17axZ0I9HA6gSQ8tR_Oj-109">
-          <mxGeometry x="62" y="51" width="741" height="478" as="geometry" />
+          <mxGeometry x="62" y="51" width="741" height="495" as="geometry" />
         </mxCell>
         <mxCell id="17axZ0I9HA6gSQ8tR_Oj-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="17axZ0I9HA6gSQ8tR_Oj-95" target="17axZ0I9HA6gSQ8tR_Oj-105">
           <mxGeometry relative="1" as="geometry">
