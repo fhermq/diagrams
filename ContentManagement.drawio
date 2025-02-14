@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="790" dy="4500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="87" dy="4118" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -1567,10 +1567,10 @@
         <mxCell id="17axZ0I9HA6gSQ8tR_Oj-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="17axZ0I9HA6gSQ8tR_Oj-154" target="17axZ0I9HA6gSQ8tR_Oj-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="17axZ0I9HA6gSQ8tR_Oj-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="17axZ0I9HA6gSQ8tR_Oj-100" target="17axZ0I9HA6gSQ8tR_Oj-138">
+        <mxCell id="17axZ0I9HA6gSQ8tR_Oj-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="17axZ0I9HA6gSQ8tR_Oj-100" target="17axZ0I9HA6gSQ8tR_Oj-138">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="17axZ0I9HA6gSQ8tR_Oj-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="17axZ0I9HA6gSQ8tR_Oj-116" target="17axZ0I9HA6gSQ8tR_Oj-138">
+        <mxCell id="17axZ0I9HA6gSQ8tR_Oj-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="17axZ0I9HA6gSQ8tR_Oj-116" target="17axZ0I9HA6gSQ8tR_Oj-138">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17axZ0I9HA6gSQ8tR_Oj-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="17axZ0I9HA6gSQ8tR_Oj-153" target="17axZ0I9HA6gSQ8tR_Oj-171">
