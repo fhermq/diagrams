@@ -1482,9 +1482,6 @@
         <mxCell id="17axZ0I9HA6gSQ8tR_Oj-67" value="CONTENTMANAGEMENT" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="17axZ0I9HA6gSQ8tR_Oj-66">
           <mxGeometry x="54.00000000000009" y="45.80999999999986" width="76.7" height="76.7" as="geometry" />
         </mxCell>
-        <mxCell id="17axZ0I9HA6gSQ8tR_Oj-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="17axZ0I9HA6gSQ8tR_Oj-71" target="17axZ0I9HA6gSQ8tR_Oj-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="17axZ0I9HA6gSQ8tR_Oj-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;strokeColor=#0000FF;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="17axZ0I9HA6gSQ8tR_Oj-71" target="17axZ0I9HA6gSQ8tR_Oj-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
