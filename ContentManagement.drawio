@@ -1584,7 +1584,7 @@
           <mxGeometry x="4390" y="-2504" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="17axZ0I9HA6gSQ8tR_Oj-102" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.authentication_google;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
-          <mxGeometry x="5051" y="-2705" width="50" height="50" as="geometry" />
+          <mxGeometry x="5005" y="-2657" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
