@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="AWS Architechture" id="DbSz0WXTsNG_kECqhFHy">
-    <mxGraphModel dx="449" dy="4256" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-166" dy="3939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-0" />
         <mxCell id="l0LAmyuj-OCzAB9VSSDm-1" parent="l0LAmyuj-OCzAB9VSSDm-0" />
@@ -1635,6 +1635,15 @@
               <mxPoint x="4208" y="-2012" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LK0NvF8q6iA3iPVOQzL1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l0LAmyuj-OCzAB9VSSDm-1" source="LK0NvF8q6iA3iPVOQzL1-6" target="LK0NvF8q6iA3iPVOQzL1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LK0NvF8q6iA3iPVOQzL1-6" value="Paso 1&lt;div&gt;S3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="4780" y="-2213" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LK0NvF8q6iA3iPVOQzL1-7" value="Paso 2&lt;div&gt;BD&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l0LAmyuj-OCzAB9VSSDm-1">
+          <mxGeometry x="4780" y="-2073" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
